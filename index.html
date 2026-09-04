@@ -133,7 +133,7 @@
       .footer-logo-image {
         display: block;
         width: auto;
-        height: 28px;
+        height: 44px;
       }
 
       .footer-links {
@@ -144,14 +144,22 @@
       }
 
       .footer-links a {
-        color: #8fbcff;
+        padding: 0.55rem 1rem;
+        border: 1px solid rgb(174 177 183 / 0.1);
+        border-radius: 999px;
+        background: transparent;
+        box-shadow: 2px 2px 0 rgb(174 177 183 / 0.35);
+        color: var(--primary-color);
+        font-family: "Nunito", "Arial Rounded MT Bold", Arial, sans-serif;
         font-weight: 600;
         text-decoration: none;
-        transition: color 0.3s, opacity 0.3s;
+        transition: border-color 0.3s, color 0.3s;
       }
 
-      .footer-links a:hover {
+      .footer-links a:hover,
+      .footer-links a:focus-visible {
         color: #c9ddff;
+        border-color: #c9ddff;
       }
 
       .footer-copyright {
@@ -178,11 +186,11 @@
     <footer class="site-footer">
       <div class="container">
         <div class="footer-content">
-          <p class="footer-text">decent.band is coming soon.</p>
+          <p class="footer-text">Building a more decent web, one project at a time.</p>
           <div class="footer-decent">
-            <div class="footer-brand">
-              <img src="./assets/images/decent.png" alt="decent" class="footer-logo-image" />
-            </div>
+            <a class="footer-brand" href="https://decentsoftware.llc/" aria-label="Decent Software LLC">
+              <img src="./assets/images/decent.png" alt="Decent" class="footer-logo-image" />
+            </a>
             <nav class="footer-links" aria-label="Other Decent sites">
               <a href="https://decent.apartments/" target="_blank" rel="noopener">Apartments</a>
               <a href="https://decent.charity/" target="_blank" rel="noopener">Charity</a>
@@ -191,7 +199,7 @@
               <a href="https://decent.food/" target="_blank" rel="noopener">Food</a>
             </nav>
           </div>
-          <p class="footer-copyright">© 2026 decent.band. All rights reserved.</p>
+          <p class="footer-copyright">© 2026 Decent Software LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
