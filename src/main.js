@@ -13,10 +13,18 @@ const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)
 let spinFrame;
 let previousSpinTime;
 let spinEnabled = !prefersReducedMotion;
+let artistDirectory = [];
 
 const mapStatus = document.querySelector("#map-status");
 const artistCount = document.querySelector("#artist-count");
 const intro = document.querySelector("#map-intro");
+const mapElement = document.querySelector("#map");
+const listView = document.querySelector("#list-view");
+const listContainer = document.querySelector("#artist-directory");
+const sortSelect = document.querySelector("#artist-sort");
+const mapViewButton = document.querySelector("#map-view-button");
+const listViewButton = document.querySelector("#list-view-button");
+const resetViewButton = document.querySelector("#reset-view");
 
 const map = new Map({
   container: "map",
@@ -60,6 +68,15 @@ map.on("load", async () => {
     const totalArtists = geojson.metadata?.artistCount ??
       geojson.features.reduce((sum, feature) => sum + Number(feature.properties.artistCount || 0), 0);
     artistCount.textContent = `${totalArtists} artists · ${geojson.features.length} hometowns`;
+    artistDirectory = geojson.features.flatMap((feature) =>
+      parseArtists(feature.properties.artists).map((artist) => ({
+        ...artist,
+        hometown: feature.properties.hometown,
+      })),
+    );
+    document.querySelector("#list-summary").textContent =
+      `${totalArtists} artists from ${geojson.features.length} hometowns`;
+    renderArtistDirectory();
 
     map.addSource(SOURCE_ID, {
       type: "geojson",
@@ -175,13 +192,17 @@ map.on("error", (event) => {
   console.error(event.error);
 });
 
-document.querySelector("#reset-view").addEventListener("click", () => {
+resetViewButton.addEventListener("click", () => {
   stopGlobeSpin();
   spinEnabled = !prefersReducedMotion;
   previousSpinTime = undefined;
   map.flyTo({ ...INITIAL_VIEW, duration: 1200 });
   map.once("moveend", startGlobeSpin);
 });
+
+mapViewButton.addEventListener("click", () => setView("map"));
+listViewButton.addEventListener("click", () => setView("list"));
+sortSelect.addEventListener("change", renderArtistDirectory);
 
 document.querySelector("#dismiss-intro").addEventListener("click", () => {
   intro.hidden = true;
@@ -239,6 +260,77 @@ function buildArtistPopup(hometown, artists) {
 
   popup.append(list);
   return popup;
+}
+
+function setView(view) {
+  const showList = view === "list";
+  listView.hidden = !showList;
+  mapElement.hidden = showList;
+  intro.hidden = true;
+  mapViewButton.classList.toggle("is-active", !showList);
+  listViewButton.classList.toggle("is-active", showList);
+  mapViewButton.setAttribute("aria-pressed", String(!showList));
+  listViewButton.setAttribute("aria-pressed", String(showList));
+  resetViewButton.hidden = showList;
+
+  if (showList) {
+    stopGlobeSpin();
+    listView.querySelector("h1").focus({ preventScroll: true });
+  } else {
+    map.resize();
+    spinEnabled = !prefersReducedMotion;
+    previousSpinTime = undefined;
+    startGlobeSpin();
+    map.getCanvas().focus();
+  }
+}
+
+function renderArtistDirectory() {
+  const sortBy = sortSelect.value;
+  const sortedArtists = [...artistDirectory].sort((a, b) => {
+    const values = {
+      artist: [a.name, b.name],
+      genre: [a.genre, b.genre],
+      location: [a.hometown, b.hometown],
+    }[sortBy];
+    return values[0].localeCompare(values[1], undefined, { sensitivity: "base" }) ||
+      a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+  });
+
+  listContainer.replaceChildren(...sortedArtists.map(buildDirectoryRow));
+}
+
+function buildDirectoryRow(artist) {
+  const article = document.createElement("article");
+  article.className = "directory-row";
+
+  const rank = document.createElement("span");
+  rank.className = "directory-row__rank";
+  rank.textContent = String(artist.rank).padStart(3, "0");
+
+  const identity = document.createElement("div");
+  identity.className = "directory-row__identity";
+  const name = document.createElement("h2");
+  name.textContent = artist.name;
+  const notes = document.createElement("p");
+  notes.textContent = artist.notes;
+  identity.append(name, notes);
+
+  const genre = buildDirectoryField("Genre", artist.genre);
+  const location = buildDirectoryField("Hometown", artist.hometown);
+  article.append(rank, identity, genre, location);
+  return article;
+}
+
+function buildDirectoryField(label, value) {
+  const field = document.createElement("div");
+  field.className = "directory-row__field";
+  const heading = document.createElement("span");
+  heading.textContent = label;
+  const content = document.createElement("p");
+  content.textContent = value;
+  field.append(heading, content);
+  return field;
 }
 
 function parseArtists(value) {

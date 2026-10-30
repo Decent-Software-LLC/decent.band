@@ -31,7 +31,11 @@
         <div class="header-actions">
           <span class="header-label">Global artist index</span>
           <span class="artist-count" id="artist-count" aria-live="polite">Loading artists…</span>
-          <button class="reset-button" id="reset-view" type="button">View globe</button>
+          <div class="view-switcher" aria-label="Choose a view">
+            <button class="view-button is-active" id="map-view-button" type="button" aria-pressed="true">Map</button>
+            <button class="view-button" id="list-view-button" type="button" aria-pressed="false">List</button>
+          </div>
+          <button class="reset-button" id="reset-view" type="button">Reset globe</button>
         </div>
       </header>
 
@@ -46,6 +50,24 @@
           <div class="panel-corner" aria-hidden="true"></div>
         </section>
         <div class="map-status" id="map-status" role="status">Preparing the globe…</div>
+        <section class="list-view" id="list-view" aria-labelledby="list-heading" hidden>
+          <div class="list-view__header">
+            <div>
+              <p class="eyebrow">Artist directory</p>
+              <h1 id="list-heading" tabindex="-1">Global artist list</h1>
+              <p id="list-summary">300 artists from 161 hometowns</p>
+            </div>
+            <label class="sort-control" for="artist-sort">
+              <span>Sort by</span>
+              <select id="artist-sort">
+                <option value="artist">Artist A–Z</option>
+                <option value="genre">Genre A–Z</option>
+                <option value="location">Location A–Z</option>
+              </select>
+            </label>
+          </div>
+          <div class="artist-directory" id="artist-directory" aria-live="polite"></div>
+        </section>
       </main>
     </div>
 
