@@ -1,0 +1,2909 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "artistCount": 300,
+    "hometownCount": 161,
+    "unresolvedHometowns": [],
+    "source": "top_300_billboard_global_200_performers_2023_2026.csv"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.815722,
+          46.975371
+        ]
+      },
+      "properties": {
+        "hometown": "Aberdeen, Washington, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 118,
+        "artists": "[{\"rank\":118,\"name\":\"Nirvana\",\"slug\":\"nirvana\",\"genre\":\"Grunge / Rock\",\"country\":\"United States\",\"notes\":\"American grunge band; legacy 'Nevermind' (1991). Chart-name variants: Nirvana (x154)\",\"weeksCharted\":154,\"chartedSongs\":2,\"peakPosition\":72}]",
+        "geocodeLabel": "Aberdeen, Grays Harbor County, Washington, 98520, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2779715,
+          51.6714842
+        ]
+      },
+      "properties": {
+        "hometown": "Abingdon, Oxfordshire, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 52,
+        "artists": "[{\"rank\":52,\"name\":\"Radiohead\",\"slug\":\"radiohead\",\"genre\":\"Alternative rock\",\"country\":\"United Kingdom\",\"notes\":\"British alternative-rock band; 'Everything in Right Now' (2024). Chart-name variants: Radiohead (x196)\",\"weeksCharted\":196,\"chartedSongs\":2,\"peakPosition\":26}]",
+        "geocodeLabel": "Abingdon, Vale of White Horse, Oxfordshire, England, OX14 3UJ, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7655456,
+          34.1481692
+        ]
+      },
+      "properties": {
+        "hometown": "Agoura Hills, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 28,
+        "artists": "[{\"rank\":28,\"name\":\"Linkin Park\",\"slug\":\"linkin-park\",\"genre\":\"Nu-metal / Alternative\",\"country\":\"United States\",\"notes\":\"American nu-metal band; 'From Zero' (2024). Chart-name variants: Linkin Park (x372)\",\"weeksCharted\":372,\"chartedSongs\":18,\"peakPosition\":3}]",
+        "geocodeLabel": "Agoura Hills, Los Angeles County, California, 91301, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4026597,
+          23.2627649
+        ]
+      },
+      "properties": {
+        "hometown": "Ahome (Ciudad Obregon), Sinaloa, Mexico",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 12,
+        "artists": "[{\"rank\":12,\"name\":\"Peso Pluma\",\"slug\":\"peso-pluma\",\"genre\":\"Corridos tumbados / Reggaeton\",\"country\":\"Mexico\",\"notes\":\"Mexican corridos-tumbados artist; 'Giros' (2023). Chart-name variants: Peso Pluma (x684)\",\"weeksCharted\":684,\"chartedSongs\":52,\"peakPosition\":1}]",
+        "geocodeLabel": "Calle Ciudad Obregón, Las Brisas, Mazatlán, Sinaloa, 82000, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1653207,
+          -33.8064672
+        ]
+      },
+      "properties": {
+        "hometown": "Albany, New South Wales, Australia",
+        "countries": "Australia",
+        "artistCount": 1,
+        "topRank": 122,
+        "artists": "[{\"rank\":122,\"name\":\"Sia\",\"slug\":\"sia\",\"genre\":\"Pop / Electronic\",\"country\":\"Australia\",\"notes\":\"Australian pop/electronic artist; 'I'll Be There' (2023). Chart-name variants: Sia (x109)\",\"weeksCharted\":109,\"chartedSongs\":6,\"peakPosition\":11}]",
+        "geocodeLabel": "Albany, 512-514, Mowbray Road, Lane Cove North, Lower North Shore, Sydney, New South Wales, 2066, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8924534,
+          52.3730796
+        ]
+      },
+      "properties": {
+        "hometown": "Amsterdam, Netherlands",
+        "countries": "Netherlands",
+        "artistCount": 1,
+        "topRank": 300,
+        "artists": "[{\"rank\":300,\"name\":\"Tiesto\",\"slug\":\"tiesto\",\"genre\":\"Electronic / Dance\",\"country\":\"Netherlands\",\"notes\":\"Dutch DJ/producer; legacy 'Secrets' (2014). Chart-name variants: Tiesto (x38)\",\"weeksCharted\":38,\"chartedSongs\":3,\"peakPosition\":24}]",
+        "geocodeLabel": "Amsterdam, Noord-Holland, Nederland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "hometown": "Atlanta, Georgia, USA",
+        "countries": "United States",
+        "artistCount": 10,
+        "topRank": 54,
+        "artists": "[{\"rank\":54,\"name\":\"Playboi Carti\",\"slug\":\"playboi-carti\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'MUSIC' (2024). Chart-name variants: Playboi Carti (x329)\",\"weeksCharted\":329,\"chartedSongs\":38,\"peakPosition\":2},{\"rank\":72,\"name\":\"21 Savage\",\"slug\":\"21-savage\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American-UK rapper; 'American Dream' (2024). Chart-name variants: 21 Savage (x230)\",\"weeksCharted\":230,\"chartedSongs\":33,\"peakPosition\":5},{\"rank\":93,\"name\":\"Metro Boomin\",\"slug\":\"metro-boomin\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American hip-hop producer; 'BUTTERFLY EFFECT' (2024). Chart-name variants: Metro Boomin (x298)\",\"weeksCharted\":298,\"chartedSongs\":42,\"peakPosition\":1},{\"rank\":104,\"name\":\"Future\",\"slug\":\"future\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American rapper; 'DRILLING' (2024). Chart-name variants: Future (x254)\",\"weeksCharted\":254,\"chartedSongs\":57,\"peakPosition\":1},{\"rank\":106,\"name\":\"Tinashe\",\"slug\":\"tinashe\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'I DON'T PLAY 4 THE FEARLESS' (2024). Chart-name variants: Tinashe (x76)\",\"weeksCharted\":76,\"chartedSongs\":2,\"peakPosition\":17},{\"rank\":120,\"name\":\"Tommy Richman\",\"slug\":\"tommy-richman\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'MILLION DOLLAR BABY' (2024). Chart-name variants: Tommy Richman (x59)\",\"weeksCharted\":59,\"chartedSongs\":2,\"peakPosition\":1},{\"rank\":125,\"name\":\"Latto\",\"slug\":\"latto\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; '777' (2023). Chart-name variants: Latto (x145)\",\"weeksCharted\":145,\"chartedSongs\":2,\"peakPosition\":1},{\"rank\":154,\"name\":\"Ty Dolla $ign\",\"slug\":\"ty-dolla-ign\",\"genre\":\"Hip-hop / R&B\",\"country\":\"United States\",\"notes\":\"American rapper; 'SCARY GT' (2023). Chart-name variants: Ty Dolla $ign (x76)\",\"weeksCharted\":76,\"chartedSongs\":22,\"peakPosition\":2},{\"rank\":210,\"name\":\"Lil Baby\",\"slug\":\"lil-baby\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American rapper; legacy 'The Planning' (2020). Chart-name variants: Lil Baby (x42)\",\"weeksCharted\":42,\"chartedSongs\":11,\"peakPosition\":12},{\"rank\":265,\"name\":\"Kyla\",\"slug\":\"kyla\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'I'm the One' (2023). Chart-name variants: Kyla (x93)\",\"weeksCharted\":93,\"chartedSongs\":1,\"peakPosition\":43}]",
+        "geocodeLabel": "Atlanta, Fulton County, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.017838,
+          34.3284948
+        ]
+      },
+      "properties": {
+        "hometown": "Atoka, Oklahoma, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 187,
+        "artists": "[{\"rank\":187,\"name\":\"Brenda Lee\",\"slug\":\"Brenda Lee\",\"genre\":\"Rock and Roll / Pop\",\"country\":\"United States\",\"notes\":\"American rock-and-roll legend; legacy 'I'm Sorry' (1960). Chart-name variants: Brenda Lee (x25) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":25,\"chartedSongs\":1,\"peakPosition\":3}]",
+        "geocodeLabel": "Atoka County, Oklahoma, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7474086,
+          30.2649261
+        ]
+      },
+      "properties": {
+        "hometown": "Austin, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 261,
+        "artists": "[{\"rank\":261,\"name\":\"070 Shake\",\"slug\":\"070-shake\",\"genre\":\"Electronic / Dance\",\"country\":\"United States\",\"notes\":\"American DJ/producer; 'Espresso' (2023). Chart-name variants: 070 Shake (x46)\",\"weeksCharted\":46,\"chartedSongs\":1,\"peakPosition\":7}]",
+        "geocodeLabel": "Austin, Travis County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610759,
+          39.2908816
+        ]
+      },
+      "properties": {
+        "hometown": "Baltimore, Maryland, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 231,
+        "artists": "[{\"rank\":231,\"name\":\"Leon Thomas\",\"slug\":\"Leon Thomas\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'Mama' (2023). Chart-name variants: Leon Thomas (x32) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":32,\"chartedSongs\":1,\"peakPosition\":28}]",
+        "geocodeLabel": "Baltimore, Maryland, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4935089,
+          13.7524938
+        ]
+      },
+      "properties": {
+        "hometown": "Bangkok, Thailand",
+        "countries": "Thailand",
+        "artistCount": 1,
+        "topRank": 234,
+        "artists": "[{\"rank\":234,\"name\":\"LISA\",\"slug\":\"LISA\",\"genre\":\"K-pop\",\"country\":\"Thailand\",\"notes\":\"Thai K-pop artist (BLACKPINK); 'ROCKSTAR' (2024). Chart-name variants: LISA (x24) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":24,\"chartedSongs\":3,\"peakPosition\":4}]",
+        "geocodeLabel": "กรุงเทพมหานคร, ประเทศไทย"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2286019,
+          18.1893496
+        ]
+      },
+      "properties": {
+        "hometown": "Barahona, Dominican Republic",
+        "countries": "Dominican Republic",
+        "artistCount": 1,
+        "topRank": 275,
+        "artists": "[{\"rank\":275,\"name\":\"Romeo Santos\",\"slug\":\"romeo-santos\",\"genre\":\"Bachata / Latin pop\",\"country\":\"Dominican Republic\",\"notes\":\"Dominican bachata artist; legacy 'Propuesta Indecente' (2009). Chart-name variants: Romeo Santos (x43)\",\"weeksCharted\":43,\"chartedSongs\":2,\"peakPosition\":18}]",
+        "geocodeLabel": "Barahona, República Dominicana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.177073,
+          41.3825802
+        ]
+      },
+      "properties": {
+        "hometown": "Barcelona, Spain",
+        "countries": "Spain",
+        "artistCount": 2,
+        "topRank": 205,
+        "artists": "[{\"rank\":205,\"name\":\"ROSALIA\",\"slug\":\"ROSALIA\",\"genre\":\"Flamenco-pop / Latin\",\"country\":\"Spain\",\"notes\":\"Spanish flamenco-pop artist; 'MOTOMAMI' (2022). Chart-name variants: ROSALIA (x35) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":35,\"chartedSongs\":13,\"peakPosition\":23},{\"rank\":290,\"name\":\"ROSALIA & Yahritza y Su Esencia\",\"slug\":\"ROSALIA & Yahritza y Su Esencia\",\"genre\":\"Flamenco-pop / Latin\",\"country\":\"Spain\",\"notes\":\"Spanish flamenco-pop artist with Mexican group; 'Bzrp Music Sessions' (2024). Chart-name variants: ROSALIA & Yahritza y Su Esencia (x15) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":15,\"chartedSongs\":1,\"peakPosition\":12}]",
+        "geocodeLabel": "Barcelona, Barcelonès, Barcelona, Catalunya, España"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8231794,
+          11.0101922
+        ]
+      },
+      "properties": {
+        "hometown": "Barranquilla, Colombia",
+        "countries": "Colombia",
+        "artistCount": 2,
+        "topRank": 69,
+        "artists": "[{\"rank\":69,\"name\":\"Shakira\",\"slug\":\"shakira\",\"genre\":\"Latin pop / Reggaeton\",\"country\":\"Colombia\",\"notes\":\"Colombian pop artist; 'Las K-Gatas' (2024). Chart-name variants: Shakira (x240)\",\"weeksCharted\":240,\"chartedSongs\":13,\"peakPosition\":1},{\"rank\":197,\"name\":\"Maluma\",\"slug\":\"maluma\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artist; 'Pepas' (2021). Chart-name variants: Maluma (x87)\",\"weeksCharted\":87,\"chartedSongs\":5,\"peakPosition\":17}]",
+        "geocodeLabel": "Barranquilla, Atlántico, RAP Caribe, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4583573,
+          51.5702375
+        ]
+      },
+      "properties": {
+        "hometown": "Basildon, Essex, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 79,
+        "artists": "[{\"rank\":79,\"name\":\"Tears for Fears\",\"slug\":\"tears-for-fears\",\"genre\":\"New wave / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British new-wave band; legacy 'Shout' (1984). Chart-name variants: Tears for Fears (x189)\",\"weeksCharted\":189,\"chartedSongs\":1,\"peakPosition\":49}]",
+        "geocodeLabel": "Basildon, Essex, England, SS14 1BE, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3596963,
+          51.3813864
+        ]
+      },
+      "properties": {
+        "hometown": "Bath, England, UK",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 297,
+        "artists": "[{\"rank\":297,\"name\":\"Sam Barber Featuring Avery Anna\",\"slug\":\"Sam Barber Featuring Avery Anna\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist with Avery Anna; 'SICKO MODE' (2023). Chart-name variants: Sam Barber Featuring Avery Anna (x22) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":22,\"chartedSongs\":1,\"peakPosition\":77}]",
+        "geocodeLabel": "Bath, Bath and North East Somerset, West of England, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8881711,
+          43.5962107
+        ]
+      },
+      "properties": {
+        "hometown": "Bay City, Michigan, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 277,
+        "artists": "[{\"rank\":277,\"name\":\"Madonna\",\"slug\":\"madonna\",\"genre\":\"Pop / Dance-pop\",\"country\":\"United States\",\"notes\":\"American pop icon; 'Madame X' (2019). Chart-name variants: Madonna (x56)\",\"weeksCharted\":56,\"chartedSongs\":4,\"peakPosition\":13}]",
+        "geocodeLabel": "Bay City, Bay County, Michigan, 48708, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.168374,
+          18.3449582
+        ]
+      },
+      "properties": {
+        "hometown": "Bayamon, Puerto Rico",
+        "countries": "Puerto Rico",
+        "artistCount": 1,
+        "topRank": 194,
+        "artists": "[{\"rank\":194,\"name\":\"Ozuna\",\"slug\":\"ozuna\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; 'Disaster' (2024). Chart-name variants: Ozuna (x75)\",\"weeksCharted\":75,\"chartedSongs\":6,\"peakPosition\":29}]",
+        "geocodeLabel": "Bayamón, Puerto Rico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9301829,
+          54.596391
+        ]
+      },
+      "properties": {
+        "hometown": "Belfast, Northern Ireland, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 292,
+        "artists": "[{\"rank\":292,\"name\":\"Shakin' Stevens\",\"slug\":\"Shakin' Stevens\",\"genre\":\"Rock / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British rock/pop artist; legacy 'Rivers of Babylon' (1980). Chart-name variants: Shakin' Stevens (x14) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":14,\"chartedSongs\":1,\"peakPosition\":25}]",
+        "geocodeLabel": "Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0225794,
+          55.8189311
+        ]
+      },
+      "properties": {
+        "hometown": "Bellshill, Scotland, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 68,
+        "artists": "[{\"rank\":68,\"name\":\"Lewis Capaldi\",\"slug\":\"lewis-capaldi\",\"genre\":\"Pop / Rock\",\"country\":\"United Kingdom\",\"notes\":\"British pop artist; 'Divinely Uninspired' (2024). Chart-name variants: Lewis Capaldi (x168)\",\"weeksCharted\":168,\"chartedSongs\":5,\"peakPosition\":42}]",
+        "geocodeLabel": "Bellshill, North Lanarkshire, Alba / Scotland, ML4 1AJ, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6221058,
+          6.3330586
+        ]
+      },
+      "properties": {
+        "hometown": "Benin City, Nigeria",
+        "countries": "Nigeria",
+        "artistCount": 2,
+        "topRank": 247,
+        "artists": "[{\"rank\":247,\"name\":\"Burna Boy\",\"slug\":\"burna-boy\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artist; 'Amaro' (2023). Chart-name variants: Burna Boy (x51)\",\"weeksCharted\":51,\"chartedSongs\":6,\"peakPosition\":1},{\"rank\":248,\"name\":\"Blessd\",\"slug\":\"blessd\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artist; 'Jejere' (2023). Chart-name variants: Blessd (x61)\",\"weeksCharted\":61,\"chartedSongs\":6,\"peakPosition\":20}]",
+        "geocodeLabel": "Benin City, Oredo, Edo, 300241, Nigeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0830984,
+          26.3586885
+        ]
+      },
+      "properties": {
+        "hometown": "Boca Raton, Florida, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 11,
+        "artists": "[{\"rank\":11,\"name\":\"Ariana Grande\",\"slug\":\"ariana-grande\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Eternal Sunshine' (2024). Chart-name variants: Ariana Grande (x550)\",\"weeksCharted\":550,\"chartedSongs\":39,\"peakPosition\":1},{\"rank\":147,\"name\":\"d4vd\",\"slug\":\"d4vd\",\"genre\":\"Pop / Indie\",\"country\":\"United States\",\"notes\":\"American pop/indie artist; 'STAY' (2023) with Miley Cyrus. Chart-name variants: d4vd (x66) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":66,\"chartedSongs\":3,\"peakPosition\":30}]",
+        "geocodeLabel": "Boca Raton, Palm Beach County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0836331,
+          4.6533817
+        ]
+      },
+      "properties": {
+        "hometown": "Bogota, Colombia",
+        "countries": "Colombia, United States",
+        "artistCount": 4,
+        "topRank": 109,
+        "artists": "[{\"rank\":109,\"name\":\"Kali Uchis\",\"slug\":\"kali-uchis\",\"genre\":\"Pop / R&B / Latin\",\"country\":\"United States\",\"notes\":\"American-Colombian pop artist; 'Sin Pensar' (2023). Chart-name variants: Kali Uchis (x178)\",\"weeksCharted\":178,\"chartedSongs\":5,\"peakPosition\":9},{\"rank\":161,\"name\":\"Neton Vega\",\"slug\":\"Neton Vega\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artist; 'Me Subo' (2023). Chart-name variants: Neton Vega (x62) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":62,\"chartedSongs\":6,\"peakPosition\":24},{\"rank\":201,\"name\":\"Luis R Conriquez x Neton Vega\",\"slug\":\"Luis R Conriquez x Neton Vega\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artists; 'Me Subo' (2023). Chart-name variants: Luis R Conriquez x Neton Vega (x33) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":33,\"chartedSongs\":1,\"peakPosition\":34},{\"rank\":215,\"name\":\"Aleman X Neton Vega\",\"slug\":\"Aleman X Neton Vega\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artists; 'Me Subo' (2023). Chart-name variants: Aleman X Neton Vega (x29) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":29,\"chartedSongs\":1,\"peakPosition\":25}]",
+        "geocodeLabel": "Bogotá ciudad, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0578303,
+          42.3588336
+        ]
+      },
+      "properties": {
+        "hometown": "Boston, Massachusetts, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 51,
+        "artists": "[{\"rank\":51,\"name\":\"Goo Goo Dolls\",\"slug\":\"goo-goo-dolls\",\"genre\":\"Pop-rock\",\"country\":\"United States\",\"notes\":\"American pop-rock band; 'Iris' (1998). Chart-name variants: Goo Goo Dolls (x148)\",\"weeksCharted\":148,\"chartedSongs\":1,\"peakPosition\":17}]",
+        "geocodeLabel": "Boston, Suffolk County, Massachusetts, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8071646,
+          53.0758196
+        ]
+      },
+      "properties": {
+        "hometown": "Bremen, Germany",
+        "countries": "Germany",
+        "artistCount": 1,
+        "topRank": 228,
+        "artists": "[{\"rank\":228,\"name\":\"Kim Petras\",\"slug\":\"kim-petras\",\"genre\":\"Pop / Electronic\",\"country\":\"Germany\",\"notes\":\"German pop artist; legacy 'Unusual' (2012). Chart-name variants: Kim Petras (x50)\",\"weeksCharted\":50,\"chartedSongs\":2,\"peakPosition\":2}]",
+        "geocodeLabel": "Bremen, Deutschland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9124302,
+          40.8227531
+        ]
+      },
+      "properties": {
+        "hometown": "Bronx (New York), New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 129,
+        "artists": "[{\"rank\":129,\"name\":\"Ice Spice\",\"slug\":\"ice-spice\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'I Like It' / 'Spice it up' (2024-25). Chart-name variants: Ice Spice (x126)\",\"weeksCharted\":126,\"chartedSongs\":8,\"peakPosition\":3}]",
+        "geocodeLabel": "La Isla Usa, South Bronx, The Bronx, Bronx County, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9639769,
+          40.5772534
+        ]
+      },
+      "properties": {
+        "hometown": "Brooklyn (New York), New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 295,
+        "artists": "[{\"rank\":295,\"name\":\"She & Him\",\"slug\":\"She & Him\",\"genre\":\"Indie / Jazz\",\"country\":\"United States\",\"notes\":\"American indie/jazz duo; legacy 'A Winter's Tale' (2017). Chart-name variants: She & Him (x17) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":17,\"chartedSongs\":1,\"peakPosition\":35}]",
+        "geocodeLabel": "Studio GR USA, 305, Brighton Beach Avenue, Brighton Beach, Brooklyn, Kings County, New York, 11235, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3887904,
+          -34.6095579
+        ]
+      },
+      "properties": {
+        "hometown": "Buenos Aires, Argentina",
+        "countries": "Argentina",
+        "artistCount": 1,
+        "topRank": 98,
+        "artists": "[{\"rank\":98,\"name\":\"Bizarrap\",\"slug\":\"bizarrap\",\"genre\":\"Electronic / Trap\",\"country\":\"Argentina\",\"notes\":\"Argentine producer; 'Bizarrap x Quevedo' (2024). Chart-name variants: Bizarrap (x123)\",\"weeksCharted\":123,\"chartedSongs\":13,\"peakPosition\":2}]",
+        "geocodeLabel": "Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6353488,
+          30.4764878
+        ]
+      },
+      "properties": {
+        "hometown": "Burleson, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 182,
+        "artists": "[{\"rank\":182,\"name\":\"Kelly Clarkson\",\"slug\":\"kelly-clarkson\",\"genre\":\"Pop / Rock\",\"country\":\"United States\",\"notes\":\"American pop-rock artist; legacy 'Since U Been Gone' (2004). Chart-name variants: Kelly Clarkson (x36)\",\"weeksCharted\":36,\"chartedSongs\":2,\"peakPosition\":6}]",
+        "geocodeLabel": "Burleson County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1020205,
+          40.8126922
+        ]
+      },
+      "properties": {
+        "hometown": "Burlington, Iowa, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 237,
+        "artists": "[{\"rank\":237,\"name\":\"Burl Ives\",\"slug\":\"burl-ives\",\"genre\":\"Country / Pop\",\"country\":\"United States\",\"notes\":\"American country/pop legend; legacy 'Don't Fence Me In' (1944). Chart-name variants: Burl Ives (x21)\",\"weeksCharted\":21,\"chartedSongs\":2,\"peakPosition\":10}]",
+        "geocodeLabel": "Burlington, Burlington Township, Des Moines County, Iowa, 52601, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.972545,
+          49.2433804
+        ]
+      },
+      "properties": {
+        "hometown": "Burnaby, British Columbia, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 119,
+        "artists": "[{\"rank\":119,\"name\":\"Michael Buble\",\"slug\":\"Michael Buble\",\"genre\":\"Jazz / Pop\",\"country\":\"Canada\",\"notes\":\"Canadian pop/jazz singer; legacy 'Holiday' (2011). Chart-name variants: Michael Buble (x66) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":66,\"chartedSongs\":7,\"peakPosition\":7}]",
+        "geocodeLabel": "Burnaby, Metro Vancouver Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0752365,
+          35.1799528
+        ]
+      },
+      "properties": {
+        "hometown": "Busan, South Korea",
+        "countries": "South Korea",
+        "artistCount": 2,
+        "topRank": 58,
+        "artists": "[{\"rank\":58,\"name\":\"Jimin\",\"slug\":\"jimin\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BTS); solo singles 'Lifted', 'Who' (2023). Chart-name variants: Jimin (x165)\",\"weeksCharted\":165,\"chartedSongs\":12,\"peakPosition\":1},{\"rank\":66,\"name\":\"Jung Kook\",\"slug\":\"jung-kook\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BTS); 'Seven' (2023) with Jack Harlow. Chart-name variants: Jung Kook (x247)\",\"weeksCharted\":247,\"chartedSongs\":16,\"peakPosition\":1}]",
+        "geocodeLabel": "부산광역시, 대한민국"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.057541,
+          51.0456064
+        ]
+      },
+      "properties": {
+        "hometown": "Calgary, Alberta, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 101,
+        "artists": "[{\"rank\":101,\"name\":\"Swae Lee\",\"slug\":\"swae-lee\",\"genre\":\"R&B / Hip-hop\",\"country\":\"Canada\",\"notes\":\"Canadian R&B artist; 'Hit 'Em Up' (2023). Chart-name variants: Swae Lee (x256)\",\"weeksCharted\":256,\"chartedSongs\":5,\"peakPosition\":20}]",
+        "geocodeLabel": "Calgary, Alberta, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499517,
+          3.4488295
+        ]
+      },
+      "properties": {
+        "hometown": "Cali (Santiago de Cali), Colombia",
+        "countries": "Colombia",
+        "artistCount": 1,
+        "topRank": 30,
+        "artists": "[{\"rank\":30,\"name\":\"Feid\",\"slug\":\"feid\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artist; 'FELIZ CUMPLEAÑOS FIDEL' (2023). Chart-name variants: Feid (x349)\",\"weeksCharted\":349,\"chartedSongs\":20,\"peakPosition\":4}]",
+        "geocodeLabel": "Villa Colombia, Comuna 8, Cali ciudad, Cali, Sur, Valle del Cauca, RAP Pacífico, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5307207,
+          44.8618403
+        ]
+      },
+      "properties": {
+        "hometown": "Chanhassen, Minnesota, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 49,
+        "artists": "[{\"rank\":49,\"name\":\"Noah Kahan\",\"slug\":\"noah-kahan\",\"genre\":\"Country / Folk\",\"country\":\"United States\",\"notes\":\"American country/folk artist; 'Dial Drunk' (2025). Chart-name variants: Noah Kahan (x221)\",\"weeksCharted\":221,\"chartedSongs\":26,\"peakPosition\":5}]",
+        "geocodeLabel": "Chanhassen, Carver County, Minnesota, 55317, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "hometown": "Charlotte, North Carolina, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 112,
+        "artists": "[{\"rank\":112,\"name\":\"J. Cole\",\"slug\":\"j-cole\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'THE OFF SEASON' (2021). Chart-name variants: J. Cole (x144)\",\"weeksCharted\":144,\"chartedSongs\":31,\"peakPosition\":2}]",
+        "geocodeLabel": "Charlotte, Mecklenburg County, North Carolina, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6113288,
+          45.9896587
+        ]
+      },
+      "properties": {
+        "hometown": "Chgo, Minnesota, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 236,
+        "artists": "[{\"rank\":236,\"name\":\"Prince\",\"slug\":\"prince\",\"genre\":\"Pop / R&B / Rock\",\"country\":\"United States\",\"notes\":\"American pop/R&B/rock icon; legacy 'Purple Rain' (1984). Chart-name variants: Prince (x41)\",\"weeksCharted\":41,\"chartedSongs\":1,\"peakPosition\":30}]",
+        "geocodeLabel": "Minnesota, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "hometown": "Chicago, Illinois, USA",
+        "countries": "United States",
+        "artistCount": 4,
+        "topRank": 128,
+        "artists": "[{\"rank\":128,\"name\":\"Doechii\",\"slug\":\"doechii\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'ALLigator' (2024). Chart-name variants: Doechii (x80)\",\"weeksCharted\":80,\"chartedSongs\":8,\"peakPosition\":3},{\"rank\":202,\"name\":\"Sexyy Red\",\"slug\":\"sexyy-red\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'POV (feat. 21 Savage)' (2024). Chart-name variants: Sexyy Red (x83)\",\"weeksCharted\":83,\"chartedSongs\":9,\"peakPosition\":16},{\"rank\":267,\"name\":\"Lil Durk\",\"slug\":\"lil-durk\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'All Gz, No Snakes' (2022). Chart-name variants: Lil Durk (x38)\",\"weeksCharted\":38,\"chartedSongs\":7,\"peakPosition\":7},{\"rank\":294,\"name\":\"Disturbed\",\"slug\":\"disturbed\",\"genre\":\"Rock / Metal\",\"country\":\"United States\",\"notes\":\"American rock/metal band; legacy 'The Sound of Silence' (2015). Chart-name variants: Disturbed (x26)\",\"weeksCharted\":26,\"chartedSongs\":1,\"peakPosition\":93}]",
+        "geocodeLabel": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4026597,
+          23.2627649
+        ]
+      },
+      "properties": {
+        "hometown": "Ciudad Obregon, Sinaloa, Mexico",
+        "countries": "Mexico",
+        "artistCount": 2,
+        "topRank": 253,
+        "artists": "[{\"rank\":253,\"name\":\"El Bogueto x Yung Beef\",\"slug\":\"El Bogueto x Yung Beef\",\"genre\":\"Regional mexicano / Corridos\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artists; 'La Noche' (2023). Chart-name variants: El Bogueto x Yung Beef (x22) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":22,\"chartedSongs\":1,\"peakPosition\":5},{\"rank\":286,\"name\":\"Esau Ortiz\",\"slug\":\"Esau Ortiz\",\"genre\":\"Regional mexicano / Corridos\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'La Noche' (2023). Chart-name variants: Esau Ortiz (x20) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":20,\"chartedSongs\":1,\"peakPosition\":17}]",
+        "geocodeLabel": "Calle Ciudad Obregón, Las Brisas, Mazatlán, Sinaloa, 82000, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1441352,
+          23.7389846
+        ]
+      },
+      "properties": {
+        "hometown": "Ciudad Victoria, Tamaulipas, Mexico",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 208,
+        "artists": "[{\"rank\":208,\"name\":\"Eslabon Armado\",\"slug\":\"eslabon-armado\",\"genre\":\"Corridos tumbados / Regional mexicano\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'Mayores' (2023). Chart-name variants: Eslabon Armado (x52)\",\"weeksCharted\":52,\"chartedSongs\":2,\"peakPosition\":1}]",
+        "geocodeLabel": "Ciudad Victoria, Victoria, Tamaulipas, 87000, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6936772,
+          41.4996574
+        ]
+      },
+      "properties": {
+        "hometown": "Cleveland, Ohio, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 137,
+        "artists": "[{\"rank\":137,\"name\":\"Chris Brown\",\"slug\":\"chris-brown\",\"genre\":\"R&B / Hip-hop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'UNDER THE INFLUENCE OF TROPICS' (2025). Chart-name variants: Chris Brown (x94)\",\"weeksCharted\":94,\"chartedSongs\":4,\"peakPosition\":21}]",
+        "geocodeLabel": "Cleveland, Cuyahoga County, Ohio, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4487904,
+          33.6516643
+        ]
+      },
+      "properties": {
+        "hometown": "College Park (Atlanta), Georgia, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 113,
+        "artists": "[{\"rank\":113,\"name\":\"Gunna\",\"slug\":\"gunna\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American rapper; 'THE WIZARD' (2024). Chart-name variants: Gunna (x102)\",\"weeksCharted\":102,\"chartedSongs\":16,\"peakPosition\":6}]",
+        "geocodeLabel": "College Park, 1887, John Wesley Avenue, Atlanta, Fulton County, Georgia, 30337, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9088133,
+          4.099917
+        ]
+      },
+      "properties": {
+        "hometown": "Colombia (regional, city n/a)",
+        "countries": "Colombia",
+        "artistCount": 1,
+        "topRank": 283,
+        "artists": "[{\"rank\":283,\"name\":\"Dareyes de La Sierra\",\"slug\":\"Dareyes de La Sierra\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artist; 'I'm the One' (2023). Chart-name variants: Dareyes de La Sierra (x19) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":19,\"chartedSongs\":1,\"peakPosition\":42}]",
+        "geocodeLabel": "Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.226624,
+          33.894927
+        ]
+      },
+      "properties": {
+        "hometown": "Compton, California, USA",
+        "countries": "United States",
+        "artistCount": 3,
+        "topRank": 8,
+        "artists": "[{\"rank\":8,\"name\":\"SZA\",\"slug\":\"sza\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B-pop artist; 'SOS' (2022) and 'SOS' reissue (2023). Chart-name variants: SZA (x676)\",\"weeksCharted\":676,\"chartedSongs\":27,\"peakPosition\":1},{\"rank\":15,\"name\":\"Kendrick Lamar\",\"slug\":\"kendrick-lamar\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'GNX' (2024). Chart-name variants: Kendrick Lamar (x559)\",\"weeksCharted\":559,\"chartedSongs\":30,\"peakPosition\":1},{\"rank\":75,\"name\":\"Tyler, The Creator\",\"slug\":\"tyler-the-creator\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper/producer; 'CALL ME IF YOU GET LOST' (2024). Chart-name variants: Tyler, The Creator (x239)\",\"weeksCharted\":239,\"chartedSongs\":27,\"peakPosition\":10}]",
+        "geocodeLabel": "Compton, Los Angeles County, California, 90220, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9000972,
+          33.6159992
+        ]
+      },
+      "properties": {
+        "hometown": "Covington (Atlanta), Georgia, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 239,
+        "artists": "[{\"rank\":239,\"name\":\"Flo Milli\",\"slug\":\"flo-milli\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'Wishful Thinking' (2022). Chart-name variants: Flo Milli (x25)\",\"weeksCharted\":25,\"chartedSongs\":2,\"peakPosition\":22}]",
+        "geocodeLabel": "Covington DD, Old Atlanta Highway, Covington, Newton County, Georgia, 30014, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6018,
+          35.8713
+        ]
+      },
+      "properties": {
+        "hometown": "Daegu, South Korea",
+        "countries": "South Korea",
+        "artistCount": 1,
+        "topRank": 177,
+        "artists": "[{\"rank\":177,\"name\":\"V\",\"slug\":\"v\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BTS); 'LONERBOY' (2023). Chart-name variants: V (x42)\",\"weeksCharted\":42,\"chartedSongs\":9,\"peakPosition\":4}]",
+        "geocodeLabel": "대구광역시, 대한민국"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3849016,
+          36.3497007
+        ]
+      },
+      "properties": {
+        "hometown": "Daejeon, South Korea",
+        "countries": "South Korea",
+        "artistCount": 1,
+        "topRank": 223,
+        "artists": "[{\"rank\":223,\"name\":\"J-Hope\",\"slug\":\"j-hope\",\"genre\":\"K-pop / Hip-hop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop/hip-hop artist (BTS); 'Jack In The Box' (2024). Chart-name variants: J-Hope (x48)\",\"weeksCharted\":48,\"chartedSongs\":7,\"peakPosition\":3}]",
+        "geocodeLabel": "대전광역시, 대한민국"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "hometown": "Dallas, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 61,
+        "artists": "[{\"rank\":61,\"name\":\"Shaboozey\",\"slug\":\"shaboozey\",\"genre\":\"Country / Hip-hop\",\"country\":\"United States\",\"notes\":\"American country-hip-hop artist; 'A Bar Song (Tipsy)' (2024). Chart-name variants: Shaboozey (x136)\",\"weeksCharted\":136,\"chartedSongs\":4,\"peakPosition\":3}]",
+        "geocodeLabel": "Dallas, Dallas County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0466403,
+          42.3315509
+        ]
+      },
+      "properties": {
+        "hometown": "Detroit, Michigan, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 43,
+        "artists": "[{\"rank\":43,\"name\":\"Eminem\",\"slug\":\"eminem\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'The Death of Slim Shady (Coup de Grâce)' (2024). Chart-name variants: Eminem (x366)\",\"weeksCharted\":366,\"chartedSongs\":24,\"peakPosition\":1}]",
+        "geocodeLabel": "Detroit, Wayne County, Michigan, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2605593,
+          53.3493795
+        ]
+      },
+      "properties": {
+        "hometown": "Dublin, Ireland",
+        "countries": "Ireland",
+        "artistCount": 1,
+        "topRank": 293,
+        "artists": "[{\"rank\":293,\"name\":\"Band Aid\",\"slug\":\"Band Aid\",\"genre\":\"Pop / Rock\",\"country\":\"Ireland\",\"notes\":\"Ireland charity pop group; 'Do They Know It's Christmas' (1984). Chart-name variants: Band Aid (x14) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":14,\"chartedSongs\":1,\"peakPosition\":25}]",
+        "geocodeLabel": "Dublin, County Dublin, Leinster, Éire / Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883749,
+          55.9533456
+        ]
+      },
+      "properties": {
+        "hometown": "Edinburgh, Scotland, UK",
+        "countries": "Scotland",
+        "artistCount": 1,
+        "topRank": 171,
+        "artists": "[{\"rank\":171,\"name\":\"Calvin Harris\",\"slug\":\"calvin-harris\",\"genre\":\"Electronic / Dance\",\"country\":\"Scotland\",\"notes\":\"Scottish DJ/producer; 'One Kiss' (2018). Chart-name variants: Calvin Harris (x135)\",\"weeksCharted\":135,\"chartedSongs\":6,\"peakPosition\":41}]",
+        "geocodeLabel": "City of Edinburgh, Alba / Scotland, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4209218,
+          40.7518236
+        ]
+      },
+      "properties": {
+        "hometown": "Farmingdale (Long Island), New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 142,
+        "artists": "[{\"rank\":142,\"name\":\"Bebe Rexha\",\"slug\":\"bebe-rexha\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Sacrifice' (2024). Chart-name variants: Bebe Rexha (x102)\",\"weeksCharted\":102,\"chartedSongs\":1,\"peakPosition\":3}]",
+        "geocodeLabel": "Long Island BootCamp Farmingdale, 2233, Broadhollow Road, East Farmingdale, Village of Farmingdale, Suffolk County, New York, 11735, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8911283,
+          51.3158434
+        ]
+      },
+      "properties": {
+        "hometown": "Faversham, Kent, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 9,
+        "artists": "[{\"rank\":9,\"name\":\"Ed Sheeran\",\"slug\":\"ed-sheeran\",\"genre\":\"Pop\",\"country\":\"United Kingdom\",\"notes\":\"British pop artist; 'AUTUMN VARIACTIONS' (2024). Chart-name variants: Ed Sheeran (x627)\",\"weeksCharted\":627,\"chartedSongs\":19,\"peakPosition\":8}]",
+        "geocodeLabel": "Faversham, Ospringe, Swale, Kent, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1386015,
+          41.0799898
+        ]
+      },
+      "properties": {
+        "hometown": "Fort Wayne, Indiana, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 94,
+        "artists": "[{\"rank\":94,\"name\":\"Dominic Fike\",\"slug\":\"dominic-fike\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Where You At' (2023). Chart-name variants: Dominic Fike (x71)\",\"weeksCharted\":71,\"chartedSongs\":4,\"peakPosition\":2}]",
+        "geocodeLabel": "Fort Wayne, Allen County, Indiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8689419,
+          35.925206
+        ]
+      },
+      "properties": {
+        "hometown": "Franklin, Tennessee, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 39,
+        "artists": "[{\"rank\":39,\"name\":\"Miley Cyrus\",\"slug\":\"miley-cyrus\",\"genre\":\"Pop / Rock\",\"country\":\"United States\",\"notes\":\"American pop-rock artist; 'Endless Summer Vacation' (2024). Chart-name variants: Miley Cyrus (x205)\",\"weeksCharted\":205,\"chartedSongs\":19,\"peakPosition\":1}]",
+        "geocodeLabel": "Franklin, Williamson County, Middle Tennessee, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3373495,
+          41.6045061
+        ]
+      },
+      "properties": {
+        "hometown": "Gary, Indiana, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 25,
+        "artists": "[{\"rank\":25,\"name\":\"Michael Jackson\",\"slug\":\"michael-jackson\",\"genre\":\"Pop / R&B / Funk\",\"country\":\"United States\",\"notes\":\"American pop icon; legacy catalog and 'Michael' (2025). Chart-name variants: Michael Jackson (x345)\",\"weeksCharted\":345,\"chartedSongs\":17,\"peakPosition\":1},{\"rank\":273,\"name\":\"Jackson 5\",\"slug\":\"Jackson 5\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B group; legacy 'I Want You Back' (1969). Chart-name variants: Jackson 5 (x30) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":30,\"chartedSongs\":3,\"peakPosition\":37}]",
+        "geocodeLabel": "Gary, Broadway, Downtown West, Gary, Calumet Township, Lake County, Indiana, 46410, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0718445,
+          30.0018806
+        ]
+      },
+      "properties": {
+        "hometown": "Gladys, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 190,
+        "artists": "[{\"rank\":190,\"name\":\"Bobby Helms\",\"slug\":\"bobby-helms\",\"genre\":\"Country / Rockabilly\",\"country\":\"United States\",\"notes\":\"American country/rockabilly legend; legacy 'Jingle Bell Rock' (1957). Chart-name variants: Bobby Helms (x25)\",\"weeksCharted\":25,\"chartedSongs\":1,\"peakPosition\":4}]",
+        "geocodeLabel": "Gladys, Beaumont, Jefferson County, Texas, 77710, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9977846,
+          32.7459645
+        ]
+      },
+      "properties": {
+        "hometown": "Grand Prairie, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 115,
+        "artists": "[{\"rank\":115,\"name\":\"Selena Gomez\",\"slug\":\"selena-gomez\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Revelación' (2023). Chart-name variants: Selena Gomez (x122)\",\"weeksCharted\":122,\"chartedSongs\":9,\"peakPosition\":3}]",
+        "geocodeLabel": "Grand Prairie, Dallas County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5399603,
+          25.5046381
+        ]
+      },
+      "properties": {
+        "hometown": "Guasave, Sinaloa, Mexico",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 81,
+        "artists": "[{\"rank\":81,\"name\":\"Natanael Cano\",\"slug\":\"natanael-cano\",\"genre\":\"Corridos tumbados\",\"country\":\"Mexico\",\"notes\":\"Mexican corridos artist; 'Los Pumas' (2023). Chart-name variants: Natanael Cano (x168)\",\"weeksCharted\":168,\"chartedSongs\":18,\"peakPosition\":15}]",
+        "geocodeLabel": "Guasave, Sinaloa, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2493276,
+          43.5460516
+        ]
+      },
+      "properties": {
+        "hometown": "Guelph, Ontario, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 209,
+        "artists": "[{\"rank\":209,\"name\":\"Shawn Mendes\",\"slug\":\"shawn-mendes\",\"genre\":\"Pop / R&B\",\"country\":\"Canada\",\"notes\":\"Canadian pop artist; 'SHAWN' (2023). Chart-name variants: Shawn Mendes (x46)\",\"weeksCharted\":46,\"chartedSongs\":3,\"peakPosition\":58}]",
+        "geocodeLabel": "Guelph, Southwestern Ontario, Ontario, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3589631,
+          23.135305
+        ]
+      },
+      "properties": {
+        "hometown": "Havana, Cuba",
+        "countries": "Cuba",
+        "artistCount": 2,
+        "topRank": 108,
+        "artists": "[{\"rank\":108,\"name\":\"Myke Towers\",\"slug\":\"myke-towers\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Cuba\",\"notes\":\"Cuban reggaeton artist; 'La Mariposa' (2023). Chart-name variants: Myke Towers (x95)\",\"weeksCharted\":95,\"chartedSongs\":9,\"peakPosition\":3},{\"rank\":172,\"name\":\"Quevedo\",\"slug\":\"Quevedo\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Cuba\",\"notes\":\"Cuban reggaeton artist; 'Bizarrito' (2024). Chart-name variants: Quevedo (x50) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":50,\"chartedSongs\":3,\"peakPosition\":17}]",
+        "geocodeLabel": "La Habana, 10000, Cuba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0845188,
+          19.6999871
+        ]
+      },
+      "properties": {
+        "hometown": "Hawaii (Hilo), USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 188,
+        "artists": "[{\"rank\":188,\"name\":\"Andy Williams\",\"slug\":\"andy-williams\",\"genre\":\"Pop / Jazz\",\"country\":\"United States\",\"notes\":\"American pop/jazz legend; legacy 'Santa Baby' (1953). Chart-name variants: Andy Williams (x35)\",\"weeksCharted\":35,\"chartedSongs\":3,\"peakPosition\":7}]",
+        "geocodeLabel": "University of Hawaiʻi - Hilo Main Campus, 200, West Kawili Street, Waiākea, Hilo, Hawaiʻi County, Hawaii, 96720, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0323752,
+          40.7433066
+        ]
+      },
+      "properties": {
+        "hometown": "Hoboken, New Jersey, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 174,
+        "artists": "[{\"rank\":174,\"name\":\"Frank Sinatra\",\"slug\":\"frank-sinatra\",\"genre\":\"Jazz / Pop\",\"country\":\"United States\",\"notes\":\"American jazz/pop legend; legacy 'My Way' (1969). Chart-name variants: Frank Sinatra (x44)\",\"weeksCharted\":44,\"chartedSongs\":4,\"peakPosition\":23}]",
+        "geocodeLabel": "Hoboken, Hudson County, New Jersey, 07030, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1494901,
+          26.0112014
+        ]
+      },
+      "properties": {
+        "hometown": "Hollywood, Florida, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 216,
+        "artists": "[{\"rank\":216,\"name\":\"*NSYNC\",\"slug\":\"*NSYNC\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B boy band; legacy 'Bye Bye Bye' (2000). Chart-name variants: *NSYNC (x30) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":30,\"chartedSongs\":3,\"peakPosition\":12}]",
+        "geocodeLabel": "Hollywood, Broward County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.855676,
+          21.304547
+        ]
+      },
+      "properties": {
+        "hometown": "Honolulu, Hawaii, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 5,
+        "artists": "[{\"rank\":5,\"name\":\"Bruno Mars\",\"slug\":\"bruno-mars\",\"genre\":\"Pop / R&B / Funk\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'An Evening with Silk Sonic' (2021). Chart-name variants: Bruno Mars (x815)\",\"weeksCharted\":815,\"chartedSongs\":23,\"peakPosition\":1}]",
+        "geocodeLabel": "Honolulu, Honolulu County, Hawaii, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "hometown": "Houston, Texas, USA",
+        "countries": "United States",
+        "artistCount": 5,
+        "topRank": 48,
+        "artists": "[{\"rank\":48,\"name\":\"Travis Scott\",\"slug\":\"travis-scott\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"Houston, TX rapper; 'Utopia' (2023), 'Antoine' (2025). Chart-name variants: Travis Scott (x343)\",\"weeksCharted\":343,\"chartedSongs\":48,\"peakPosition\":2},{\"rank\":90,\"name\":\"Beyonce\",\"slug\":\"Beyonce\",\"genre\":\"R&B / Pop / Hip-hop\",\"country\":\"United States\",\"notes\":\"American R&B-pop artist; 'RENAISSANCE' (2023). Chart-name variants: Beyonce (x88) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":88,\"chartedSongs\":17,\"peakPosition\":1},{\"rank\":97,\"name\":\"Don Toliver\",\"slug\":\"don-toliver\",\"genre\":\"Hip-hop / R&B\",\"country\":\"United States\",\"notes\":\"American hip-hop producer; 'BIRDS OF A FEATHER' (2024). Chart-name variants: Don Toliver (x197)\",\"weeksCharted\":197,\"chartedSongs\":31,\"peakPosition\":8},{\"rank\":178,\"name\":\"Steve Lacy\",\"slug\":\"steve-lacy\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper/producer; 'ALL CAPPED (feat. Drake)' (2024). Chart-name variants: Steve Lacy (x38)\",\"weeksCharted\":38,\"chartedSongs\":2,\"peakPosition\":18},{\"rank\":230,\"name\":\"Megan Thee Stallion\",\"slug\":\"megan-thee-stallion\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'Servin' Notices' (2020). Chart-name variants: Megan Thee Stallion (x39)\",\"weeksCharted\":39,\"chartedSongs\":7,\"peakPosition\":1}]",
+        "geocodeLabel": "Houston, Harris County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.425676,
+          40.868154
+        ]
+      },
+      "properties": {
+        "hometown": "Huntington, New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 155,
+        "artists": "[{\"rank\":155,\"name\":\"Mariah Carey\",\"slug\":\"mariah-carey\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B icon; 'Love Somebody' (2023). Chart-name variants: Mariah Carey (x39)\",\"weeksCharted\":39,\"chartedSongs\":2,\"peakPosition\":1}]",
+        "geocodeLabel": "Town of Huntington, Suffolk County, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4137923,
+          39.0924792
+        ]
+      },
+      "properties": {
+        "hometown": "Independence, Missouri, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 21,
+        "artists": "[{\"rank\":21,\"name\":\"Chappell Roan\",\"slug\":\"chappell-roan\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'The Rise of CHAPPell ROAN' (2023) and 'Single Female' (2024). Chart-name variants: Chappell Roan (x317)\",\"weeksCharted\":317,\"chartedSongs\":8,\"peakPosition\":2}]",
+        "geocodeLabel": "Independence, Jackson County, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.674297,
+          42.6384261
+        ]
+      },
+      "properties": {
+        "hometown": "Italy (regional, city n/a)",
+        "countries": "Italy",
+        "artistCount": 1,
+        "topRank": 276,
+        "artists": "[{\"rank\":276,\"name\":\"Jaxomy, Agatino Romero & Raffaella Carra\",\"slug\":\"Jaxomy, Agatino Romero & Raffaella Carra\",\"genre\":\"Pop\",\"country\":\"Italy\",\"notes\":\"Italian pop artists; 'I'm the One' (2023). Chart-name variants: Jaxomy, Agatino Romero & Raffaella Carra (x18) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":18,\"chartedSongs\":1,\"peakPosition\":37}]",
+        "geocodeLabel": "Italia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6666671,
+          20.3333331
+        ]
+      },
+      "properties": {
+        "hometown": "Jalisco, Mexico (regional)",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 111,
+        "artists": "[{\"rank\":111,\"name\":\"Carin Leon\",\"slug\":\"carin-leon\",\"genre\":\"Regional mexicano / Banda\",\"country\":\"Mexico\",\"notes\":\"Mexican regional/banda artist; 'Culpable' (2022). Chart-name variants: Carin Leon (x122)\",\"weeksCharted\":122,\"chartedSongs\":3,\"peakPosition\":17}]",
+        "geocodeLabel": "Jalisco, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.049722,
+          -26.205
+        ]
+      },
+      "properties": {
+        "hometown": "Johannesburg, South Africa",
+        "countries": "Australia, United States",
+        "artistCount": 2,
+        "topRank": 82,
+        "artists": "[{\"rank\":82,\"name\":\"Tyla\",\"slug\":\"tyla\",\"genre\":\"R&B / Hip-hop\",\"country\":\"United States\",\"notes\":\"American R&B/hip-hop artist; 'TAYLOR' (2023) and 'NUGGET' (2024). Chart-name variants: Tyla (x104)\",\"weeksCharted\":104,\"chartedSongs\":5,\"peakPosition\":6},{\"rank\":288,\"name\":\"Troye Sivan\",\"slug\":\"troye-sivan\",\"genre\":\"Pop / R&B\",\"country\":\"Australia\",\"notes\":\"Australian pop/R&B artist; 'Bloom' (2023). Chart-name variants: Troye Sivan (x21)\",\"weeksCharted\":21,\"chartedSongs\":3,\"peakPosition\":34}]",
+        "geocodeLabel": "Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9782914,
+          37.5666791
+        ]
+      },
+      "properties": {
+        "hometown": "K-pop supergroup (USA/South Korea)",
+        "countries": "South Korea",
+        "artistCount": 1,
+        "topRank": 32,
+        "artists": "[{\"rank\":32,\"name\":\"HUNTR/X: EJAE, Audrey Nuna & REI AMI\",\"slug\":\"HUNTR/X: EJAE, Audrey Nuna & REI AMI\",\"genre\":\"K-pop / Pop\",\"country\":\"South Korea\",\"notes\":\"K-pop/voice-actress group for 'KPop Demon Hunters' (2025). Chart-name variants: HUNTR/X: EJAE, Audrey Nuna & REI AMI (x162) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":162,\"chartedSongs\":4,\"peakPosition\":1}]",
+        "geocodeLabel": "서울특별시, 대한민국"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9641244,
+          35.9471931
+        ]
+      },
+      "properties": {
+        "hometown": "Kingfisher, Oklahoma, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 159,
+        "artists": "[{\"rank\":159,\"name\":\"Kacey Musgraves\",\"slug\":\"kacey-musgraves\",\"genre\":\"Country / Pop\",\"country\":\"United States\",\"notes\":\"American country-pop artist; 'STAR-CROSSED' (2025). Chart-name variants: Kacey Musgraves (x96)\",\"weeksCharted\":96,\"chartedSongs\":1,\"peakPosition\":4}]",
+        "geocodeLabel": "Kingfisher County, Oklahoma, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7928128,
+          17.9712148
+        ]
+      },
+      "properties": {
+        "hometown": "Kingston, Jamaica",
+        "countries": "Jamaica",
+        "artistCount": 2,
+        "topRank": 291,
+        "artists": "[{\"rank\":291,\"name\":\"YG Marley\",\"slug\":\"yg-marley\",\"genre\":\"Reggae / Dancehall\",\"country\":\"Jamaica\",\"notes\":\"Jamaican reggae artist; legacy 'One Love' (2018). Chart-name variants: YG Marley (x12)\",\"weeksCharted\":12,\"chartedSongs\":1,\"peakPosition\":11},{\"rank\":299,\"name\":\"Sean Paul\",\"slug\":\"sean-paul\",\"genre\":\"Reggae / Dancehall\",\"country\":\"Jamaica\",\"notes\":\"Jamaican reggae/dancehall artist; legacy 'Got to Be Good' (2005). Chart-name variants: Sean Paul (x51)\",\"weeksCharted\":51,\"chartedSongs\":4,\"peakPosition\":52}]",
+        "geocodeLabel": "Kingston, Surrey County, Jamaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      },
+      "properties": {
+        "hometown": "Knoxville, Tennessee, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 56,
+        "artists": "[{\"rank\":56,\"name\":\"Luke Combs\",\"slug\":\"luke-combs\",\"genre\":\"Country\",\"country\":\"United States\",\"notes\":\"American country artist; 'Tough' (2025). Chart-name variants: Luke Combs (x222)\",\"weeksCharted\":222,\"chartedSongs\":18,\"peakPosition\":18}]",
+        "geocodeLabel": "Knoxville, Knox County, East Tennessee, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3941795,
+          6.4550575
+        ]
+      },
+      "properties": {
+        "hometown": "Lagos, Nigeria",
+        "countries": "Nigeria",
+        "artistCount": 5,
+        "topRank": 130,
+        "artists": "[{\"rank\":130,\"name\":\"Rema\",\"slug\":\"rema\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artist; 'Danza (Kwahere)' (2023). Chart-name variants: Rema (x104)\",\"weeksCharted\":104,\"chartedSongs\":3,\"peakPosition\":3},{\"rank\":196,\"name\":\"Tems\",\"slug\":\"tems\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artist; 'Essence' (2023). Chart-name variants: Tems (x72)\",\"weeksCharted\":72,\"chartedSongs\":3,\"peakPosition\":12},{\"rank\":242,\"name\":\"Toosii\",\"slug\":\"Toosii\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats/singer; 'Ikechi' (2023), features on Global 200 Afrobeats tracks. Chart-name variants: Toosii (x26) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":26,\"chartedSongs\":1,\"peakPosition\":25},{\"rank\":256,\"name\":\"Wizkid\",\"slug\":\"wizkid\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artist; 'Essence' (2023). Chart-name variants: Wizkid (x98)\",\"weeksCharted\":98,\"chartedSongs\":5,\"peakPosition\":43},{\"rank\":263,\"name\":\"Hanumankind X Kalmi\",\"slug\":\"Hanumankind X Kalmi\",\"genre\":\"Afrobeats\",\"country\":\"Nigeria\",\"notes\":\"Nigerian Afrobeats artists; 'Espresso' (2023). Chart-name variants: Hanumankind X Kalmi (x17) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":17,\"chartedSongs\":1,\"peakPosition\":9}]",
+        "geocodeLabel": "Lagos, Lagos Island, Lagos, 100242, Nigeria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1484131,
+          36.1674263
+        ]
+      },
+      "properties": {
+        "hometown": "Las Vegas, Nevada, USA",
+        "countries": "United States",
+        "artistCount": 3,
+        "topRank": 24,
+        "artists": "[{\"rank\":24,\"name\":\"sombr\",\"slug\":\"sombr\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'G.O.A.T' (2025). Chart-name variants: sombr (x258)\",\"weeksCharted\":258,\"chartedSongs\":7,\"peakPosition\":5},{\"rank\":59,\"name\":\"Imagine Dragons\",\"slug\":\"imagine-dragons\",\"genre\":\"Pop-rock / Alternative\",\"country\":\"United States\",\"notes\":\"American pop-rock band; 'Loom' (2024). Chart-name variants: Imagine Dragons (x294)\",\"weeksCharted\":294,\"chartedSongs\":6,\"peakPosition\":52},{\"rank\":84,\"name\":\"The Killers\",\"slug\":\"the-killers\",\"genre\":\"Alternative rock / Pop-rock\",\"country\":\"United States\",\"notes\":\"American alt-rock band; 'Mr. Brightside' (2004). Chart-name variants: The Killers (x144)\",\"weeksCharted\":144,\"chartedSongs\":1,\"peakPosition\":24}]",
+        "geocodeLabel": "Las Vegas, Clark County, Nevada, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5437941,
+          53.7974185
+        ]
+      },
+      "properties": {
+        "hometown": "Leeds, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 27,
+        "artists": "[{\"rank\":27,\"name\":\"Olivia Dean\",\"slug\":\"olivia-dean\",\"genre\":\"R&B / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British R&B-pop artist; 'The Art of Breaking Ones' (2023). Chart-name variants: Olivia Dean (x260)\",\"weeksCharted\":260,\"chartedSongs\":10,\"peakPosition\":2}]",
+        "geocodeLabel": "Leeds, West Yorkshire, England, LS1 6AL, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1331969,
+          52.6362
+        ]
+      },
+      "properties": {
+        "hometown": "Leicester, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 224,
+        "artists": "[{\"rank\":224,\"name\":\"Keane\",\"slug\":\"keane\",\"genre\":\"Indie rock / Britpop\",\"country\":\"United Kingdom\",\"notes\":\"British indie-rock band; legacy 'Somewhere Only We Know' (2004). Chart-name variants: Keane (x110)\",\"weeksCharted\":110,\"chartedSongs\":1,\"peakPosition\":111}]",
+        "geocodeLabel": "Leicester, City of Leicester, England, LE1 4FB, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4583107,
+          27.9449854
+        ]
+      },
+      "properties": {
+        "hometown": "Lithia (Tampa), Florida, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 281,
+        "artists": "[{\"rank\":281,\"name\":\"Kane Brown\",\"slug\":\"kane-brown\",\"genre\":\"Country / Pop\",\"country\":\"United States\",\"notes\":\"American country-pop artist; 'Waves' (2023). Chart-name variants: Kane Brown (x39)\",\"weeksCharted\":39,\"chartedSongs\":2,\"peakPosition\":55}]",
+        "geocodeLabel": "Tampa, Hillsborough County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1051939,
+          33.7123305
+        ]
+      },
+      "properties": {
+        "hometown": "Lithonia, Georgia, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 13,
+        "artists": "[{\"rank\":13,\"name\":\"Teddy Swims\",\"slug\":\"teddy-swims\",\"genre\":\"Soul / R&B\",\"country\":\"United States\",\"notes\":\"American soul/R&B artist; 'I'm OK' (2024) breakout. Chart-name variants: Teddy Swims (x357)\",\"weeksCharted\":357,\"chartedSongs\":5,\"peakPosition\":4}]",
+        "geocodeLabel": "Lithonia, DeKalb County, Georgia, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2896267,
+          34.7465071
+        ]
+      },
+      "properties": {
+        "hometown": "Little Rock, Arkansas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 180,
+        "artists": "[{\"rank\":180,\"name\":\"Evanescence\",\"slug\":\"evanescence\",\"genre\":\"Alternative rock / Metal\",\"country\":\"United States\",\"notes\":\"American alt-rock band; legacy 'Bring Me to Life' (2003). Chart-name variants: Evanescence (x80)\",\"weeksCharted\":80,\"chartedSongs\":1,\"peakPosition\":83}]",
+        "geocodeLabel": "Little Rock, Big Rock Township, Pulaski County, Arkansas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9166389,
+          53.3933411
+        ]
+      },
+      "properties": {
+        "hometown": "Liverpool, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 2,
+        "topRank": 260,
+        "artists": "[{\"rank\":260,\"name\":\"Paul McCartney\",\"slug\":\"paul-mccartney\",\"genre\":\"Rock / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British rock/pop artist; legacy 'Hey Jude' (1968). Chart-name variants: Paul McCartney (x16)\",\"weeksCharted\":16,\"chartedSongs\":1,\"peakPosition\":15},{\"rank\":274,\"name\":\"John & Yoko/The Plastic Ono Band With The Harlem Community Choir\",\"slug\":\"John & Yoko/The Plastic Ono Band With The Harlem Community Choir\",\"genre\":\"Rock / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British-American rock/pop artists; 'Give Peace a Chance' (1969). Chart-name variants: John & Yoko/The Plastic Ono Band With The Harlem Community Choir (x15) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":15,\"chartedSongs\":2,\"peakPosition\":18}]",
+        "geocodeLabel": "Liverpool, Liverpool City Region, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.8810141,
+          18.4192649
+        ]
+      },
+      "properties": {
+        "hometown": "Loiza, Puerto Rico",
+        "countries": "Puerto Rico",
+        "artistCount": 1,
+        "topRank": 86,
+        "artists": "[{\"rank\":86,\"name\":\"Rauw Alejandro\",\"slug\":\"rauw-alejandro\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; 'Todo de Ti' (2023). Chart-name variants: Rauw Alejandro (x194)\",\"weeksCharted\":194,\"chartedSongs\":17,\"peakPosition\":10}]",
+        "geocodeLabel": "Loíza, Puerto Rico, 00772, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277653,
+          51.5074456
+        ]
+      },
+      "properties": {
+        "hometown": "London, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 13,
+        "topRank": 10,
+        "artists": "[{\"rank\":10,\"name\":\"Coldplay\",\"slug\":\"coldplay\",\"genre\":\"Pop-rock / Alternative\",\"country\":\"United Kingdom\",\"notes\":\"British pop-rock band; 'Music of the Spheres' era (2024). Chart-name variants: Coldplay (x714)\",\"weeksCharted\":714,\"chartedSongs\":11,\"peakPosition\":37},{\"rank\":22,\"name\":\"Dua Lipa\",\"slug\":\"dua-lipa\",\"genre\":\"Pop / Dance-pop\",\"country\":\"United Kingdom\",\"notes\":\"British-Albanian pop/dance-pop artist; 'Radical Optimism' (2024). Chart-name variants: Dua Lipa (x428)\",\"weeksCharted\":428,\"chartedSongs\":10,\"peakPosition\":3},{\"rank\":45,\"name\":\"Tom Odell\",\"slug\":\"tom-odell\",\"genre\":\"Indie pop / Rock\",\"country\":\"United Kingdom\",\"notes\":\"British indie-pop artist; 'Sangria' (2024). Chart-name variants: Tom Odell (x190)\",\"weeksCharted\":190,\"chartedSongs\":2,\"peakPosition\":19},{\"rank\":50,\"name\":\"Fleetwood Mac\",\"slug\":\"fleetwood-mac\",\"genre\":\"Rock / Pop-rock\",\"country\":\"United Kingdom\",\"notes\":\"British-American rock band; legacy 'Rumours' (1977). Chart-name variants: Fleetwood Mac (x231)\",\"weeksCharted\":231,\"chartedSongs\":4,\"peakPosition\":34},{\"rank\":53,\"name\":\"RAYE\",\"slug\":\"raye\",\"genre\":\"R&B / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British R&B-pop artist; 'Escapism' (2023) and '27 Nights' (2024). Chart-name variants: RAYE (x161)\",\"weeksCharted\":161,\"chartedSongs\":5,\"peakPosition\":6},{\"rank\":55,\"name\":\"The Police\",\"slug\":\"the-police\",\"genre\":\"Rock / New wave\",\"country\":\"United Kingdom\",\"notes\":\"British rock band; legacy 'Synchronicity' (1983). Chart-name variants: The Police (x186)\",\"weeksCharted\":186,\"chartedSongs\":1,\"peakPosition\":9},{\"rank\":89,\"name\":\"Lola Young\",\"slug\":\"lola-young\",\"genre\":\"Pop / Pop-rock\",\"country\":\"United Kingdom\",\"notes\":\"British pop artist; 'Messy' (2024). Chart-name variants: Lola Young (x100)\",\"weeksCharted\":100,\"chartedSongs\":3,\"peakPosition\":5},{\"rank\":100,\"name\":\"Glass Animals\",\"slug\":\"glass-animals\",\"genre\":\"Alternative rock / Indie\",\"country\":\"United Kingdom\",\"notes\":\"British indie-rock band; 'Dreamland' (2024). Chart-name variants: Glass Animals (x115)\",\"weeksCharted\":115,\"chartedSongs\":1,\"peakPosition\":26},{\"rank\":105,\"name\":\"Charli xcx\",\"slug\":\"charli-xcx\",\"genre\":\"Hyperpop / Electronic\",\"country\":\"United Kingdom\",\"notes\":\"British hyperpop/electronic artist; 'brat' (2024) breakout. Chart-name variants: Charli xcx (x110)\",\"weeksCharted\":110,\"chartedSongs\":13,\"peakPosition\":3},{\"rank\":148,\"name\":\"Gorillaz\",\"slug\":\"gorillaz\",\"genre\":\"Alternative / Electronic\",\"country\":\"United Kingdom\",\"notes\":\"British virtual band; 'CRACK' (2023). Chart-name variants: Gorillaz (x94)\",\"weeksCharted\":94,\"chartedSongs\":2,\"peakPosition\":33},{\"rank\":153,\"name\":\"PinkPantheress\",\"slug\":\"pinkpantheress\",\"genre\":\"Bedroom pop / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British bedroom-pop artist; 'Heaven Knows' (2024). Chart-name variants: PinkPantheress (x81)\",\"weeksCharted\":81,\"chartedSongs\":3,\"peakPosition\":1},{\"rank\":170,\"name\":\"Wham!\",\"slug\":\"Wham!\",\"genre\":\"Pop / Dance-pop\",\"country\":\"United Kingdom\",\"notes\":\"British pop duo (Michael & Ridgeley); legacy 'Last Christmas' (1984). Chart-name variants: Wham! (x28) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":28,\"chartedSongs\":1,\"peakPosition\":1},{\"rank\":266,\"name\":\"Sophie Ellis-Bextor\",\"slug\":\"sophie-ellis-bextor\",\"genre\":\"Pop / Electronic\",\"country\":\"United Kingdom\",\"notes\":\"British pop/electronic artist; legacy 'Murder on the Dancefloor' (2001). Chart-name variants: Sophie Ellis-Bextor (x17)\",\"weeksCharted\":17,\"chartedSongs\":1,\"peakPosition\":10}]",
+        "geocodeLabel": "Greater London, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2496068,
+          42.9836747
+        ]
+      },
+      "properties": {
+        "hometown": "London, Ontario, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 26,
+        "artists": "[{\"rank\":26,\"name\":\"Justin Bieber\",\"slug\":\"justin-bieber\",\"genre\":\"Pop / R&B\",\"country\":\"Canada\",\"notes\":\"Canadian pop artist; 'Josie' (2025). Chart-name variants: Justin Bieber (x459)\",\"weeksCharted\":459,\"chartedSongs\":38,\"peakPosition\":1}]",
+        "geocodeLabel": "London, Southwestern Ontario, Ontario, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191604,
+          33.7690164
+        ]
+      },
+      "properties": {
+        "hometown": "Long Beach, California, USA",
+        "countries": "United States",
+        "artistCount": 3,
+        "topRank": 198,
+        "artists": "[{\"rank\":198,\"name\":\"Frank Ocean\",\"slug\":\"frank-ocean\",\"genre\":\"R&B / Soul\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'BOTH' (2024). Chart-name variants: Frank Ocean (x81)\",\"weeksCharted\":81,\"chartedSongs\":2,\"peakPosition\":96},{\"rank\":227,\"name\":\"Coolio\",\"slug\":\"coolio\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; legacy 'Gangsta's Paradise' (1995). Chart-name variants: Coolio (x95)\",\"weeksCharted\":95,\"chartedSongs\":1,\"peakPosition\":88},{\"rank\":259,\"name\":\"The Black Eyed Peas\",\"slug\":\"the-black-eyed-peas\",\"genre\":\"Hip-hop / Pop\",\"country\":\"United States\",\"notes\":\"American hip-hop/pop group; legacy 'Where Is the Love' (2003). Chart-name variants: The Black Eyed Peas (x32)\",\"weeksCharted\":32,\"chartedSongs\":2,\"peakPosition\":20}]",
+        "geocodeLabel": "Long Beach, Los Angeles County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0994297,
+          40.8514971
+        ]
+      },
+      "properties": {
+        "hometown": "Long Island, New York, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 138,
+        "artists": "[{\"rank\":138,\"name\":\"Mitski\",\"slug\":\"mitski\",\"genre\":\"Indie / Alternative\",\"country\":\"United States\",\"notes\":\"American indie artist; 'THE LAND IS IN YOUR HANDS' (2023). Chart-name variants: Mitski (x61)\",\"weeksCharted\":61,\"chartedSongs\":1,\"peakPosition\":12},{\"rank\":191,\"name\":\"The Chainsmokers\",\"slug\":\"the-chainsmokers\",\"genre\":\"Electronic / Dance\",\"country\":\"United States\",\"notes\":\"American DJ/production duo; legacy 'Closer' (2016). Chart-name variants: The Chainsmokers (x206)\",\"weeksCharted\":206,\"chartedSongs\":2,\"peakPosition\":82}]",
+        "geocodeLabel": "Long Island, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1021845,
+          35.061209
+        ]
+      },
+      "properties": {
+        "hometown": "Long Mtn, Oklahoma, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 31,
+        "artists": "[{\"rank\":31,\"name\":\"Zach Bryan\",\"slug\":\"zach-bryan\",\"genre\":\"Country\",\"country\":\"United States\",\"notes\":\"American country artist; 'All Over Me' (2024). Chart-name variants: Zach Bryan (x322)\",\"weeksCharted\":322,\"chartedSongs\":34,\"peakPosition\":4}]",
+        "geocodeLabel": "Long Mountain, Haskell County, Oklahoma, 74943, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "hometown": "Los Angeles, California, USA",
+        "countries": "United Kingdom, United States",
+        "artistCount": 12,
+        "topRank": 7,
+        "artists": "[{\"rank\":7,\"name\":\"Billie Eilish\",\"slug\":\"billie-eilish\",\"genre\":\"Pop / Alternative\",\"country\":\"United States\",\"notes\":\"American alt-pop artist; 'Hit Me Hard and Soft' (2024) and 'BIRDS OF A FEATHER' (2024). Chart-name variants: Billie Eilish (x674)\",\"weeksCharted\":674,\"chartedSongs\":16,\"peakPosition\":1},{\"rank\":37,\"name\":\"The Neighbourhood\",\"slug\":\"the-neighbourhood\",\"genre\":\"Alternative / R&B\",\"country\":\"United Kingdom\",\"notes\":\"British alt-R&B band; 'Love Me Now' (2024). Chart-name variants: The Neighbourhood (x203)\",\"weeksCharted\":203,\"chartedSongs\":2,\"peakPosition\":21},{\"rank\":47,\"name\":\"Lord Huron\",\"slug\":\"lord-huron\",\"genre\":\"Indie / Folk-rock\",\"country\":\"United States\",\"notes\":\"American indie/folk-rock band; 'The World We Used to Know' (2024). Chart-name variants: Lord Huron (x171)\",\"weeksCharted\":171,\"chartedSongs\":1,\"peakPosition\":37},{\"rank\":70,\"name\":\"Doja Cat\",\"slug\":\"doja-cat\",\"genre\":\"Hip-hop / Pop\",\"country\":\"United States\",\"notes\":\"American hip-hop/pop artist; 'Scarlet' (2023) and 'Paint the Town Red' (2024). Chart-name variants: Doja Cat (x139)\",\"weeksCharted\":139,\"chartedSongs\":13,\"peakPosition\":1},{\"rank\":73,\"name\":\"Ravyn Lenae\",\"slug\":\"Ravyn Lenae\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'WISH YOU WERE HERE (feat. 21 Savage)' (2024). Chart-name variants: Ravyn Lenae (x83) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":83,\"chartedSongs\":1,\"peakPosition\":7},{\"rank\":116,\"name\":\"Miguel\",\"slug\":\"miguel\",\"genre\":\"Latin pop / Reggaeton\",\"country\":\"United States\",\"notes\":\"American-Mexican Latin artist; 'MILAGROS' (2023). Chart-name variants: Miguel (x89)\",\"weeksCharted\":89,\"chartedSongs\":2,\"peakPosition\":13},{\"rank\":135,\"name\":\"JVKE\",\"slug\":\"JVKE\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Golden Hour' (2023). Chart-name variants: JVKE (x57) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":57,\"chartedSongs\":1,\"peakPosition\":13},{\"rank\":149,\"name\":\"Guns N' Roses\",\"slug\":\"Guns N' Roses\",\"genre\":\"Rock / Hard rock\",\"country\":\"United States\",\"notes\":\"American hard-rock band; 'RISE OF THE MACHINES' (2025). Chart-name variants: Guns N' Roses (x152) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":152,\"chartedSongs\":1,\"peakPosition\":107},{\"rank\":166,\"name\":\"WizTheMc\",\"slug\":\"WizTheMc\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'HARD' (2023). Chart-name variants: WizTheMc (x39) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":39,\"chartedSongs\":1,\"peakPosition\":10},{\"rank\":181,\"name\":\"Eagles\",\"slug\":\"eagles\",\"genre\":\"Rock / Soft rock\",\"country\":\"United States\",\"notes\":\"American rock band; legacy 'Hotel California' (1976). Chart-name variants: Eagles (x86)\",\"weeksCharted\":86,\"chartedSongs\":2,\"peakPosition\":32},{\"rank\":225,\"name\":\"Toto\",\"slug\":\"toto\",\"genre\":\"Rock / Pop-rock\",\"country\":\"United States\",\"notes\":\"American rock band; legacy 'Africa' (1982). Chart-name variants: Toto (x89)\",\"weeksCharted\":89,\"chartedSongs\":1,\"peakPosition\":95},{\"rank\":272,\"name\":\"CORTIS\",\"slug\":\"cortis\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm the One' (2023). Chart-name variants: CORTIS (x24)\",\"weeksCharted\":24,\"chartedSongs\":2,\"peakPosition\":38}]",
+        "geocodeLabel": "Los Angeles, Los Angeles County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427676,
+          34.0536923
+        ]
+      },
+      "properties": {
+        "hometown": "Los Angeles, California, USA (USA-based K-pop)",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 60,
+        "artists": "[{\"rank\":60,\"name\":\"KATSEYE\",\"slug\":\"katseye\",\"genre\":\"K-pop\",\"country\":\"United States\",\"notes\":\"American K-pop girl group; 'BEFORE/AFTER' (2024). Chart-name variants: KATSEYE (x165)\",\"weeksCharted\":165,\"chartedSongs\":9,\"peakPosition\":10}]",
+        "geocodeLabel": "Los Angeles, Los Angeles County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ]
+      },
+      "properties": {
+        "hometown": "Louisville, Kentucky, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 124,
+        "artists": "[{\"rank\":124,\"name\":\"Jack Harlow\",\"slug\":\"jack-harlow\",\"genre\":\"Hip-hop / Pop\",\"country\":\"United States\",\"notes\":\"American rapper; 'Come Play' (2023). Chart-name variants: Jack Harlow (x74)\",\"weeksCharted\":74,\"chartedSongs\":6,\"peakPosition\":1}]",
+        "geocodeLabel": "Louisville, Jefferson County, Kentucky, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2324547,
+          53.4424618
+        ]
+      },
+      "properties": {
+        "hometown": "Manchester, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 2,
+        "topRank": 126,
+        "artists": "[{\"rank\":126,\"name\":\"Dave\",\"slug\":\"dave\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United Kingdom\",\"notes\":\"British rapper; 'GIANT' (2023). Chart-name variants: Dave (x80)\",\"weeksCharted\":80,\"chartedSongs\":4,\"peakPosition\":9},{\"rank\":158,\"name\":\"Oasis\",\"slug\":\"oasis\",\"genre\":\"Britpop / Rock\",\"country\":\"United Kingdom\",\"notes\":\"British Britpop band; legacy 'Wonderwall' (1995). Chart-name variants: Oasis (x66)\",\"weeksCharted\":66,\"chartedSongs\":2,\"peakPosition\":4}]",
+        "geocodeLabel": "Manchester, Greater Manchester, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6025597,
+          6.2697324
+        ]
+      },
+      "properties": {
+        "hometown": "Medellin, Colombia",
+        "countries": "Colombia",
+        "artistCount": 2,
+        "topRank": 16,
+        "artists": "[{\"rank\":16,\"name\":\"Karol G\",\"slug\":\"karol-g\",\"genre\":\"Reggaeton / Latin pop\",\"country\":\"Colombia\",\"notes\":\"Colombian reggaeton artist; 'Mañana Será Bonito' (2023). Chart-name variants: Karol G (x520)\",\"weeksCharted\":520,\"chartedSongs\":37,\"peakPosition\":1},{\"rank\":92,\"name\":\"Manuel Turizo\",\"slug\":\"manuel-turizo\",\"genre\":\"Pop / Regional latino\",\"country\":\"Colombia\",\"notes\":\"Colombian pop artist; 'I like it' (2024). Chart-name variants: Manuel Turizo (x152)\",\"weeksCharted\":152,\"chartedSongs\":5,\"peakPosition\":11}]",
+        "geocodeLabel": "Medellín, Valle de Aburrá, Antioquia, RAP del Agua y la Montaña, 0500, Colombia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631732,
+          -37.8142454
+        ]
+      },
+      "properties": {
+        "hometown": "Melbourne, Australia",
+        "countries": "Australia",
+        "artistCount": 1,
+        "topRank": 110,
+        "artists": "[{\"rank\":110,\"name\":\"Tame Impala\",\"slug\":\"tame-impala\",\"genre\":\"Psychedelic rock / Indie\",\"country\":\"Australia\",\"notes\":\"Australian indie/psychedelic band; 'The Slow Rush' (2022). Chart-name variants: Tame Impala (x112)\",\"weeksCharted\":112,\"chartedSongs\":5,\"peakPosition\":2}]",
+        "geocodeLabel": "Melbourne, Victoria, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0517786,
+          35.146026
+        ]
+      },
+      "properties": {
+        "hometown": "Memphis, Tennessee, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 235,
+        "artists": "[{\"rank\":235,\"name\":\"GloRilla\",\"slug\":\"glorilla\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'FNAF' (2022). Chart-name variants: GloRilla (x76)\",\"weeksCharted\":76,\"chartedSongs\":6,\"peakPosition\":3}]",
+        "geocodeLabel": "Memphis, Shelby County, West Tennessee, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0077097,
+          23.6585116
+        ]
+      },
+      "properties": {
+        "hometown": "Mexico (regional, city n/a)",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 163,
+        "artists": "[{\"rank\":163,\"name\":\"Libianca\",\"slug\":\"Libianca\",\"genre\":\"Latin / Reggaeton\",\"country\":\"Mexico\",\"notes\":\"Mexican reggaeton artist; 'MAGIA' (2024). Chart-name variants: Libianca (x40) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":40,\"chartedSongs\":1,\"peakPosition\":20}]",
+        "geocodeLabel": "México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1935973,
+          25.7741566
+        ]
+      },
+      "properties": {
+        "hometown": "Miami, Florida, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 74,
+        "artists": "[{\"rank\":74,\"name\":\"Ovy On The Drums\",\"slug\":\"ovy-on-the-drums\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American producer/rapper; 'HIGHEST IN THE ROOM' (2024). Chart-name variants: Ovy On The Drums (x160)\",\"weeksCharted\":160,\"chartedSongs\":7,\"peakPosition\":11},{\"rank\":258,\"name\":\"Pitbull\",\"slug\":\"pitbull\",\"genre\":\"Reggaeton / Hip-hop\",\"country\":\"United States\",\"notes\":\"American reggaeton/hip-hop artist; legacy 'Timber' (2014). Chart-name variants: Pitbull (x95)\",\"weeksCharted\":95,\"chartedSongs\":3,\"peakPosition\":22}]",
+        "geocodeLabel": "Miami, Miami-Dade County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.659405,
+          33.5965685
+        ]
+      },
+      "properties": {
+        "hometown": "Mission Viejo, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 4,
+        "artists": "[{\"rank\":4,\"name\":\"Sabrina Carpenter\",\"slug\":\"sabrina-carpenter\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Espresso' (2024) and 'Manchild' (2025) as 'Man's Best Friend' album. Chart-name variants: Sabrina Carpenter (x703)\",\"weeksCharted\":703,\"chartedSongs\":34,\"peakPosition\":1}]",
+        "geocodeLabel": "Mission Viejo, Orange County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.116219,
+          32.5025471
+        ]
+      },
+      "properties": {
+        "hometown": "Monroe, Louisiana, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 287,
+        "artists": "[{\"rank\":287,\"name\":\"Jelly Roll\",\"slug\":\"jelly-roll\",\"genre\":\"Country / Hip-hop\",\"country\":\"United States\",\"notes\":\"American country/hip-hop artist; 'Whitsitt Tavern' (2023). Chart-name variants: Jelly Roll (x53)\",\"weeksCharted\":53,\"chartedSongs\":7,\"peakPosition\":19}]",
+        "geocodeLabel": "Monroe, Ouachita Parish, Louisiana, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.315258,
+          25.6802019
+        ]
+      },
+      "properties": {
+        "hometown": "Monterrey, Nuevo Leon, Mexico",
+        "countries": "Mexico",
+        "artistCount": 3,
+        "topRank": 63,
+        "artists": "[{\"rank\":63,\"name\":\"Grupo Frontera\",\"slug\":\"grupo-frontera\",\"genre\":\"Corridos tumbados / Regional mexicano\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'Bea' (2022). Chart-name variants: Grupo Frontera (x298)\",\"weeksCharted\":298,\"chartedSongs\":11,\"peakPosition\":1},{\"rank\":91,\"name\":\"Junior H\",\"slug\":\"junior-h\",\"genre\":\"Corridos tumbados / Regional mexicano\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'Dale Dale' (2024). Chart-name variants: Junior H (x165)\",\"weeksCharted\":165,\"chartedSongs\":17,\"peakPosition\":13},{\"rank\":279,\"name\":\"Grupo Firme\",\"slug\":\"grupo-firme\",\"genre\":\"Regional mexicano / Banda\",\"country\":\"Mexico\",\"notes\":\"Mexican regional/banda group; 'Vete de Mi' (2023). Chart-name variants: Grupo Firme (x47)\",\"weeksCharted\":47,\"chartedSongs\":1,\"peakPosition\":38}]",
+        "geocodeLabel": "Monterrey, Nuevo León, 64490, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3090775,
+          32.3777111
+        ]
+      },
+      "properties": {
+        "hometown": "Montgomery, Alabama, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 241,
+        "artists": "[{\"rank\":241,\"name\":\"Nat \\\"King\\\" Cole\",\"slug\":\"Nat \\\"King\\\" Cole\",\"genre\":\"Jazz / Pop\",\"country\":\"United States\",\"notes\":\"American jazz/vocal legend; legacy 'Unforgettable' (1956). Chart-name variants: Nat \\\"King\\\" Cole (x19) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":19,\"chartedSongs\":1,\"peakPosition\":11},{\"rank\":271,\"name\":\"Nat King Cole\",\"slug\":\"nat-king-cole\",\"genre\":\"Jazz / Pop\",\"country\":\"United States\",\"notes\":\"American jazz/pop legend; legacy 'Unforgettable' (1951). Chart-name variants: Nat King Cole (x22)\",\"weeksCharted\":22,\"chartedSongs\":3,\"peakPosition\":31}]",
+        "geocodeLabel": "Montgomery, Montgomery County, Alabama, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8998438,
+          35.1851045
+        ]
+      },
+      "properties": {
+        "hometown": "Nagoya, Japan",
+        "countries": "Japan",
+        "artistCount": 1,
+        "topRank": 257,
+        "artists": "[{\"rank\":257,\"name\":\"King Gnu\",\"slug\":\"King Gnu\",\"genre\":\"J-rock / Pop\",\"country\":\"Japan\",\"notes\":\"Japanese rock/pop band; 'SPECIALZ' (2023). Chart-name variants: King Gnu (x30) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":30,\"chartedSongs\":3,\"peakPosition\":28}]",
+        "geocodeLabel": "名古屋市, 愛知県, 日本"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7742984,
+          36.1622767
+        ]
+      },
+      "properties": {
+        "hometown": "Nashville, Tennessee, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 1,
+        "artists": "[{\"rank\":1,\"name\":\"Taylor Swift\",\"slug\":\"taylor-swift\",\"genre\":\"Pop / Country\",\"country\":\"United States\",\"notes\":\"American country-pop superstar; 'The Man', 'Anti-Hero', 'Midnight Rain'. Chart-name variants: Taylor Swift (x1326)\",\"weeksCharted\":1326,\"chartedSongs\":115,\"peakPosition\":1}]",
+        "geocodeLabel": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "hometown": "New York, New York, USA",
+        "countries": "United States",
+        "artistCount": 13,
+        "topRank": 35,
+        "artists": "[{\"rank\":35,\"name\":\"Lady Gaga\",\"slug\":\"lady-gaga\",\"genre\":\"Pop / Dance-pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Mayhem' (2024). Chart-name variants: Lady Gaga (x345)\",\"weeksCharted\":345,\"chartedSongs\":20,\"peakPosition\":1},{\"rank\":44,\"name\":\"Gracie Abrams\",\"slug\":\"gracie-abrams\",\"genre\":\"Indie pop\",\"country\":\"United States\",\"notes\":\"American indie-pop artist; 'The Carrington Files' (2024). Chart-name variants: Gracie Abrams (x183)\",\"weeksCharted\":183,\"chartedSongs\":8,\"peakPosition\":4},{\"rank\":62,\"name\":\"Djo\",\"slug\":\"djo\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'End of the World' (2023). Chart-name variants: Djo (x135)\",\"weeksCharted\":135,\"chartedSongs\":1,\"peakPosition\":1},{\"rank\":102,\"name\":\"David Kushner\",\"slug\":\"David Kushner\",\"genre\":\"Indie pop / Rock\",\"country\":\"United States\",\"notes\":\"American indie-pop artist; 'The Night We Met' (2023). Chart-name variants: David Kushner (x75) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":75,\"chartedSongs\":2,\"peakPosition\":11},{\"rank\":107,\"name\":\"Lana Del Rey\",\"slug\":\"lana-del-rey\",\"genre\":\"Pop / Indie\",\"country\":\"United States\",\"notes\":\"American pop/indie artist; 'LANS IN GLASS' (2025). Chart-name variants: Lana Del Rey (x242)\",\"weeksCharted\":242,\"chartedSongs\":12,\"peakPosition\":5},{\"rank\":127,\"name\":\"Artemas\",\"slug\":\"Artemas\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Heaven' (2023). Chart-name variants: Artemas (x56) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":56,\"chartedSongs\":2,\"peakPosition\":2},{\"rank\":179,\"name\":\"Ray Dalton\",\"slug\":\"ray-dalton\",\"genre\":\"Country / Pop\",\"country\":\"United States\",\"notes\":\"American country-pop artist; 'Boy in a Snowstorm' (2024). Chart-name variants: Ray Dalton (x136)\",\"weeksCharted\":136,\"chartedSongs\":1,\"peakPosition\":68},{\"rank\":206,\"name\":\"ZXKAI & slxughter\",\"slug\":\"ZXKAI & slxughter\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American rapper/producer duo; 'KILLA (feat. 21 Savage)' (2023). Chart-name variants: ZXKAI & slxughter (x30) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":30,\"chartedSongs\":1,\"peakPosition\":28},{\"rank\":232,\"name\":\"The Ronettes\",\"slug\":\"the-ronettes\",\"genre\":\"Rock and Roll / Pop\",\"country\":\"United States\",\"notes\":\"American rock-and-roll group; legacy 'Be My Baby' (1963). Chart-name variants: The Ronettes (x20)\",\"weeksCharted\":20,\"chartedSongs\":1,\"peakPosition\":12},{\"rank\":233,\"name\":\"Darlene Love\",\"slug\":\"darlene-love\",\"genre\":\"Rock and Roll / Pop\",\"country\":\"United States\",\"notes\":\"American rock-and-roll artist; legacy 'Chapel of Love' (1963). Chart-name variants: Darlene Love (x23)\",\"weeksCharted\":23,\"chartedSongs\":2,\"peakPosition\":16},{\"rank\":255,\"name\":\"Jessie Murph\",\"slug\":\"jessie-murph\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Circles' (2023). Chart-name variants: Jessie Murph (x44)\",\"weeksCharted\":44,\"chartedSongs\":4,\"peakPosition\":33},{\"rank\":289,\"name\":\"Eartha Kitt\",\"slug\":\"eartha-kitt\",\"genre\":\"Jazz / Pop\",\"country\":\"United States\",\"notes\":\"American jazz/pop legend; legacy 'These Foolish Things' (1949). Chart-name variants: Eartha Kitt (x14)\",\"weeksCharted\":14,\"chartedSongs\":1,\"peakPosition\":27},{\"rank\":296,\"name\":\"Nicky Youre & dazy\",\"slug\":\"Nicky Youre & dazy\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artists; 'SICKO MODE' (2023). Chart-name variants: Nicky Youre & dazy (x31) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":31,\"chartedSongs\":1,\"peakPosition\":71}]",
+        "geocodeLabel": "New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "hometown": "New York, New York, USA (Greece-origin members)",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 80,
+        "artists": "[{\"rank\":80,\"name\":\"The Marias\",\"slug\":\"the-marias\",\"genre\":\"Pop / Alternative\",\"country\":\"United Kingdom\",\"notes\":\"British pop band; 'Supercuter' (2024). Chart-name variants: The Marias (x105)\",\"weeksCharted\":105,\"chartedSongs\":2,\"peakPosition\":27}]",
+        "geocodeLabel": "New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "hometown": "New York, New York, USA (Puerto Rican origin)",
+        "countries": "Puerto Rico",
+        "artistCount": 1,
+        "topRank": 298,
+        "artists": "[{\"rank\":298,\"name\":\"Anuel AA\",\"slug\":\"anuel-aa\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; 'YHLQMDLG' (2023). Chart-name variants: Anuel AA (x45)\",\"weeksCharted\":45,\"chartedSongs\":7,\"peakPosition\":38}]",
+        "geocodeLabel": "New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723667,
+          40.735657
+        ]
+      },
+      "properties": {
+        "hometown": "Newark, New Jersey, USA",
+        "countries": "United States",
+        "artistCount": 3,
+        "topRank": 131,
+        "artists": "[{\"rank\":131,\"name\":\"Lil Uzi Vert\",\"slug\":\"lil-uzi-vert\",\"genre\":\"Hip-hop / Trap\",\"country\":\"United States\",\"notes\":\"American rapper; 'THE POWER OF GOD' (2024). Chart-name variants: Lil Uzi Vert (x74)\",\"weeksCharted\":74,\"chartedSongs\":18,\"peakPosition\":18},{\"rank\":173,\"name\":\"Coi Leray\",\"slug\":\"coi-leray\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'GIRL' (2025). Chart-name variants: Coi Leray (x56)\",\"weeksCharted\":56,\"chartedSongs\":3,\"peakPosition\":17},{\"rank\":284,\"name\":\"Lil Tecca\",\"slug\":\"lil-tecca\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'VOTV' (2022). Chart-name variants: Lil Tecca (x34)\",\"weeksCharted\":34,\"chartedSongs\":4,\"peakPosition\":34}]",
+        "geocodeLabel": "Newark, Essex County, New Jersey, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6131572,
+          54.9738474
+        ]
+      },
+      "properties": {
+        "hometown": "Newcastle upon Tyne, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 254,
+        "artists": "[{\"rank\":254,\"name\":\"Sam Fender\",\"slug\":\"sam-fender\",\"genre\":\"Rock / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British rock/pop artist; 'Seventeen Going Under' (2023). Chart-name variants: Sam Fender (x36)\",\"weeksCharted\":36,\"chartedSongs\":1,\"peakPosition\":32}]",
+        "geocodeLabel": "Newcastle upon Tyne, Tyne and Wear, North East, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9028043,
+          52.2343297
+        ]
+      },
+      "properties": {
+        "hometown": "Northampton, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 162,
+        "artists": "[{\"rank\":162,\"name\":\"Natasha Bedingfield\",\"slug\":\"natasha-bedingfield\",\"genre\":\"Pop / R&B\",\"country\":\"United Kingdom\",\"notes\":\"British pop/R&B artist; legacy 'Unwritten' (2004). Chart-name variants: Natasha Bedingfield (x77)\",\"weeksCharted\":77,\"chartedSongs\":1,\"peakPosition\":20}]",
+        "geocodeLabel": "Northampton, West Northamptonshire, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1496461,
+          52.9534193
+        ]
+      },
+      "properties": {
+        "hometown": "Nottingham, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 2,
+        "topRank": 38,
+        "artists": "[{\"rank\":38,\"name\":\"Alex Warren\",\"slug\":\"alex-warren\",\"genre\":\"Pop / R&B\",\"country\":\"United Kingdom\",\"notes\":\"British pop/R&B artist; 'Ordinary' (2024). Chart-name variants: Alex Warren (x208)\",\"weeksCharted\":208,\"chartedSongs\":8,\"peakPosition\":1},{\"rank\":132,\"name\":\"Hotel Ugly\",\"slug\":\"Hotel Ugly\",\"genre\":\"Pop / R&B\",\"country\":\"United Kingdom\",\"notes\":\"British pop artist; 'CUFFS (feat. Benson Boone)' (2024). Chart-name variants: Hotel Ugly (x100) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":100,\"chartedSongs\":1,\"peakPosition\":64}]",
+        "geocodeLabel": "City of Nottingham, Nottinghamshire, East Midlands, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271356,
+          37.8044557
+        ]
+      },
+      "properties": {
+        "hometown": "Oakland, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 151,
+        "artists": "[{\"rank\":151,\"name\":\"Kehlani\",\"slug\":\"kehlani\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'MIDNIGHTS' (2024). Chart-name variants: Kehlani (x51)\",\"weeksCharted\":51,\"chartedSongs\":2,\"peakPosition\":22}]",
+        "geocodeLabel": "Oakland, Alameda County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7389701,
+          59.9133301
+        ]
+      },
+      "properties": {
+        "hometown": "Oslo, Norway",
+        "countries": "Norway",
+        "artistCount": 1,
+        "topRank": 83,
+        "artists": "[{\"rank\":83,\"name\":\"a-ha\",\"slug\":\"a-ha\",\"genre\":\"Synth-pop / New wave\",\"country\":\"Norway\",\"notes\":\"Norwegian synth-pop band; legacy 'Take On Me' (1985). Chart-name variants: a-ha (x182)\",\"weeksCharted\":182,\"chartedSongs\":1,\"peakPosition\":57}]",
+        "geocodeLabel": "Oslo, Norge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6901106,
+          45.4208777
+        ]
+      },
+      "properties": {
+        "hometown": "Ottawa, Ontario, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 220,
+        "artists": "[{\"rank\":220,\"name\":\"MOLIY, Silent Addy, Skillibeng & Shenseea\",\"slug\":\"MOLIY, Silent Addy, Skillibeng & Shenseea\",\"genre\":\"Hip-hop / Rap\",\"country\":\"Canada\",\"notes\":\"Canadian hip-hop artists; 'I'm the One' (2023). Chart-name variants: MOLIY, Silent Addy, Skillibeng & Shenseea (x25) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":25,\"chartedSongs\":1,\"peakPosition\":6}]",
+        "geocodeLabel": "Ottawa, Eastern Ontario, Ontario, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3483915,
+          48.8534951
+        ]
+      },
+      "properties": {
+        "hometown": "Paris, France",
+        "countries": "France",
+        "artistCount": 2,
+        "topRank": 96,
+        "artists": "[{\"rank\":96,\"name\":\"Daft Punk\",\"slug\":\"daft-punk\",\"genre\":\"Electronic / House\",\"country\":\"France\",\"notes\":\"French electronic duo (dissolved 2021); 'Get Lucky' (2013). Chart-name variants: Daft Punk (x199)\",\"weeksCharted\":199,\"chartedSongs\":1,\"peakPosition\":34},{\"rank\":145,\"name\":\"Cedric Gervais\",\"slug\":\"cedric-gervais\",\"genre\":\"Electronic / House\",\"country\":\"France\",\"notes\":\"French DJ/producer; 'Let Love' (2024). Chart-name variants: Cedric Gervais (x190)\",\"weeksCharted\":190,\"chartedSongs\":1,\"peakPosition\":73}]",
+        "geocodeLabel": "Paris, Île-de-France, France métropolitaine, France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3770142,
+          51.5968712
+        ]
+      },
+      "properties": {
+        "hometown": "Pinner (London), England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 139,
+        "artists": "[{\"rank\":139,\"name\":\"Elton John\",\"slug\":\"elton-john\",\"genre\":\"Rock / Pop\",\"country\":\"United Kingdom\",\"notes\":\"British rock/pop artist; legacy 'Rocket Man' (1972). Chart-name variants: Elton John (x123)\",\"weeksCharted\":123,\"chartedSongs\":4,\"peakPosition\":14}]",
+        "geocodeLabel": "Pinner, London Borough of Harrow, Greater London, England, HA5 3AW, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0025666,
+          40.4406968
+        ]
+      },
+      "properties": {
+        "hometown": "Pittsburgh, Pennsylvania, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 67,
+        "artists": "[{\"rank\":67,\"name\":\"Gigi Perez\",\"slug\":\"gigi-perez\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Sneaky' (2023). Chart-name variants: Gigi Perez (x113)\",\"weeksCharted\":113,\"chartedSongs\":1,\"peakPosition\":10}]",
+        "geocodeLabel": "Pittsburgh, Allegheny County, Pennsylvania, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6140412,
+          18.0668224
+        ]
+      },
+      "properties": {
+        "hometown": "Ponce, Puerto Rico",
+        "countries": "Puerto Rico",
+        "artistCount": 1,
+        "topRank": 269,
+        "artists": "[{\"rank\":269,\"name\":\"Chino Pacas\",\"slug\":\"Chino Pacas\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; 'La Noche' (2024). Chart-name variants: Chino Pacas (x24) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":24,\"chartedSongs\":2,\"peakPosition\":44}]",
+        "geocodeLabel": "Ponce, Puerto Rico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6587085,
+          40.2337289
+        ]
+      },
+      "properties": {
+        "hometown": "Provo, Utah, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 34,
+        "artists": "[{\"rank\":34,\"name\":\"OneRepublic\",\"slug\":\"onerepublic\",\"genre\":\"Pop / Dance-pop\",\"country\":\"United States\",\"notes\":\"American pop band; 'Runaway' (2024). Chart-name variants: OneRepublic (x328)\",\"weeksCharted\":328,\"chartedSongs\":3,\"peakPosition\":13}]",
+        "geocodeLabel": "Provo, Utah County, Utah, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.4858295,
+          18.2247706
+        ]
+      },
+      "properties": {
+        "hometown": "Puerto Rico / Mexico (regional)",
+        "countries": "Puerto Rico",
+        "artistCount": 1,
+        "topRank": 71,
+        "artists": "[{\"rank\":71,\"name\":\"FloyyMenor X Cris Mj\",\"slug\":\"FloyyMenor X Cris Mj\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artists; 'LUNGA' (2024). Chart-name variants: FloyyMenor X Cris Mj (x110) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":110,\"chartedSongs\":1,\"peakPosition\":4}]",
+        "geocodeLabel": "Puerto Rico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.916561,
+          40.7432259
+        ]
+      },
+      "properties": {
+        "hometown": "Queens (New York), New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 123,
+        "artists": "[{\"rank\":123,\"name\":\"Nicki Minaj\",\"slug\":\"nicki-minaj\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'Pink Friday 2' (2023). Chart-name variants: Nicki Minaj (x103)\",\"weeksCharted\":103,\"chartedSongs\":20,\"peakPosition\":1}]",
+        "geocodeLabel": "USA Super Stores, 48-01, Queens Boulevard, Woodside, Queens, Queens County, New York, 11104, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2093727,
+          -22.9110137
+        ]
+      },
+      "properties": {
+        "hometown": "Rio de Janeiro, Brazil",
+        "countries": "Brazil",
+        "artistCount": 1,
+        "topRank": 278,
+        "artists": "[{\"rank\":278,\"name\":\"Anitta\",\"slug\":\"anitta\",\"genre\":\"Samba-pop / Reggaeton\",\"country\":\"Brazil\",\"notes\":\"Brazilian pop artist; 'Fim de Fiesta' (2023). Chart-name variants: Anitta (x40)\",\"weeksCharted\":40,\"chartedSongs\":3,\"peakPosition\":7}]",
+        "geocodeLabel": "Rio de Janeiro, Região Sudeste, Brasil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4853015,
+          48.8033057
+        ]
+      },
+      "properties": {
+        "hometown": "Saint-Maur-des-Fosses (Paris), France",
+        "countries": "France",
+        "artistCount": 1,
+        "topRank": 103,
+        "artists": "[{\"rank\":103,\"name\":\"David Guetta\",\"slug\":\"david-guetta\",\"genre\":\"Electronic / Dance\",\"country\":\"France\",\"notes\":\"French DJ/producer; 'Baby Don't Go' (2024). Chart-name variants: David Guetta (x167)\",\"weeksCharted\":167,\"chartedSongs\":5,\"peakPosition\":3}]",
+        "geocodeLabel": "Saint-Maur-des-Fossés, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8956743,
+          42.5214439
+        ]
+      },
+      "properties": {
+        "hometown": "Salem, Massachusetts, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 226,
+        "artists": "[{\"rank\":226,\"name\":\"Meghan Trainor\",\"slug\":\"meghan-trainor\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Treat You Better' (2014). Chart-name variants: Meghan Trainor (x27)\",\"weeksCharted\":27,\"chartedSongs\":4,\"peakPosition\":10}]",
+        "geocodeLabel": "Salem, Essex County, Massachusetts, 01970, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0556773,
+          37.293198
+        ]
+      },
+      "properties": {
+        "hometown": "Salem, Virginia, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 19,
+        "artists": "[{\"rank\":19,\"name\":\"Benson Boone\",\"slug\":\"benson-boone\",\"genre\":\"Pop / Rock\",\"country\":\"United States\",\"notes\":\"American pop-rock artist; 'Beautiful Things' (2024). Chart-name variants: Benson Boone (x280)\",\"weeksCharted\":280,\"chartedSongs\":10,\"peakPosition\":1}]",
+        "geocodeLabel": "Salem, Virginia, 24153, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4075201,
+          37.7879363
+        ]
+      },
+      "properties": {
+        "hometown": "San Francisco, California, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 88,
+        "artists": "[{\"rank\":88,\"name\":\"Journey\",\"slug\":\"journey\",\"genre\":\"Rock / Pop-rock\",\"country\":\"United States\",\"notes\":\"American rock band; legacy 'Don't Stop Believin'' (1981). Chart-name variants: Journey (x151)\",\"weeksCharted\":151,\"chartedSongs\":1,\"peakPosition\":44},{\"rank\":164,\"name\":\"Creedence Clearwater Revival\",\"slug\":\"creedence-clearwater-revival\",\"genre\":\"Rock / Blues-rock\",\"country\":\"United States\",\"notes\":\"American blues-rock band; legacy 'Proud Mary' (1969). Chart-name variants: Creedence Clearwater Revival (x112)\",\"weeksCharted\":112,\"chartedSongs\":2,\"peakPosition\":92}]",
+        "geocodeLabel": "San Francisco, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.890591,
+          37.3361663
+        ]
+      },
+      "properties": {
+        "hometown": "San Jose, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 114,
+        "artists": "[{\"rank\":114,\"name\":\"Sienna Spiro\",\"slug\":\"Sienna Spiro\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Crush' (2023). Chart-name variants: Sienna Spiro (x73) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":73,\"chartedSongs\":5,\"peakPosition\":11}]",
+        "geocodeLabel": "San Jose, Santa Clara County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05344,
+          18.384239
+        ]
+      },
+      "properties": {
+        "hometown": "San Juan, Puerto Rico",
+        "countries": "Puerto Rico",
+        "artistCount": 5,
+        "topRank": 2,
+        "artists": "[{\"rank\":2,\"name\":\"Bad Bunny\",\"slug\":\"bad-bunny\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton star; 'Nadie Sabe Lo Que Va a Pasar Mañana' (2023) and 'Debí Tirar Más Fotos' (2024). Chart-name variants: Bad Bunny (x1155)\",\"weeksCharted\":1155,\"chartedSongs\":65,\"peakPosition\":1},{\"rank\":185,\"name\":\"Cris Mj\",\"slug\":\"Cris Mj\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; 'LUNGA' (2024). Chart-name variants: Cris Mj (x54) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":54,\"chartedSongs\":2,\"peakPosition\":37},{\"rank\":203,\"name\":\"Don Omar\",\"slug\":\"don-omar\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; legacy 'Danza Kuduro' (2010). Chart-name variants: Don Omar (x71)\",\"weeksCharted\":71,\"chartedSongs\":1,\"peakPosition\":75},{\"rank\":229,\"name\":\"Jose Feliciano\",\"slug\":\"Jose Feliciano\",\"genre\":\"Latin / Pop\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican artist; legacy 'La Bamba' (1965). Chart-name variants: Jose Feliciano (x20) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":20,\"chartedSongs\":1,\"peakPosition\":5},{\"rank\":268,\"name\":\"Yandel\",\"slug\":\"yandel\",\"genre\":\"Reggaeton / Latin urban\",\"country\":\"Puerto Rico\",\"notes\":\"Puerto Rican reggaeton artist; legacy 'Gasolina' (2004). Chart-name variants: Yandel (x34)\",\"weeksCharted\":34,\"chartedSongs\":2,\"peakPosition\":13}]",
+        "geocodeLabel": "San Juan, Puerto Rico, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6015783,
+          13.1182985
+        ]
+      },
+      "properties": {
+        "hometown": "Sandy Bay, Saint Michael, Barbados",
+        "countries": "Barbados",
+        "artistCount": 1,
+        "topRank": 76,
+        "artists": "[{\"rank\":76,\"name\":\"Rihanna\",\"slug\":\"rihanna\",\"genre\":\"Pop / R&B / Dancehall\",\"country\":\"Barbados\",\"notes\":\"Barbadian pop artist; 'SAD BROOKLYN' (2025). Chart-name variants: Rihanna (x300)\",\"weeksCharted\":300,\"chartedSongs\":18,\"peakPosition\":32}]",
+        "geocodeLabel": "Saint Michael, Barbados"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702667,
+          34.4221319
+        ]
+      },
+      "properties": {
+        "hometown": "Santa Barbara, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 157,
+        "artists": "[{\"rank\":157,\"name\":\"Katy Perry\",\"slug\":\"katy-perry\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'I'm Sorry' (2025). Chart-name variants: Katy Perry (x45)\",\"weeksCharted\":45,\"chartedSongs\":4,\"peakPosition\":23}]",
+        "geocodeLabel": "Santa Barbara, Santa Barbara County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.491227,
+          34.0194704
+        ]
+      },
+      "properties": {
+        "hometown": "Santa Monica, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 183,
+        "artists": "[{\"rank\":183,\"name\":\"Dean Martin\",\"slug\":\"Dean Martin\",\"genre\":\"Pop / Jazz\",\"country\":\"United States\",\"notes\":\"American pop/jazz legend; legacy 'That's Amore' (1953). Chart-name variants: Dean Martin (x35) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":35,\"chartedSongs\":3,\"peakPosition\":6}]",
+        "geocodeLabel": "Santa Monica, Los Angeles County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9782914,
+          37.5666791
+        ]
+      },
+      "properties": {
+        "hometown": "Seoul, South Korea",
+        "countries": "South Korea",
+        "artistCount": 23,
+        "topRank": 33,
+        "artists": "[{\"rank\":33,\"name\":\"BTS\",\"slug\":\"bts\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'ARIRANG' (2025) and member solo activity. Chart-name variants: BTS (x225)\",\"weeksCharted\":225,\"chartedSongs\":17,\"peakPosition\":1},{\"rank\":36,\"name\":\"JENNIE\",\"slug\":\"jennie\",\"genre\":\"K-pop / Pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BLACKPINK); 'ZEN' (2024). Chart-name variants: JENNIE (x329)\",\"weeksCharted\":329,\"chartedSongs\":14,\"peakPosition\":2},{\"rank\":41,\"name\":\"NewJeans\",\"slug\":\"newjeans\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Supernatural' (2024). Chart-name variants: NewJeans (x216)\",\"weeksCharted\":216,\"chartedSongs\":15,\"peakPosition\":2},{\"rank\":77,\"name\":\"Le Sserafim\",\"slug\":\"le-sserafim\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'EASY' (2025). Chart-name variants: Le Sserafim (x141)\",\"weeksCharted\":141,\"chartedSongs\":11,\"peakPosition\":6},{\"rank\":85,\"name\":\"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee\",\"slug\":\"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee\",\"genre\":\"K-pop / Hip-hop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop/hip-hop group for 'KPop Demon Hunters' (2025). Chart-name variants: Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee (x75) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":75,\"chartedSongs\":2,\"peakPosition\":3},{\"rank\":87,\"name\":\"Aespa\",\"slug\":\"aespa\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop girl group; 'MAGIC' (2024) and 'NEXT LEVEL' (2025). Chart-name variants: Aespa (x112)\",\"weeksCharted\":112,\"chartedSongs\":10,\"peakPosition\":5},{\"rank\":121,\"name\":\"ILLIT\",\"slug\":\"illit\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'SUPER REAL' (2024). Chart-name variants: ILLIT (x86)\",\"weeksCharted\":86,\"chartedSongs\":6,\"peakPosition\":6},{\"rank\":134,\"name\":\"HUGEL\",\"slug\":\"hugel\",\"genre\":\"Hip-hop / Rap\",\"country\":\"South Korea\",\"notes\":\"South Korean hip-hop artist; 'KILLA' (2024). Chart-name variants: HUGEL (x87)\",\"weeksCharted\":87,\"chartedSongs\":3,\"peakPosition\":27},{\"rank\":140,\"name\":\"BLACKPINK\",\"slug\":\"blackpink\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Super Shy' (2023). Chart-name variants: BLACKPINK (x67)\",\"weeksCharted\":67,\"chartedSongs\":7,\"peakPosition\":1},{\"rank\":144,\"name\":\"Fifty Fifty\",\"slug\":\"fifty-fifty\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Cupid' (2023). Chart-name variants: Fifty Fifty (x46)\",\"weeksCharted\":46,\"chartedSongs\":1,\"peakPosition\":2},{\"rank\":160,\"name\":\"IVE\",\"slug\":\"ive\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'REBEL HEART' (2025). Chart-name variants: IVE (x63)\",\"weeksCharted\":63,\"chartedSongs\":11,\"peakPosition\":21},{\"rank\":165,\"name\":\"Jin\",\"slug\":\"Jin\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BTS); 'Standing Next to You' (2023). Chart-name variants: Jin (x33) | JIN (x12) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":45,\"chartedSongs\":4,\"peakPosition\":5},{\"rank\":184,\"name\":\"Twice\",\"slug\":\"twice\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Cupiddity' (2025). Chart-name variants: Twice (x44)\",\"weeksCharted\":44,\"chartedSongs\":6,\"peakPosition\":22},{\"rank\":195,\"name\":\"Rumi & JINU: EJAE & Andrew Choi\",\"slug\":\"Rumi & JINU: EJAE & Andrew Choi\",\"genre\":\"K-pop / Pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop voice group for 'KPop Demon Hunters' (2025). Chart-name variants: Rumi & JINU: EJAE & Andrew Choi (x27) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":27,\"chartedSongs\":1,\"peakPosition\":11},{\"rank\":211,\"name\":\"Pinkfong\",\"slug\":\"Pinkfong\",\"genre\":\"Children's music / K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean children's music IP; 'Pinkfong' (2016). Chart-name variants: Pinkfong (x79) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":79,\"chartedSongs\":1,\"peakPosition\":87},{\"rank\":213,\"name\":\"BABYMONSTER\",\"slug\":\"babymonster\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'SHEESH' (2023). Chart-name variants: BABYMONSTER (x37)\",\"weeksCharted\":37,\"chartedSongs\":5,\"peakPosition\":30},{\"rank\":214,\"name\":\"Stray Kids\",\"slug\":\"stray-kids\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Ae' (2024) and 'MAXIMIZER' (2025). Chart-name variants: Stray Kids (x31)\",\"weeksCharted\":31,\"chartedSongs\":10,\"peakPosition\":10},{\"rank\":222,\"name\":\"ROSE\",\"slug\":\"ROSE\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BLACKPINK); 'On The Ground' (2023). Chart-name variants: ROSE (x37) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":37,\"chartedSongs\":9,\"peakPosition\":15},{\"rank\":244,\"name\":\"(G)I-DLE\",\"slug\":\"(G)I-DLE\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Kisame' (2023). Chart-name variants: (G)I-DLE (x29) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":29,\"chartedSongs\":4,\"peakPosition\":21},{\"rank\":249,\"name\":\"JISOO\",\"slug\":\"jisoo\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"Korean K-pop artist (BLACKPINK); 'Pink Venom' (2023). Chart-name variants: JISOO (x24)\",\"weeksCharted\":24,\"chartedSongs\":4,\"peakPosition\":2},{\"rank\":251,\"name\":\"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE\",\"slug\":\"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop artists (TWICE); 'I Can't Breathe' (2023). Chart-name variants: JEONGYEON, JIHYO & CHAEYOUNG Of TWICE (x20) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":20,\"chartedSongs\":1,\"peakPosition\":30},{\"rank\":262,\"name\":\"Seventeen\",\"slug\":\"seventeen\",\"genre\":\"K-pop\",\"country\":\"South Korea\",\"notes\":\"South Korean K-pop group; 'Super' (2023). Chart-name variants: Seventeen (x27)\",\"weeksCharted\":27,\"chartedSongs\":5,\"peakPosition\":37},{\"rank\":270,\"name\":\"Peggy Gou\",\"slug\":\"peggy-gou\",\"genre\":\"Electronic / House\",\"country\":\"South Korea\",\"notes\":\"South Korean DJ/producer; 'I'm Good (Blue)' (2023). Chart-name variants: Peggy Gou (x20)\",\"weeksCharted\":20,\"chartedSongs\":1,\"peakPosition\":33}]",
+        "geocodeLabel": "서울특별시, 대한민국"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4702278,
+          53.3806626
+        ]
+      },
+      "properties": {
+        "hometown": "Sheffield, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 2,
+        "topRank": 40,
+        "artists": "[{\"rank\":40,\"name\":\"Arctic Monkeys\",\"slug\":\"arctic-monkeys\",\"genre\":\"Indie rock / Britpop\",\"country\":\"United Kingdom\",\"notes\":\"British indie-rock band; 'The Car' (2024). Chart-name variants: Arctic Monkeys (x346)\",\"weeksCharted\":346,\"chartedSongs\":4,\"peakPosition\":55},{\"rank\":169,\"name\":\"Sam Smith\",\"slug\":\"sam-smith\",\"genre\":\"Pop / R&B\",\"country\":\"United Kingdom\",\"notes\":\"British pop/R&B artist; 'Gloria' (2023). Chart-name variants: Sam Smith (x85)\",\"weeksCharted\":85,\"chartedSongs\":7,\"peakPosition\":2}]",
+        "geocodeLabel": "Sheffield, South Yorkshire, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4622431,
+          35.7234734
+        ]
+      },
+      "properties": {
+        "hometown": "Siler City, North Carolina, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 99,
+        "artists": "[{\"rank\":99,\"name\":\"Myles Smith\",\"slug\":\"myles-smith\",\"genre\":\"Country / Rock\",\"country\":\"United States\",\"notes\":\"American country/rock artist; 'The Best Things' (2024). Chart-name variants: Myles Smith (x99)\",\"weeksCharted\":99,\"chartedSongs\":2,\"peakPosition\":16}]",
+        "geocodeLabel": "Siler City, Chatham County, North Carolina, 27344, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5000001,
+          25.0000001
+        ]
+      },
+      "properties": {
+        "hometown": "Sinaloa, Mexico (regional)",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 18,
+        "artists": "[{\"rank\":18,\"name\":\"Fuerza Regida\",\"slug\":\"fuerza-regida\",\"genre\":\"Corridos tumbados / Regional mexicano\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'De la Calle' (2023). Chart-name variants: Fuerza Regida (x501)\",\"weeksCharted\":501,\"chartedSongs\":25,\"peakPosition\":4}]",
+        "geocodeLabel": "Sinaloa, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4751357,
+          54.2720696
+        ]
+      },
+      "properties": {
+        "hometown": "Sligo, Ireland",
+        "countries": "Ireland",
+        "artistCount": 1,
+        "topRank": 42,
+        "artists": "[{\"rank\":42,\"name\":\"Hozier\",\"slug\":\"hozier\",\"genre\":\"Soul / Indie\",\"country\":\"Ireland\",\"notes\":\"Irish soul/indie artist; 'Unreal Unearth' (2024). Chart-name variants: Hozier (x285)\",\"weeksCharted\":285,\"chartedSongs\":4,\"peakPosition\":1}]",
+        "geocodeLabel": "Sligo, Sligo Municipal Borough District, County Sligo, Connacht, Éire / Ireland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.217546,
+          36.5297243
+        ]
+      },
+      "properties": {
+        "hometown": "Sneedville, Tennessee, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 6,
+        "artists": "[{\"rank\":6,\"name\":\"Morgan Wallen\",\"slug\":\"morgan-wallen\",\"genre\":\"Country\",\"country\":\"United States\",\"notes\":\"American country artist; 'One Thing at a Time' (2023) and 'I'm the Problem' (2024). Chart-name variants: Morgan Wallen (x813)\",\"weeksCharted\":813,\"chartedSongs\":71,\"peakPosition\":1}]",
+        "geocodeLabel": "Sneedville, Hancock County, East Tennessee, Tennessee, 37869, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2922715,
+          37.2081729
+        ]
+      },
+      "properties": {
+        "hometown": "Springfield, Missouri, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 282,
+        "artists": "[{\"rank\":282,\"name\":\"Bryson Tiller\",\"slug\":\"bryson-tiller\",\"genre\":\"R&B / Hip-hop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'T9' (2023). Chart-name variants: Bryson Tiller (x22)\",\"weeksCharted\":22,\"chartedSongs\":2,\"peakPosition\":29}]",
+        "geocodeLabel": "Springfield, Greene County, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.190009,
+          38.6254063
+        ]
+      },
+      "properties": {
+        "hometown": "St. Louis, Missouri, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 285,
+        "artists": "[{\"rank\":285,\"name\":\"Chuck Berry\",\"slug\":\"chuck-berry\",\"genre\":\"Rock and Roll\",\"country\":\"United States\",\"notes\":\"American rock-and-roll pioneer; legacy 'Johnny B. Goode' (1958). Chart-name variants: Chuck Berry (x15)\",\"weeksCharted\":15,\"chartedSongs\":1,\"peakPosition\":23}]",
+        "geocodeLabel": "Saint Louis, Missouri, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0710935,
+          59.3251172
+        ]
+      },
+      "properties": {
+        "hometown": "Stockholm, Sweden",
+        "countries": "Sweden",
+        "artistCount": 1,
+        "topRank": 65,
+        "artists": "[{\"rank\":65,\"name\":\"Zara Larsson\",\"slug\":\"zara-larsson\",\"genre\":\"Pop\",\"country\":\"Sweden\",\"notes\":\"Swedish pop artist; 'LUST' (2025). Chart-name variants: Zara Larsson (x132)\",\"weeksCharted\":132,\"chartedSongs\":4,\"peakPosition\":1}]",
+        "geocodeLabel": "Stockholm, Stockholms kommun, Stockholms län, 111 29, Sverige"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082848,
+          -33.8698439
+        ]
+      },
+      "properties": {
+        "hometown": "Sydney, Australia",
+        "countries": "Australia",
+        "artistCount": 3,
+        "topRank": 95,
+        "artists": "[{\"rank\":95,\"name\":\"The Kid Laroi\",\"slug\":\"the-kid-laroi\",\"genre\":\"Hip-hop / Pop\",\"country\":\"Australia\",\"notes\":\"Australian hip-hop/pop artist; 'GHOST' (2024). Chart-name variants: The Kid Laroi (x182)\",\"weeksCharted\":182,\"chartedSongs\":7,\"peakPosition\":11},{\"rank\":186,\"name\":\"Empire of the Sun\",\"slug\":\"empire-of-the-sun\",\"genre\":\"Pop / Electronic\",\"country\":\"Australia\",\"notes\":\"Australian pop/electronic duo; legacy 'Walking on a Dream' (2008). Chart-name variants: Empire of the Sun (x63)\",\"weeksCharted\":63,\"chartedSongs\":1,\"peakPosition\":83},{\"rank\":204,\"name\":\"AC/DC\",\"slug\":\"ac-dc\",\"genre\":\"Hard rock / Rock\",\"country\":\"Australia\",\"notes\":\"Australian hard-rock band; legacy 'Back in Black' (1980). Chart-name variants: AC/DC (x93)\",\"weeksCharted\":93,\"chartedSongs\":3,\"peakPosition\":104}]",
+        "geocodeLabel": "Sydney, New South Wales, Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1474244,
+          43.0481221
+        ]
+      },
+      "properties": {
+        "hometown": "Syracuse, New York, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 250,
+        "artists": "[{\"rank\":250,\"name\":\"Addison Rae\",\"slug\":\"addison-rae\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Sneaky' (2023). Chart-name variants: Addison Rae (x33)\",\"weeksCharted\":33,\"chartedSongs\":3,\"peakPosition\":35}]",
+        "geocodeLabel": "City of Syracuse, Onondaga County, New York, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438329,
+          47.2455013
+        ]
+      },
+      "properties": {
+        "hometown": "Tacoma, Washington, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 200,
+        "artists": "[{\"rank\":200,\"name\":\"Bing Crosby\",\"slug\":\"bing-crosby\",\"genre\":\"Pop / Jazz\",\"country\":\"United States\",\"notes\":\"American pop/jazz legend; legacy 'White Christmas' (1942). Chart-name variants: Bing Crosby (x37)\",\"weeksCharted\":37,\"chartedSongs\":7,\"peakPosition\":21}]",
+        "geocodeLabel": "Tacoma, Pierce County, Washington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2809332,
+          30.4380832
+        ]
+      },
+      "properties": {
+        "hometown": "Tallahassee, Florida, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 29,
+        "artists": "[{\"rank\":29,\"name\":\"Post Malone\",\"slug\":\"post-malone\",\"genre\":\"Hip-hop / Pop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper/singer; 'F-1 Trillion' (2024). Chart-name variants: Post Malone (x572)\",\"weeksCharted\":572,\"chartedSongs\":30,\"peakPosition\":1},{\"rank\":252,\"name\":\"Khalid\",\"slug\":\"khalid\",\"genre\":\"R&B / Pop\",\"country\":\"United States\",\"notes\":\"American R&B artist; 'American Tears' (2023). Chart-name variants: Khalid (x125)\",\"weeksCharted\":125,\"chartedSongs\":1,\"peakPosition\":91}]",
+        "geocodeLabel": "Tallahassee, Leon County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4583107,
+          27.9449854
+        ]
+      },
+      "properties": {
+        "hometown": "Tampa, Florida, USA",
+        "countries": "United States",
+        "artistCount": 2,
+        "topRank": 152,
+        "artists": "[{\"rank\":152,\"name\":\"Bailey Zimmerman\",\"slug\":\"bailey-zimmerman\",\"genre\":\"Country\",\"country\":\"United States\",\"notes\":\"American country artist; 'Like Me' (2023). Chart-name variants: Bailey Zimmerman (x63)\",\"weeksCharted\":63,\"chartedSongs\":4,\"peakPosition\":23},{\"rank\":193,\"name\":\"Marshmello\",\"slug\":\"marshmello\",\"genre\":\"Electronic / EDM\",\"country\":\"United States\",\"notes\":\"American DJ/producer; legacy 'Wolves' (2019). Chart-name variants: Marshmello (x79)\",\"weeksCharted\":79,\"chartedSongs\":3,\"peakPosition\":14}]",
+        "geocodeLabel": "Tampa, Hillsborough County, Florida, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9352716,
+          40.6403167
+        ]
+      },
+      "properties": {
+        "hometown": "Thessaloniki, Greece",
+        "countries": "Greece",
+        "artistCount": 1,
+        "topRank": 199,
+        "artists": "[{\"rank\":199,\"name\":\"Alleh & Yorghaki\",\"slug\":\"Alleh & Yorghaki\",\"genre\":\"Pop / R&B\",\"country\":\"Greece\",\"notes\":\"Greek pop/R&B artists; 'KILLA (feat. 21 Savage)' (2023). Chart-name variants: Alleh & Yorghaki (x39) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":39,\"chartedSongs\":1,\"peakPosition\":56}]",
+        "geocodeLabel": "Θεσσαλονίκη, Δημοτική Ενότητα Θεσαλονίκης, Δήμος Θεσσαλονίκης, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 540 12, Ελλάς"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0371232,
+          32.5364775
+        ]
+      },
+      "properties": {
+        "hometown": "Tijuana, Baja California, Mexico",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 207,
+        "artists": "[{\"rank\":207,\"name\":\"Inigo Quintero\",\"slug\":\"Inigo Quintero\",\"genre\":\"Regional mexicano / Banda\",\"country\":\"Mexico\",\"notes\":\"Mexican regional/banda artist; 'La Noche' (2023). Chart-name variants: Inigo Quintero (x26) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":26,\"chartedSongs\":1,\"peakPosition\":5}]",
+        "geocodeLabel": "Tijuana, Municipio de Tijuana, Baja California, 22000, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6989523,
+          17.2364266
+        ]
+      },
+      "properties": {
+        "hometown": "Tlaxiaco, Oaxaca, Mexico",
+        "countries": "Mexico",
+        "artistCount": 1,
+        "topRank": 78,
+        "artists": "[{\"rank\":78,\"name\":\"Stephen Sanchez\",\"slug\":\"Stephen Sanchez\",\"genre\":\"Regional mexicano / Corridos\",\"country\":\"Mexico\",\"notes\":\"Mexican regional artist; 'Pareja Imposible' (2024). Chart-name variants: Stephen Sanchez (x132) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":132,\"chartedSongs\":1,\"peakPosition\":11}]",
+        "geocodeLabel": "Tlaxiaco, Oaxaca, 69800, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7638947,
+          35.6768601
+        ]
+      },
+      "properties": {
+        "hometown": "Tokyo, Japan",
+        "countries": "Japan",
+        "artistCount": 4,
+        "topRank": 133,
+        "artists": "[{\"rank\":133,\"name\":\"YOASOBI\",\"slug\":\"yoasobi\",\"genre\":\"J-pop / Anisong\",\"country\":\"Japan\",\"notes\":\"Japanese J-pop duo; 'Aitakunaru' (2024). Chart-name variants: YOASOBI (x58)\",\"weeksCharted\":58,\"chartedSongs\":2,\"peakPosition\":7},{\"rank\":146,\"name\":\"Kenshi Yonezu\",\"slug\":\"kenshi-yonezu\",\"genre\":\"J-pop / Rock\",\"country\":\"Japan\",\"notes\":\"Japanese J-pop artist; 'Hikaru' (2025). Chart-name variants: Kenshi Yonezu (x57)\",\"weeksCharted\":57,\"chartedSongs\":5,\"peakPosition\":5},{\"rank\":150,\"name\":\"Creepy Nuts\",\"slug\":\"Creepy Nuts\",\"genre\":\"J-hip-hop / Rap\",\"country\":\"Japan\",\"notes\":\"Japanese hip-hop duo; 'FANTASY' (2023). Chart-name variants: Creepy Nuts (x49) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":49,\"chartedSongs\":2,\"peakPosition\":8},{\"rank\":280,\"name\":\"Ado\",\"slug\":\"Ado\",\"genre\":\"J-pop / Anisong\",\"country\":\"Japan\",\"notes\":\"Japanese J-pop artist; 'New Genesis' (2023). Chart-name variants: Ado (x22) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":22,\"chartedSongs\":2,\"peakPosition\":44}]",
+        "geocodeLabel": "東京都, 日本"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839347,
+          43.6534817
+        ]
+      },
+      "properties": {
+        "hometown": "Toronto, Ontario, Canada",
+        "countries": "Canada",
+        "artistCount": 4,
+        "topRank": 3,
+        "artists": "[{\"rank\":3,\"name\":\"The Weeknd\",\"slug\":\"the-weeknd\",\"genre\":\"Pop / R&B\",\"country\":\"Canada\",\"notes\":\"Canadian pop/R&B artist; 'Hurry Up Tomorrow' (2025). Chart-name variants: The Weeknd (x1302)\",\"weeksCharted\":1302,\"chartedSongs\":37,\"peakPosition\":2},{\"rank\":14,\"name\":\"Drake\",\"slug\":\"drake\",\"genre\":\"Hip-hop / R&B / Rap\",\"country\":\"Canada\",\"notes\":\"Canadian rapper/singer; 'For All the Dogs' (2025). Chart-name variants: Drake (x629)\",\"weeksCharted\":629,\"chartedSongs\":115,\"peakPosition\":1},{\"rank\":17,\"name\":\"Tate McRae\",\"slug\":\"tate-mcrae\",\"genre\":\"Pop\",\"country\":\"Canada\",\"notes\":\"Canadian pop artist; 'The 1999 Tapes' (2023) and 'Just For a Second' (2025). Chart-name variants: Tate McRae (x393)\",\"weeksCharted\":393,\"chartedSongs\":23,\"peakPosition\":1},{\"rank\":143,\"name\":\"Adam Port & Stryv Featuring Malachiii\",\"slug\":\"Adam Port & Stryv Featuring Malachiii\",\"genre\":\"R&B / Pop\",\"country\":\"Canada\",\"notes\":\"Canadian R&B artist; 'Not Like Us' (2025) breakout. Chart-name variants: Adam Port & Stryv Featuring Malachiii (x64) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":64,\"chartedSongs\":1,\"peakPosition\":24}]",
+        "geocodeLabel": "Toronto, Ontario, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0695431,
+          51.5924127
+        ]
+      },
+      "properties": {
+        "hometown": "Tottenham (London), England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 141,
+        "artists": "[{\"rank\":141,\"name\":\"Adele\",\"slug\":\"adele\",\"genre\":\"Pop / Soul\",\"country\":\"United Kingdom\",\"notes\":\"British pop/soul artist; '30' (2021). Chart-name variants: Adele (x164)\",\"weeksCharted\":164,\"chartedSongs\":4,\"peakPosition\":71}]",
+        "geocodeLabel": "HSBC UK, Albert Place, Tottenham Hale, West Green, London Borough of Haringey, Greater London, England, N17 9BF, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9927516,
+          36.1563122
+        ]
+      },
+      "properties": {
+        "hometown": "Tulsa, Oklahoma, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 243,
+        "artists": "[{\"rank\":243,\"name\":\"Gene Autry\",\"slug\":\"gene-autry\",\"genre\":\"Country / Western\",\"country\":\"United States\",\"notes\":\"American country/western legend; legacy 'Riders of the Purple Sage' (1935). Chart-name variants: Gene Autry (x27)\",\"weeksCharted\":27,\"chartedSongs\":2,\"peakPosition\":42}]",
+        "geocodeLabel": "Tulsa, Oklahoma, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7033859,
+          34.2576067
+        ]
+      },
+      "properties": {
+        "hometown": "Tupelo, Mississippi, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 264,
+        "artists": "[{\"rank\":264,\"name\":\"Elvis Presley\",\"slug\":\"elvis-presley\",\"genre\":\"Rock and Roll / Pop\",\"country\":\"United States\",\"notes\":\"American rock-and-roll legend; legacy 'Jailhouse Rock' (1957). Chart-name variants: Elvis Presley (x17)\",\"weeksCharted\":17,\"chartedSongs\":2,\"peakPosition\":26}]",
+        "geocodeLabel": "Tupelo, Lee County, Mississippi, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.826166,
+          33.7458511
+        ]
+      },
+      "properties": {
+        "hometown": "Tustin, California, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 23,
+        "artists": "[{\"rank\":23,\"name\":\"Olivia Rodrigo\",\"slug\":\"olivia-rodrigo\",\"genre\":\"Pop / Pop-rock\",\"country\":\"United States\",\"notes\":\"American pop artist; 'GUTS' (2023). Chart-name variants: Olivia Rodrigo (x283)\",\"weeksCharted\":283,\"chartedSongs\":32,\"peakPosition\":1}]",
+        "geocodeLabel": "Tustin, Orange County, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "hometown": "United States (regional, city n/a)",
+        "countries": "United States",
+        "artistCount": 16,
+        "topRank": 117,
+        "artists": "[{\"rank\":117,\"name\":\"Xavi\",\"slug\":\"Xavi\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'FREAK' (2023). Chart-name variants: Xavi (x60) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":60,\"chartedSongs\":3,\"peakPosition\":3},{\"rank\":136,\"name\":\"Dasha\",\"slug\":\"dasha\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'Tempted' (2023). Chart-name variants: Dasha (x52)\",\"weeksCharted\":52,\"chartedSongs\":1,\"peakPosition\":16},{\"rank\":167,\"name\":\"Malcolm Todd\",\"slug\":\"Malcolm Todd\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm Gonna Be OK' (2023). Chart-name variants: Malcolm Todd (x31) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":31,\"chartedSongs\":2,\"peakPosition\":11},{\"rank\":168,\"name\":\"Kenya Grace\",\"slug\":\"Kenya Grace\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm the One (with 21 Savage)' (2023). Chart-name variants: Kenya Grace (x33) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":33,\"chartedSongs\":1,\"peakPosition\":5},{\"rank\":175,\"name\":\"Temper City\",\"slug\":\"Temper City\",\"genre\":\"Pop / Indie\",\"country\":\"United States\",\"notes\":\"American pop artist; 'WISH U WERE HERE' (2023). Chart-name variants: Temper City (x29) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":29,\"chartedSongs\":1,\"peakPosition\":12},{\"rank\":176,\"name\":\"Mark Ambor\",\"slug\":\"Mark Ambor\",\"genre\":\"Indie / Pop\",\"country\":\"United States\",\"notes\":\"American indie artist; 'MOMENT' (2023). Chart-name variants: Mark Ambor (x39) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":39,\"chartedSongs\":2,\"peakPosition\":21},{\"rank\":189,\"name\":\"Stella Lefty\",\"slug\":\"Stella Lefty\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'M THE ONE (feat. 21 Savage)' (2023). Chart-name variants: Stella Lefty (x26) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":26,\"chartedSongs\":1,\"peakPosition\":10},{\"rank\":192,\"name\":\"Kapo\",\"slug\":\"kapo\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'KILLA (feat. 21 Savage)' (2023). Chart-name variants: Kapo (x44)\",\"weeksCharted\":44,\"chartedSongs\":4,\"peakPosition\":30},{\"rank\":212,\"name\":\"Bella Kay\",\"slug\":\"bella-kay\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'I'm the One' (2023). Chart-name variants: Bella Kay (x29)\",\"weeksCharted\":29,\"chartedSongs\":1,\"peakPosition\":13},{\"rank\":217,\"name\":\"ADELA\",\"slug\":\"ADELA\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'Sneaky' (2023). Chart-name variants: ADELA (x19) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":19,\"chartedSongs\":2,\"peakPosition\":2},{\"rank\":218,\"name\":\"CHRYSTAL\",\"slug\":\"CHRYSTAL\",\"genre\":\"Pop\",\"country\":\"United States\",\"notes\":\"American pop artist; 'I'm the One' (2023). Chart-name variants: CHRYSTAL (x34) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":34,\"chartedSongs\":1,\"peakPosition\":47},{\"rank\":219,\"name\":\"Michael Marcagi\",\"slug\":\"Michael Marcagi\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm the One' (2023). Chart-name variants: Michael Marcagi (x36) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":36,\"chartedSongs\":1,\"peakPosition\":35},{\"rank\":221,\"name\":\"yung kai\",\"slug\":\"yung kai\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'I'm the One' (2023). Chart-name variants: yung kai (x31) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":31,\"chartedSongs\":1,\"peakPosition\":39},{\"rank\":240,\"name\":\"CYRIL\",\"slug\":\"CYRIL\",\"genre\":\"Hip-hop / Rap\",\"country\":\"United States\",\"notes\":\"American rapper; 'I'm the One' (2023). Chart-name variants: CYRIL (x29) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":29,\"chartedSongs\":1,\"peakPosition\":61},{\"rank\":245,\"name\":\"ATLXS\",\"slug\":\"ATLXS\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm the One' (2023). Chart-name variants: ATLXS (x24) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":24,\"chartedSongs\":1,\"peakPosition\":34},{\"rank\":246,\"name\":\"Jordan Adetunji\",\"slug\":\"jordan-adetunji\",\"genre\":\"Pop / R&B\",\"country\":\"United States\",\"notes\":\"American pop/R&B artist; 'I'm the One' (2023). Chart-name variants: Jordan Adetunji (x22)\",\"weeksCharted\":22,\"chartedSongs\":1,\"peakPosition\":21}]",
+        "geocodeLabel": "United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1109318,
+          8.0018709
+        ]
+      },
+      "properties": {
+        "hometown": "Venezuela / Colombia (regional)",
+        "countries": "Venezuela",
+        "artistCount": 1,
+        "topRank": 46,
+        "artists": "[{\"rank\":46,\"name\":\"Tito Double P\",\"slug\":\"tito-double-p\",\"genre\":\"Latin / Reggaeton\",\"country\":\"Venezuela\",\"notes\":\"Venezuelan reggaeton artist; 'Titi Me Piche' (2024). Chart-name variants: Tito Double P (x271)\",\"weeksCharted\":271,\"chartedSongs\":24,\"peakPosition\":20}]",
+        "geocodeLabel": "Venezuela"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.364953,
+          48.4283182
+        ]
+      },
+      "properties": {
+        "hometown": "Victoria, British Columbia, Canada",
+        "countries": "Canada",
+        "artistCount": 1,
+        "topRank": 64,
+        "artists": "[{\"rank\":64,\"name\":\"Vance Joy\",\"slug\":\"vance-joy\",\"genre\":\"Indie / Folk-rock\",\"country\":\"Canada\",\"notes\":\"Canadian indie/folk-rock artist; 'Riptide' (2013). Chart-name variants: Vance Joy (x194)\",\"weeksCharted\":194,\"chartedSongs\":1,\"peakPosition\":53}]",
+        "geocodeLabel": "Victoria, Capital Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1325618,
+          31.5545147
+        ]
+      },
+      "properties": {
+        "hometown": "Waco, Texas, USA",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 57,
+        "artists": "[{\"rank\":57,\"name\":\"Ella Langley\",\"slug\":\"ella-langley\",\"genre\":\"Country / Pop\",\"country\":\"United States\",\"notes\":\"American country-pop artist; 'Bell Bottoms' (2024). Chart-name variants: Ella Langley (x183)\",\"weeksCharted\":183,\"chartedSongs\":10,\"peakPosition\":2}]",
+        "geocodeLabel": "Waco, McLennan County, Texas, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4549297,
+          51.3727175
+        ]
+      },
+      "properties": {
+        "hometown": "Weybridge, Surrey, England, UK",
+        "countries": "United Kingdom",
+        "artistCount": 1,
+        "topRank": 20,
+        "artists": "[{\"rank\":20,\"name\":\"Harry Styles\",\"slug\":\"harry-styles\",\"genre\":\"Pop / Rock\",\"country\":\"United Kingdom\",\"notes\":\"British pop artist (ex-One Direction); 'Music for a While' (2024). Chart-name variants: Harry Styles (x362)\",\"weeksCharted\":362,\"chartedSongs\":17,\"peakPosition\":1}]",
+        "geocodeLabel": "Weybridge, Elmbridge, Surrey, England, United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5126233,
+          40.1777112
+        ]
+      },
+      "properties": {
+        "hometown": "Yerevan, Armenia",
+        "countries": "Armenia",
+        "artistCount": 1,
+        "topRank": 238,
+        "artists": "[{\"rank\":238,\"name\":\"Rosa Linn\",\"slug\":\"Rosa Linn\",\"genre\":\"Pop / Dance\",\"country\":\"Armenia\",\"notes\":\"Armenian pop artist; 'Astrakhan' (2023). Chart-name variants: Rosa Linn (x34) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":34,\"chartedSongs\":1,\"peakPosition\":39}]",
+        "geocodeLabel": "Երևան, Հայաստան"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0943765,
+          52.5089759
+        ]
+      },
+      "properties": {
+        "hometown": "Zwolle, Netherlands",
+        "countries": "Netherlands",
+        "artistCount": 1,
+        "topRank": 156,
+        "artists": "[{\"rank\":156,\"name\":\"Beele\",\"slug\":\"Beele\",\"genre\":\"Hip-hop / Rap\",\"country\":\"Netherlands\",\"notes\":\"Dutch rapper; 'F*CK UP' (2024). Chart-name variants: Beele (x69) No Billboard artist slug (unlinked credit); artist_id is the display name.\",\"weeksCharted\":69,\"chartedSongs\":3,\"peakPosition\":27}]",
+        "geocodeLabel": "Zwolle, Overijssel, Nederland"
+      }
+    }
+  ]
+}

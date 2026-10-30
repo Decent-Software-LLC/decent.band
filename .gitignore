@@ -1,0 +1,6 @@
+.DS_Store
+.geocode-cache.json
+dist/
+node_modules/
+/public/data/billboard-global-200-2023-2026/**
+!/public/data/billboard-global-200-2023-2026/top_300_billboard_global_200_performers_2023_2026.csv

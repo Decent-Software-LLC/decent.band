@@ -1,174 +1,54 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="decent.band is coming soon." />
-    <meta name="theme-color" content="#f4f7fb" />
-    <title>decent.band — Coming Soon</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Explore the hometowns of the Billboard Global 200's leading artists with decent.band." />
+    <meta name="theme-color" content="#151515" />
+    <title>decent.band — Global Artist Hometowns</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Nunito:wght@800;900&family=Roboto+Condensed:wght@700;900&family=Roboto+Mono:wght@500;700&family=Stardos+Stencil:wght@700&display=swap"
+      rel="stylesheet"
+    />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-S29ESCKGXP"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
+      function gtag() { dataLayer.push(arguments); }
       gtag("js", new Date());
-
       gtag("config", "G-S29ESCKGXP");
     </script>
-    <style>
-      :root {
-        color-scheme: light;
-        --primary-color: #3b86f6;
-        --text-color: #231f20;
-        --background-color: #f4f7fb;
-      }
-
-      * {
-        box-sizing: border-box;
-      }
-
-      html,
-      body {
-        min-height: 100%;
-        margin: 0;
-      }
-
-      body {
-        display: flex;
-        flex-direction: column;
-        min-height: 100svh;
-        background: var(--background-color);
-        color: var(--text-color);
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-          "Helvetica Neue", Arial, sans-serif;
-      }
-
-      main {
-        display: grid;
-        flex: 1;
-        place-items: center;
-        padding: 2rem;
-        text-align: center;
-      }
-
-      .coming-soon {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: clamp(1.25rem, 3vw, 2rem);
-      }
-
-      .wordmark {
-        --logo-height: clamp(5rem, 16vw, 10rem);
-        display: flex;
-        align-items: baseline;
-        justify-content: center;
-        margin: 0;
-        line-height: 1;
-      }
-
-      .wordmark__logo {
-        display: block;
-        width: auto;
-        height: var(--logo-height);
-      }
-
-      .wordmark__extension {
-        color: var(--primary-color);
-        font-family: "Nunito", "Arial Rounded MT Bold", Arial, sans-serif;
-        font-size: calc(var(--logo-height) * 0.785);
-        font-weight: 800;
-        letter-spacing: -0.05em;
-        line-height: 1;
-        margin-left: -0.1em;
-        transform: translateY(calc(var(--logo-height) * -0.204));
-      }
-
-      .status {
-        margin: 0;
-        font-size: clamp(0.75rem, 1.4vw, 0.95rem);
-        font-weight: 600;
-        letter-spacing: 0.24em;
-        text-transform: uppercase;
-      }
-
-      .container {
-        width: 100%;
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 0 20px;
-      }
-
-      .site-footer {
-        margin-top: auto;
-        padding: 2rem 0;
-        background: var(--text-color);
-        color: #ffffff;
-      }
-
-      .footer-content {
-        text-align: center;
-      }
-
-      .footer-text {
-        margin: 0 0 1.25rem;
-      }
-
-      .footer-decent {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0.85rem;
-        margin-bottom: 1.25rem;
-      }
-
-      .footer-brand {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-      }
-
-      .footer-logo-image {
-        display: block;
-        width: auto;
-        height: 44px;
-      }
-
-      .footer-copyright {
-        margin: 0;
-        opacity: 0.82;
-      }
-    </style>
   </head>
   <body>
-    <main>
-      <section class="coming-soon" aria-labelledby="site-title">
-        <h1 class="wordmark" id="site-title">
-          <img
-            class="wordmark__logo"
-            src="./assets/images/decent.png"
-            alt="decent"
-            width="4836"
-            height="1926"
-          /><span class="wordmark__extension">.band</span>
-        </h1>
-        <p class="status">Coming Soon</p>
-      </section>
-    </main>
-    <footer class="site-footer">
-      <div class="container">
-        <div class="footer-content">
-          <p class="footer-text">Building a more decent web, one project at a time.</p>
-          <div class="footer-decent">
-            <a class="footer-brand" href="https://decentsoftware.llc/" aria-label="Decent Software LLC">
-              <img src="./assets/images/decent.png" alt="Decent" class="footer-logo-image" />
-            </a>
-          </div>
-          <p class="footer-copyright">© 2026 Decent Software LLC. All rights reserved.</p>
+    <div class="app-shell">
+      <header class="site-header">
+        <a class="wordmark" href="/" aria-label="decent.band home">
+          <img class="wordmark__logo" src="/assets/images/decent.png" alt="decent" width="4836" height="1926" />
+          <span class="wordmark__extension">.band</span>
+        </a>
+        <div class="header-actions">
+          <span class="header-label">Global artist index</span>
+          <span class="artist-count" id="artist-count" aria-live="polite">Loading artists…</span>
+          <button class="reset-button" id="reset-view" type="button">View globe</button>
         </div>
-      </div>
-    </footer>
+      </header>
+
+      <main class="map-stage">
+        <div id="map" class="map" role="region" aria-label="Interactive globe showing artist hometowns"></div>
+        <section class="map-intro" id="map-intro" aria-labelledby="map-heading">
+          <div class="panel-meta"><span>DM // 0001</span><span>Active index</span></div>
+          <p class="eyebrow">Explore artist hometowns</p>
+          <h1 id="map-heading">The world’s artists.<br /><span>One globe.</span></h1>
+          <p>Select a cluster or city to discover the artists connected to it.</p>
+          <button id="dismiss-intro" type="button">Explore the map</button>
+          <div class="panel-corner" aria-hidden="true"></div>
+        </section>
+        <div class="map-status" id="map-status" role="status">Preparing the globe…</div>
+      </main>
+    </div>
+
+    <script type="module" src="/src/main.js"></script>
   </body>
 </html>

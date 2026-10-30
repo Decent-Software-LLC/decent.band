@@ -1,0 +1,420 @@
+:root {
+  --decent-blue: #3b86f6;
+  --shipping-black: #151515;
+  --asphalt: #242424;
+  --charcoal-steel: #343434;
+  --concrete: #a6a39d;
+  --concrete-light: #d8d5ce;
+  --chalk-white: #f5f3ee;
+  --deep-water: #163b5b;
+  color: var(--chalk-white);
+  background: var(--shipping-black);
+  font-family: "Inter", system-ui, sans-serif;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+
+html,
+body,
+#map { width: 100%; height: 100%; margin: 0; }
+
+body { min-width: 320px; overflow: hidden; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { font: inherit; }
+
+.app-shell {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  height: 100svh;
+  background: var(--shipping-black);
+}
+
+.site-header {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  min-height: 76px;
+  padding: 0.65rem clamp(1rem, 3vw, 2.5rem);
+  border-bottom: 1px solid #74716c;
+  background-color: var(--concrete-light);
+  background-image:
+    radial-gradient(circle at 18% 20%, rgb(255 255 255 / 0.28), transparent 24%),
+    radial-gradient(circle at 74% 68%, rgb(0 0 0 / 0.08), transparent 32%),
+    repeating-linear-gradient(90deg, transparent 0, transparent calc(25% - 1px), rgb(30 30 30 / 0.07) 25%);
+  box-shadow: 0 10px 36px rgb(0 0 0 / 0.32);
+}
+
+.site-header::before {
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.15'/%3E%3C/svg%3E");
+  content: "";
+  opacity: 0.18;
+  pointer-events: none;
+}
+
+.site-header::after {
+  position: absolute;
+  right: 12px;
+  bottom: 8px;
+  width: 18px;
+  height: 18px;
+  border-right: 2px solid #77736d;
+  border-bottom: 2px solid #77736d;
+  content: "";
+  pointer-events: none;
+}
+
+.wordmark {
+  --logo-height: clamp(2.5rem, 6vw, 3.35rem);
+  display: inline-flex;
+  align-items: baseline;
+  position: relative;
+  z-index: 1;
+  padding: 0 8px 0 0;
+  color: inherit;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.wordmark__logo {
+  display: block;
+  width: auto;
+  height: var(--logo-height);
+  mix-blend-mode: multiply;
+}
+
+.wordmark__extension {
+  margin-left: -0.1em;
+  color: var(--decent-blue);
+  font-family: "Nunito", "Arial Rounded MT Bold", Arial, sans-serif;
+  font-size: calc(var(--logo-height) * 0.785);
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  line-height: 1;
+  transform: translateY(calc(var(--logo-height) * -0.204));
+}
+
+.header-actions { position: relative; z-index: 1; display: flex; align-items: center; gap: clamp(0.65rem, 2vw, 1.4rem); }
+
+.header-label,
+.artist-count {
+  font-family: "Stardos Stencil", "Roboto Mono", monospace;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.header-label { color: #66625e; }
+.artist-count { color: var(--shipping-black); }
+
+.reset-button,
+.map-intro button {
+  min-height: 44px;
+  padding: 0 1.1rem;
+  border: 1px solid var(--decent-blue);
+  border-radius: 2px;
+  background: var(--decent-blue);
+  color: var(--shipping-black);
+  cursor: pointer;
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: background 160ms ease, color 160ms ease, box-shadow 160ms ease;
+}
+
+.reset-button {
+  border-color: var(--shipping-black);
+  background: var(--shipping-black);
+  color: var(--chalk-white);
+}
+
+.reset-button:hover {
+  border-color: var(--decent-blue);
+  background: var(--decent-blue);
+  color: var(--shipping-black);
+  box-shadow: 5px 5px 0 rgb(21 21 21 / 0.28);
+}
+
+.map-intro button:hover {
+  background: var(--chalk-white);
+  color: var(--shipping-black);
+  box-shadow: 5px 5px 0 rgb(59 134 246 / 0.42);
+}
+
+.reset-button:focus-visible,
+.map-intro button:focus-visible,
+.wordmark:focus-visible {
+  outline: 3px solid var(--decent-blue);
+  outline-offset: 3px;
+}
+
+.map-stage { position: relative; min-height: 0; }
+.map { background: var(--shipping-black); }
+
+.map-intro {
+  position: absolute;
+  z-index: 2;
+  top: clamp(1rem, 4vw, 2.8rem);
+  left: clamp(1rem, 4vw, 3rem);
+  width: min(440px, calc(100% - 2rem));
+  min-height: 410px;
+  padding: clamp(1.4rem, 3vw, 2.2rem);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid #4b4b4b;
+  border-radius: 2px;
+  background-color: rgb(21 21 21 / 0.96);
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent 0,
+    transparent 30px,
+    rgb(255 255 255 / 0.025) 31px,
+    rgb(255 255 255 / 0.025) 34px,
+    transparent 35px,
+    transparent 62px
+  );
+  box-shadow: 18px 18px 0 rgb(0 0 0 / 0.18), 0 30px 80px rgb(0 0 0 / 0.36);
+}
+
+.map-intro[hidden],
+.map-status[hidden] { display: none; }
+
+.panel-meta {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: auto;
+  color: #888;
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.eyebrow {
+  margin: 3.2rem 0 0.75rem;
+  color: var(--decent-blue);
+  font-family: "Stardos Stencil", "Roboto Mono", monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.map-intro h1 {
+  max-width: 13ch;
+  margin: 0;
+  color: var(--chalk-white);
+  font-family: "Roboto Condensed", "Arial Narrow", sans-serif;
+  font-size: clamp(2.75rem, 5vw, 4.6rem);
+  font-weight: 900;
+  letter-spacing: -0.055em;
+  line-height: 0.82;
+  text-transform: uppercase;
+}
+
+.map-intro h1 span { color: var(--decent-blue); }
+
+.map-intro p:not(.eyebrow) {
+  max-width: 35ch;
+  margin: 1.25rem 0 1.5rem;
+  color: #b6b6b6;
+  font-size: 0.93rem;
+  line-height: 1.6;
+}
+
+.panel-corner::before,
+.panel-corner::after {
+  position: absolute;
+  right: 12px;
+  width: 18px;
+  height: 18px;
+  border-right: 2px solid #666;
+  content: "";
+}
+
+.panel-corner::before { top: 12px; border-top: 2px solid #666; }
+.panel-corner::after { bottom: 12px; border-bottom: 2px solid #666; }
+
+.map-status {
+  position: absolute;
+  z-index: 3;
+  right: 1rem;
+  bottom: 1rem;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid #555;
+  border-radius: 2px;
+  background: rgb(21 21 21 / 0.94);
+  color: var(--chalk-white);
+  box-shadow: 6px 6px 0 rgb(0 0 0 / 0.22);
+  font: 700 0.68rem/1 "Roboto Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.map-status::before {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background: var(--decent-blue);
+  box-shadow: 0 0 10px var(--decent-blue);
+  content: "";
+}
+
+.map-status--error { color: #ff9b9b; }
+.map-status--error::before { background: #b95632; box-shadow: 0 0 10px #b95632; }
+
+.maplibregl-ctrl-group {
+  overflow: hidden;
+  border: 1px solid #555;
+  border-radius: 2px;
+  background: var(--shipping-black);
+  box-shadow: 5px 5px 0 rgb(0 0 0 / 0.22);
+}
+
+.maplibregl-ctrl-group button { background-color: var(--shipping-black); }
+.maplibregl-ctrl-group button + button { border-top-color: #555; }
+.maplibregl-ctrl button .maplibregl-ctrl-icon { filter: invert(1); }
+.maplibregl-ctrl-attrib { color: #555; font-family: "Roboto Mono", monospace; }
+
+.maplibregl-popup-content {
+  min-width: 270px;
+  padding: 1.25rem;
+  border: 1px solid #555;
+  border-radius: 2px;
+  background-color: var(--shipping-black);
+  background-image: repeating-linear-gradient(90deg, transparent 0 28px, rgb(255 255 255 / 0.025) 29px 31px, transparent 32px 58px);
+  color: var(--chalk-white);
+  box-shadow: 12px 12px 0 rgb(0 0 0 / 0.24), 0 22px 55px rgb(0 0 0 / 0.36);
+}
+
+.maplibregl-popup-tip { border-top-color: var(--shipping-black) !important; border-bottom-color: var(--shipping-black) !important; }
+.maplibregl-popup-close-button { width: 36px; height: 36px; color: #aaa; font-size: 22px; }
+
+.artist-popup h2 {
+  max-width: 18ch;
+  margin: 1.8rem 0 0;
+  font: 900 1.7rem/0.95 "Roboto Condensed", "Arial Narrow", sans-serif;
+  letter-spacing: -0.04em;
+  text-transform: uppercase;
+}
+
+.artist-popup h2::before {
+  display: block;
+  margin-bottom: 0.7rem;
+  color: var(--decent-blue);
+  content: "HOMETOWN // ARTIST INDEX";
+  font: 700 0.56rem/1 "Roboto Mono", monospace;
+  letter-spacing: 0.12em;
+}
+
+.artist-popup__summary {
+  margin: 0.55rem 0 1rem;
+  color: var(--decent-blue);
+  font: 700 0.66rem/1.4 "Stardos Stencil", "Roboto Mono", monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.artist-popup__list {
+  max-height: min(38vh, 300px);
+  padding-right: 0.5rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-color: var(--decent-blue) #2d2d2d;
+  scrollbar-width: thin;
+}
+
+.artist-popup__list:focus-visible {
+  outline: 2px solid var(--decent-blue);
+  outline-offset: 3px;
+}
+
+.artist-card {
+  padding: 1rem 0;
+  border-top: 1px solid #444;
+}
+
+.artist-card:first-child { padding-top: 0.8rem; }
+
+.artist-card__rank {
+  margin: 0 0 0.35rem;
+  color: #888;
+  font: 700 0.56rem/1 "Roboto Mono", monospace;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.artist-card h3 {
+  margin: 0;
+  font: 900 1.45rem/1 "Roboto Condensed", "Arial Narrow", sans-serif;
+  letter-spacing: -0.025em;
+  text-transform: uppercase;
+}
+
+.artist-card__genre {
+  margin: 0.4rem 0 0;
+  color: var(--decent-blue);
+  font: 700 0.63rem/1.4 "Stardos Stencil", "Roboto Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.artist-card__notes {
+  margin: 0.65rem 0 0.85rem;
+  color: #c7c7c7;
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.artist-card dl {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.35rem;
+  margin: 0;
+}
+
+.artist-card dl div {
+  padding: 0.55rem;
+  background: #242424;
+}
+
+.artist-card dt {
+  color: #777;
+  font: 700 0.52rem/1 "Roboto Mono", monospace;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.artist-card dd {
+  margin: 0.3rem 0 0;
+  font: 700 0.72rem/1 "Roboto Mono", monospace;
+}
+
+@media (max-width: 760px) {
+  .site-header { min-height: 68px; }
+  .header-label, .artist-count { display: none; }
+  .reset-button { min-height: 40px; padding: 0 0.75rem; font-size: 0.62rem; }
+  .wordmark { --logo-height: 2.35rem; padding-right: 9px; }
+  .map-intro { top: 0.75rem; left: 0.75rem; width: calc(100% - 1.5rem); min-height: 360px; padding: 1.25rem; }
+  .map-intro h1 { font-size: clamp(2.6rem, 13vw, 4.2rem); }
+  .eyebrow { margin-top: 2.2rem; }
+  .artist-map-popup .maplibregl-popup-content { min-width: min(310px, calc(100vw - 32px)); }
+  .artist-popup__list { max-height: 32vh; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
+}
