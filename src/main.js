@@ -14,6 +14,8 @@ let spinFrame;
 let previousSpinTime;
 let spinEnabled = !prefersReducedMotion;
 let artistDirectory = [];
+let artistGeojson;
+const activeFilters = { query: "", genre: "" };
 
 const mapStatus = document.querySelector("#map-status");
 const artistCount = document.querySelector("#artist-count");
@@ -25,6 +27,11 @@ const sortSelect = document.querySelector("#artist-sort");
 const mapViewButton = document.querySelector("#map-view-button");
 const listViewButton = document.querySelector("#list-view-button");
 const resetViewButton = document.querySelector("#reset-view");
+const mapSearch = document.querySelector(".map-search");
+const searchInputs = [...document.querySelectorAll(".artist-search__input")];
+const genreSelects = [...document.querySelectorAll(".artist-search__genre")];
+const clearSearchButtons = [...document.querySelectorAll(".artist-search__clear")];
+const suggestions = document.querySelector("#artist-suggestions");
 
 const map = new Map({
   container: "map",
@@ -65,6 +72,7 @@ map.on("load", async () => {
     if (!response.ok) throw new Error(`Artist data returned ${response.status}`);
 
     const geojson = await response.json();
+    artistGeojson = geojson;
     const totalArtists = geojson.metadata?.artistCount ??
       geojson.features.reduce((sum, feature) => sum + Number(feature.properties.artistCount || 0), 0);
     artistCount.textContent = `${totalArtists} artists · ${geojson.features.length} hometowns`;
@@ -74,9 +82,8 @@ map.on("load", async () => {
         hometown: feature.properties.hometown,
       })),
     );
-    document.querySelector("#list-summary").textContent =
-      `${totalArtists} artists from ${geojson.features.length} hometowns`;
-    renderArtistDirectory();
+    initializeSearchControls();
+    applyFilters();
 
     map.addSource(SOURCE_ID, {
       type: "geojson",
@@ -204,6 +211,39 @@ mapViewButton.addEventListener("click", () => setView("map"));
 listViewButton.addEventListener("click", () => setView("list"));
 sortSelect.addEventListener("change", renderArtistDirectory);
 
+for (const input of searchInputs) {
+  input.addEventListener("input", () => {
+    activeFilters.query = input.value.trim();
+    synchronizeSearchControls(input, searchInputs, activeFilters.query);
+    updateSuggestions(activeFilters.query);
+    applyFilters();
+  });
+}
+
+for (const select of genreSelects) {
+  select.addEventListener("change", () => {
+    activeFilters.genre = select.value;
+    synchronizeSearchControls(select, genreSelects, activeFilters.genre);
+    applyFilters();
+  });
+}
+
+for (const button of clearSearchButtons) {
+  button.addEventListener("click", () => {
+    activeFilters.query = "";
+    activeFilters.genre = "";
+    for (const input of searchInputs) input.value = "";
+    for (const select of genreSelects) select.value = "";
+    suggestions.replaceChildren();
+    applyFilters();
+    button.closest(".artist-search").querySelector("input").focus();
+  });
+}
+
+for (const form of document.querySelectorAll(".artist-search")) {
+  form.addEventListener("submit", (event) => event.preventDefault());
+}
+
 document.querySelector("#dismiss-intro").addEventListener("click", () => {
   intro.hidden = true;
   map.getCanvas().focus();
@@ -266,6 +306,7 @@ function setView(view) {
   const showList = view === "list";
   listView.hidden = !showList;
   mapElement.hidden = showList;
+  mapSearch.hidden = showList;
   intro.hidden = true;
   mapViewButton.classList.toggle("is-active", !showList);
   listViewButton.classList.toggle("is-active", showList);
@@ -287,7 +328,7 @@ function setView(view) {
 
 function renderArtistDirectory() {
   const sortBy = sortSelect.value;
-  const sortedArtists = [...artistDirectory].sort((a, b) => {
+  const sortedArtists = filteredArtists().sort((a, b) => {
     const values = {
       artist: [a.name, b.name],
       genre: [a.genre, b.genre],
@@ -298,6 +339,81 @@ function renderArtistDirectory() {
   });
 
   listContainer.replaceChildren(...sortedArtists.map(buildDirectoryRow));
+}
+
+function initializeSearchControls() {
+  const genresByKey = new globalThis.Map();
+  for (const artist of artistDirectory) {
+    const key = artist.genre.trim().toLocaleLowerCase();
+    if (!genresByKey.has(key)) genresByKey.set(key, artist.genre.trim());
+  }
+  const genres = [...genresByKey.values()].sort((a, b) =>
+    a.localeCompare(b, undefined, { sensitivity: "base" }),
+  );
+
+  for (const select of genreSelects) {
+    select.append(...genres.map((genre) => new Option(genre, genre.toLocaleLowerCase())));
+    select.disabled = false;
+  }
+  for (const input of searchInputs) input.disabled = false;
+}
+
+function filteredArtists() {
+  const query = activeFilters.query.toLocaleLowerCase();
+  return artistDirectory.filter((artist) => {
+    const matchesName = !query || artist.name.toLocaleLowerCase().includes(query);
+    const matchesGenre = !activeFilters.genre ||
+      artist.genre.toLocaleLowerCase() === activeFilters.genre;
+    return matchesName && matchesGenre;
+  });
+}
+
+function applyFilters() {
+  if (!artistGeojson) return;
+  const matchingNames = new Set(filteredArtists().map((artist) => artist.name));
+  const features = artistGeojson.features.flatMap((feature) => {
+    const artists = parseArtists(feature.properties.artists)
+      .filter((artist) => matchingNames.has(artist.name));
+    if (!artists.length) return [];
+    return [{
+      ...feature,
+      properties: {
+        ...feature.properties,
+        artistCount: artists.length,
+        topRank: Math.min(...artists.map((artist) => artist.rank)),
+        artists: JSON.stringify(artists),
+      },
+    }];
+  });
+  const count = matchingNames.size;
+  const hometownCount = features.length;
+
+  artistCount.textContent = `${count} artists · ${hometownCount} hometowns`;
+  document.querySelector("#list-summary").textContent =
+    `${count} ${count === 1 ? "artist" : "artists"} from ${hometownCount} ${hometownCount === 1 ? "hometown" : "hometowns"}`;
+  renderArtistDirectory();
+
+  const source = map.getSource(SOURCE_ID);
+  if (source) {
+    source.setData({ ...artistGeojson, features });
+    map.easeTo({ ...INITIAL_VIEW, duration: prefersReducedMotion ? 0 : 450 });
+  }
+}
+
+function updateSuggestions(query) {
+  suggestions.replaceChildren();
+  if (query.length < 3) return;
+  const normalizedQuery = query.toLocaleLowerCase();
+  const matches = artistDirectory
+    .filter((artist) => artist.name.toLocaleLowerCase().includes(normalizedQuery))
+    .slice(0, 12);
+  suggestions.append(...matches.map((artist) => new Option(artist.name, artist.name)));
+}
+
+function synchronizeSearchControls(source, controls, value) {
+  for (const control of controls) {
+    if (control !== source) control.value = value;
+  }
 }
 
 function buildDirectoryRow(artist) {

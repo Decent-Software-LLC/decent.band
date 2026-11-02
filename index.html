@@ -41,6 +41,19 @@
 
       <main class="map-stage">
         <div id="map" class="map" role="region" aria-label="Interactive globe showing artist hometowns"></div>
+        <form class="artist-search map-search" role="search" aria-label="Search artists on the map">
+          <label>
+            <span>Artist search</span>
+            <input class="artist-search__input" type="search" list="artist-suggestions" placeholder="Type an artist name" autocomplete="off" disabled />
+          </label>
+          <label>
+            <span>Genre</span>
+            <select class="artist-search__genre" disabled>
+              <option value="">All genres</option>
+            </select>
+          </label>
+          <button class="artist-search__clear" type="button">Clear</button>
+        </form>
         <section class="map-intro" id="map-intro" aria-labelledby="map-heading">
           <div class="panel-meta"><span>DM // 0001</span><span>Active index</span></div>
           <p class="eyebrow">Explore artist hometowns</p>
@@ -57,18 +70,34 @@
               <h1 id="list-heading" tabindex="-1">Global artist list</h1>
               <p id="list-summary">Loading artist directory…</p>
             </div>
-            <label class="sort-control" for="artist-sort">
-              <span>Sort by</span>
-              <select id="artist-sort">
-                <option value="artist">Artist A–Z</option>
-                <option value="genre">Genre A–Z</option>
-                <option value="location">Location A–Z</option>
-              </select>
-            </label>
+            <div class="list-controls">
+              <form class="artist-search list-search" role="search" aria-label="Search the artist list">
+                <label>
+                  <span>Artist search</span>
+                  <input class="artist-search__input" type="search" list="artist-suggestions" placeholder="Type an artist name" autocomplete="off" disabled />
+                </label>
+                <label>
+                  <span>Genre</span>
+                  <select class="artist-search__genre" disabled>
+                    <option value="">All genres</option>
+                  </select>
+                </label>
+                <button class="artist-search__clear" type="button">Clear</button>
+              </form>
+              <label class="sort-control" for="artist-sort">
+                <span>Sort by</span>
+                <select id="artist-sort">
+                  <option value="artist">Artist A–Z</option>
+                  <option value="genre">Genre A–Z</option>
+                  <option value="location">Location A–Z</option>
+                </select>
+              </label>
+            </div>
           </div>
           <div class="artist-directory" id="artist-directory" aria-live="polite"></div>
         </section>
       </main>
+      <datalist id="artist-suggestions"></datalist>
     </div>
 
     <script type="module" src="/src/main.js"></script>

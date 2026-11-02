@@ -181,6 +181,55 @@ button { font: inherit; }
 .map { background: var(--shipping-black); }
 .map[hidden] { display: none; }
 
+.artist-search {
+  display: grid;
+  grid-template-columns: minmax(170px, 1fr) minmax(150px, 0.75fr) auto;
+  gap: 0.65rem;
+  align-items: end;
+}
+
+.map-search {
+  position: absolute;
+  z-index: 2;
+  bottom: 1rem;
+  left: 1rem;
+  width: min(600px, calc(100% - 2rem));
+  padding: 0.8rem;
+  border: 1px solid #555;
+  background: rgb(21 21 21 / 0.94);
+  box-shadow: 8px 8px 0 rgb(0 0 0 / 0.2);
+}
+.map-search[hidden] { display: none; }
+
+.artist-search label { display: grid; gap: 0.4rem; }
+.artist-search label > span,
+.sort-control span {
+  color: #8a8a8a;
+  font: 700 0.56rem/1 "Roboto Mono", monospace;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.artist-search input,
+.artist-search select,
+.artist-search__clear {
+  min-height: 42px;
+  border: 1px solid #5c5c5c;
+  border-radius: 2px;
+  background: #242424;
+  color: var(--chalk-white);
+  font: 700 0.72rem "Roboto Mono", monospace;
+}
+.artist-search input { min-width: 0; padding: 0 0.75rem; }
+.artist-search select { min-width: 0; padding: 0 2rem 0 0.75rem; }
+.artist-search__clear { padding: 0 0.85rem; cursor: pointer; text-transform: uppercase; }
+.artist-search__clear:hover { border-color: var(--decent-blue); color: var(--decent-blue); }
+.artist-search input:focus-visible,
+.artist-search select:focus-visible,
+.artist-search__clear:focus-visible { outline: 2px solid var(--decent-blue); outline-offset: 2px; }
+.artist-search input:disabled,
+.artist-search select:disabled { cursor: wait; opacity: 0.55; }
+
 .list-view {
   position: absolute;
   inset: 0;
@@ -205,6 +254,9 @@ button { font: inherit; }
   background: rgb(21 21 21 / 0.97);
   backdrop-filter: blur(12px);
 }
+
+.list-controls { display: grid; gap: 0.8rem; width: min(620px, 58vw); }
+.list-search { width: 100%; }
 
 .list-view__header .eyebrow { margin: 0 0 0.65rem; }
 .list-view__header h1 {
@@ -504,7 +556,11 @@ button { font: inherit; }
   .eyebrow { margin-top: 2.2rem; }
   .artist-map-popup .maplibregl-popup-content { min-width: min(310px, calc(100vw - 32px)); }
   .artist-popup__list { max-height: 32vh; }
+  .map-search { right: 0.75rem; bottom: 0.75rem; left: 0.75rem; width: auto; grid-template-columns: 1fr 1fr; }
+  .map-search .artist-search__clear { grid-column: 1 / -1; }
   .list-view__header { position: static; display: grid; gap: 1.25rem; padding: 1.5rem 1rem; }
+  .list-controls { width: 100%; }
+  .list-search { grid-template-columns: 1fr; }
   .sort-control { width: 100%; }
   .artist-directory { padding: 0 1rem 3rem; }
   .directory-row { grid-template-columns: 42px minmax(0, 1fr); gap: 0.8rem 1rem; }
