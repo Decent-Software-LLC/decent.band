@@ -251,10 +251,10 @@ function buildArtistPopup(hometown, artists) {
     card.append(notes);
 
     const details = document.createElement("dl");
-    addDetail(details, "Peak", `#${artist.peakPosition}`);
-    addDetail(details, "Songs", artist.chartedSongs.toLocaleString());
-    addDetail(details, "Weeks", artist.weeksCharted.toLocaleString());
-    card.append(details);
+    if (artist.peakPosition != null) addDetail(details, "Peak", `#${artist.peakPosition}`);
+    if (artist.chartedSongs != null) addDetail(details, "Songs", artist.chartedSongs.toLocaleString());
+    if (artist.weeksCharted != null) addDetail(details, "Weeks", artist.weeksCharted.toLocaleString());
+    if (details.children.length) card.append(details);
     list.append(card);
   }
 

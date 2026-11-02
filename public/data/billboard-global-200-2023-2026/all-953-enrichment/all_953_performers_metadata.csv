@@ -1,0 +1,954 @@
+artist_name,artist_id_or_slug,genre,home_city,home_country,notes
+Taylor Swift,taylor-swift,Pop,Nashville,United States,Secondary genre(s): Country.
+Bad Bunny,bad-bunny,Reggaeton,San Juan,Puerto Rico,Secondary genre(s): Latin urban.
+The Weeknd,the-weeknd,Pop,Toronto,Canada,Secondary genre(s): R&B.
+Sabrina Carpenter,sabrina-carpenter,Pop,Mission Viejo,United States,
+Bruno Mars,bruno-mars,Pop,Honolulu,United States,"Secondary genre(s): R&B, Funk."
+Morgan Wallen,morgan-wallen,Country,Sneedville,United States,
+Billie Eilish,billie-eilish,Pop,Los Angeles,United States,Secondary genre(s): Alternative.
+SZA,sza,R&B,Compton,United States,Secondary genre(s): Pop.
+Ed Sheeran,ed-sheeran,Pop,Faversham,United Kingdom,
+Coldplay,coldplay,Pop-rock,London,United Kingdom,Secondary genre(s): Alternative.
+Ariana Grande,ariana-grande,Pop,Boca Raton,United States,Secondary genre(s): R&B.
+Peso Pluma,peso-pluma,Corridos tumbados,Ahome (Ciudad Obregon),Mexico,Secondary genre(s): Reggaeton.
+Teddy Swims,teddy-swims,Soul,Lithonia,United States,Secondary genre(s): R&B.
+Drake,drake,Hip-hop,Toronto,Canada,"Secondary genre(s): R&B, Rap."
+Kendrick Lamar,kendrick-lamar,Hip-hop,Compton,United States,Secondary genre(s): Rap.
+Karol G,karol-g,Reggaeton,Medellin,Colombia,Secondary genre(s): Latin pop.
+Tate McRae,tate-mcrae,Pop,Toronto,Canada,
+Fuerza Regida,fuerza-regida,Corridos tumbados,Sinaloa,Mexico,Secondary genre(s): Regional mexicano.
+Benson Boone,benson-boone,Pop,Salem,United States,Secondary genre(s): Rock.
+Harry Styles,harry-styles,Pop,Weybridge,United Kingdom,Secondary genre(s): Rock.
+Chappell Roan,chappell-roan,Pop,Independence,United States,
+Dua Lipa,dua-lipa,Pop,London,United Kingdom,Secondary genre(s): Dance-pop.
+Olivia Rodrigo,olivia-rodrigo,Pop,Tustin,United States,Secondary genre(s): Pop-rock.
+sombr,sombr,Hip-hop,Las Vegas,United States,Secondary genre(s): Rap.
+Michael Jackson,michael-jackson,Pop,Gary,United States,"Secondary genre(s): R&B, Funk."
+Justin Bieber,justin-bieber,Pop,London,Canada,Secondary genre(s): R&B.
+Olivia Dean,olivia-dean,R&B,Leeds,United Kingdom,Secondary genre(s): Pop.
+Linkin Park,linkin-park,Nu-metal,Agoura Hills,United States,Secondary genre(s): Alternative.
+Post Malone,post-malone,Hip-hop,Tallahassee,United States,"Secondary genre(s): Pop, Rap."
+Feid,feid,Reggaeton,Cali (Santiago de Cali),Colombia,Secondary genre(s): Latin urban.
+Zach Bryan,zach-bryan,Country,Long Mtn,United States,
+"HUNTR/X: EJAE, Audrey Nuna & REI AMI",huntr-x-ejae-audrey-nuna-and-rei-ami,K-pop,K-pop supergroup (USA/South Korea),South Korea,Secondary genre(s): Pop.
+BTS,bts,K-pop,Seoul,South Korea,
+OneRepublic,onerepublic,Pop,Provo,United States,Secondary genre(s): Dance-pop.
+Lady Gaga,lady-gaga,Pop,New York,United States,Secondary genre(s): Dance-pop.
+JENNIE,jennie,K-pop,Seoul,South Korea,Secondary genre(s): Pop.
+The Neighbourhood,the-neighbourhood,Alternative,Los Angeles,United Kingdom,Secondary genre(s): R&B.
+Alex Warren,alex-warren,Pop,Nottingham,United Kingdom,Secondary genre(s): R&B.
+Miley Cyrus,miley-cyrus,Pop,Franklin,United States,Secondary genre(s): Rock.
+Arctic Monkeys,arctic-monkeys,Indie rock,Sheffield,United Kingdom,Secondary genre(s): Britpop.
+NewJeans,newjeans,K-pop,Seoul,South Korea,
+Hozier,hozier,Soul,Sligo,Ireland,Secondary genre(s): Indie.
+Eminem,eminem,Hip-hop,Detroit,United States,Secondary genre(s): Rap.
+Gracie Abrams,gracie-abrams,Indie pop,New York,United States,
+Tom Odell,tom-odell,Indie pop,London,United Kingdom,Secondary genre(s): Rock.
+Tito Double P,tito-double-p,Latin,Venezuela / Colombia (regional),Venezuela,Secondary genre(s): Reggaeton.
+Lord Huron,lord-huron,Indie,Los Angeles,United States,Secondary genre(s): Folk-rock.
+Travis Scott,travis-scott,Hip-hop,Houston,United States,Secondary genre(s): Rap.
+Noah Kahan,noah-kahan,Country,Chanhassen,United States,Secondary genre(s): Folk.
+Fleetwood Mac,fleetwood-mac,Rock,London,United Kingdom,Secondary genre(s): Pop-rock.
+Goo Goo Dolls,goo-goo-dolls,Pop-rock,Boston,United States,
+Radiohead,radiohead,Alternative rock,Abingdon,United Kingdom,
+RAYE,raye,R&B,London,United Kingdom,Secondary genre(s): Pop.
+Playboi Carti,playboi-carti,Hip-hop,Atlanta,United States,Secondary genre(s): Rap.
+The Police,the-police,Rock,London,United Kingdom,Secondary genre(s): New wave.
+Luke Combs,luke-combs,Country,Knoxville,United States,
+Ella Langley,ella-langley,Country,Waco,United States,Secondary genre(s): Pop.
+Jimin,jimin,K-pop,Busan,South Korea,
+Imagine Dragons,imagine-dragons,Pop-rock,Las Vegas,United States,Secondary genre(s): Alternative.
+KATSEYE,katseye,K-pop,Los Angeles,United States,
+Shaboozey,shaboozey,Country,Dallas,United States,Secondary genre(s): Hip-hop.
+Djo,djo,Pop,New York,United States,Secondary genre(s): R&B.
+Grupo Frontera,grupo-frontera,Corridos tumbados,Monterrey,Mexico,Secondary genre(s): Regional mexicano.
+Vance Joy,vance-joy,Indie,Victoria,Canada,Secondary genre(s): Folk-rock.
+Zara Larsson,zara-larsson,Pop,Stockholm,Sweden,
+Jung Kook,jung-kook,K-pop,Busan,South Korea,
+Gigi Perez,gigi-perez,Pop,Pittsburgh,United States,
+Lewis Capaldi,lewis-capaldi,Pop,Bellshill,United Kingdom,Secondary genre(s): Rock.
+Shakira,shakira,Latin pop,Barranquilla,Colombia,Secondary genre(s): Reggaeton.
+Doja Cat,doja-cat,Hip-hop,Los Angeles,United States,Secondary genre(s): Pop.
+FloyyMenor X Cris Mj,floyymenor-x-cris-mj,Reggaeton,Puerto Rico / Mexico (regional),Puerto Rico,Secondary genre(s): Latin urban.
+21 Savage,21-savage,Hip-hop,Atlanta,United States,Secondary genre(s): Rap.
+Ravyn Lenae,ravyn-lenae,R&B,Los Angeles,United States,Secondary genre(s): Pop.
+Ovy On The Drums,ovy-on-the-drums,Hip-hop,Miami,United States,Secondary genre(s): Trap.
+"Tyler, The Creator",tyler-the-creator,Hip-hop,Compton,United States,Secondary genre(s): Rap.
+Rihanna,rihanna,Pop,Sandy Bay,Barbados,"Secondary genre(s): R&B, Dancehall."
+Le Sserafim,le-sserafim,K-pop,Seoul,South Korea,
+Stephen Sanchez,stephen-sanchez,Regional mexicano,Tlaxiaco,Mexico,Secondary genre(s): Corridos.
+Tears for Fears,tears-for-fears,New wave,Basildon,United Kingdom,Secondary genre(s): Pop.
+The Marias,the-marias,Pop,New York,United Kingdom,Secondary genre(s): Alternative.
+Natanael Cano,natanael-cano,Corridos tumbados,Guasave,Mexico,
+Tyla,tyla,R&B,Johannesburg,United States,Secondary genre(s): Hip-hop.
+a-ha,a-ha,Synth-pop,Oslo,Norway,Secondary genre(s): New wave.
+The Killers,the-killers,Alternative rock,Las Vegas,United States,Secondary genre(s): Pop-rock.
+"Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",saja-boys-andrew-choi-neckwav-danny-chung-kevin-woo-and-samuil-lee,K-pop,Seoul,South Korea,Secondary genre(s): Hip-hop.
+Rauw Alejandro,rauw-alejandro,Reggaeton,Loiza,Puerto Rico,Secondary genre(s): Latin urban.
+Aespa,aespa,K-pop,Seoul,South Korea,
+Journey,journey,Rock,San Francisco,United States,Secondary genre(s): Pop-rock.
+Lola Young,lola-young,Pop,London,United Kingdom,Secondary genre(s): Pop-rock.
+Beyonce,beyonce,R&B,Houston,United States,"Secondary genre(s): Pop, Hip-hop."
+Junior H,junior-h,Corridos tumbados,Monterrey,Mexico,Secondary genre(s): Regional mexicano.
+Manuel Turizo,manuel-turizo,Pop,Medellin,Colombia,Secondary genre(s): Regional latino.
+Metro Boomin,metro-boomin,Hip-hop,Atlanta,United States,Secondary genre(s): Trap.
+Dominic Fike,dominic-fike,Pop,Fort Wayne,United States,Secondary genre(s): R&B.
+The Kid Laroi,the-kid-laroi,Hip-hop,Sydney,Australia,Secondary genre(s): Pop.
+Daft Punk,daft-punk,Electronic,Paris,France,Secondary genre(s): House.
+Don Toliver,don-toliver,Hip-hop,Houston,United States,Secondary genre(s): R&B.
+Bizarrap,bizarrap,Electronic,Buenos Aires,Argentina,Secondary genre(s): Trap.
+Myles Smith,myles-smith,Country,Siler City,United States,Secondary genre(s): Rock.
+Glass Animals,glass-animals,Alternative rock,London,United Kingdom,Secondary genre(s): Indie.
+Swae Lee,swae-lee,R&B,Calgary,Canada,Secondary genre(s): Hip-hop.
+David Kushner,david-kushner,Indie pop,New York,United States,Secondary genre(s): Rock.
+David Guetta,david-guetta,Electronic,Saint-Maur-des-Fosses (Paris),France,Secondary genre(s): Dance.
+Future,future,Hip-hop,Atlanta,United States,Secondary genre(s): Trap.
+Charli xcx,charli-xcx,Hyperpop,London,United Kingdom,Secondary genre(s): Electronic.
+Tinashe,tinashe,R&B,Atlanta,United States,Secondary genre(s): Pop.
+Lana Del Rey,lana-del-rey,Pop,New York,United States,Secondary genre(s): Indie.
+Myke Towers,myke-towers,Reggaeton,Havana,Cuba,Secondary genre(s): Latin urban.
+Kali Uchis,kali-uchis,Pop,Bogota,United States,"Secondary genre(s): R&B, Latin."
+Tame Impala,tame-impala,Psychedelic rock,Melbourne,Australia,Secondary genre(s): Indie.
+Carin Leon,carin-leon,Regional mexicano,Jalisco,Mexico,Secondary genre(s): Banda.
+J. Cole,j-cole,Hip-hop,Charlotte,United States,Secondary genre(s): Rap.
+Gunna,gunna,Hip-hop,College Park (Atlanta),United States,Secondary genre(s): Trap.
+Sienna Spiro,sienna-spiro,Pop,San Jose,United States,
+Selena Gomez,selena-gomez,Pop,Grand Prairie,United States,
+Miguel,miguel,Latin pop,Los Angeles,United States,Secondary genre(s): Reggaeton.
+Xavi,xavi,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Nirvana,nirvana,Grunge,Aberdeen,United States,Secondary genre(s): Rock.
+Michael Buble,michael-buble,Jazz,Burnaby,Canada,Secondary genre(s): Pop.
+Tommy Richman,tommy-richman,Pop,Atlanta,United States,Secondary genre(s): R&B.
+ILLIT,illit,K-pop,Seoul,South Korea,
+Sia,sia,Pop,Albany,Australia,Secondary genre(s): Electronic.
+Nicki Minaj,nicki-minaj,Hip-hop,Queens (New York),United States,Secondary genre(s): Rap.
+Jack Harlow,jack-harlow,Hip-hop,Louisville,United States,Secondary genre(s): Pop.
+Latto,latto,Hip-hop,Atlanta,United States,Secondary genre(s): Rap.
+Dave,dave,Hip-hop,Manchester,United Kingdom,Secondary genre(s): Rap.
+Artemas,artemas,Pop,New York,United States,Secondary genre(s): R&B.
+Doechii,doechii,Hip-hop,Chicago,United States,Secondary genre(s): Rap.
+Ice Spice,ice-spice,Hip-hop,Bronx (New York),United States,Secondary genre(s): Rap.
+Rema,rema,Afrobeats,Lagos,Nigeria,
+Lil Uzi Vert,lil-uzi-vert,Hip-hop,Newark,United States,Secondary genre(s): Trap.
+Hotel Ugly,hotel-ugly,Pop,Nottingham,United Kingdom,Secondary genre(s): R&B.
+YOASOBI,yoasobi,J-pop,Tokyo,Japan,Secondary genre(s): Anisong.
+HUGEL,hugel,Hip-hop,Seoul,South Korea,Secondary genre(s): Rap.
+JVKE,jvke,Pop,Los Angeles,United States,Secondary genre(s): R&B.
+Dasha,dasha,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Chris Brown,chris-brown,R&B,Cleveland,United States,Secondary genre(s): Hip-hop.
+Mitski,mitski,Indie,Long Island,United States,Secondary genre(s): Alternative.
+Elton John,elton-john,Rock,Pinner (London),United Kingdom,Secondary genre(s): Pop.
+BLACKPINK,blackpink,K-pop,Seoul,South Korea,
+Adele,adele,Pop,Tottenham (London),United Kingdom,Secondary genre(s): Soul.
+Bebe Rexha,bebe-rexha,Pop,Farmingdale (Long Island),United States,Secondary genre(s): R&B.
+Adam Port & Stryv Featuring Malachiii,adam-port-and-stryv-featuring-malachiii,R&B,Toronto,Canada,Secondary genre(s): Pop.
+Fifty Fifty,fifty-fifty,K-pop,Seoul,South Korea,
+Cedric Gervais,cedric-gervais,Electronic,Paris,France,Secondary genre(s): House.
+Kenshi Yonezu,kenshi-yonezu,J-pop,Tokyo,Japan,Secondary genre(s): Rock.
+d4vd,d4vd,Pop,Boca Raton,United States,Secondary genre(s): Indie.
+Gorillaz,gorillaz,Alternative,London,United Kingdom,Secondary genre(s): Electronic.
+Guns N' Roses,guns-n-roses,Rock,Los Angeles,United States,Secondary genre(s): Hard rock.
+Creepy Nuts,creepy-nuts,J-hip-hop,Tokyo,Japan,Secondary genre(s): Rap.
+Kehlani,kehlani,R&B,Oakland,United States,Secondary genre(s): Pop.
+Bailey Zimmerman,bailey-zimmerman,Country,Tampa,United States,
+PinkPantheress,pinkpantheress,Bedroom pop,London,United Kingdom,Secondary genre(s): Pop.
+Ty Dolla $ign,ty-dolla-ign,Hip-hop,Atlanta,United States,Secondary genre(s): R&B.
+Mariah Carey,mariah-carey,Pop,Huntington,United States,Secondary genre(s): R&B.
+Beele,beele,Hip-hop,Zwolle,Netherlands,Secondary genre(s): Rap.
+Katy Perry,katy-perry,Pop,Santa Barbara,United States,
+Oasis,oasis,Britpop,Manchester,United Kingdom,Secondary genre(s): Rock.
+Kacey Musgraves,kacey-musgraves,Country,Kingfisher,United States,Secondary genre(s): Pop.
+IVE,ive,K-pop,Seoul,South Korea,
+Neton Vega,neton-vega,Reggaeton,Bogota,Colombia,Secondary genre(s): Latin urban.
+Natasha Bedingfield,natasha-bedingfield,Pop,Northampton,United Kingdom,Secondary genre(s): R&B.
+Libianca,libianca,Latin,Mexico (regional,Mexico,Secondary genre(s): Reggaeton.
+Creedence Clearwater Revival,creedence-clearwater-revival,Rock,San Francisco,United States,Secondary genre(s): Blues-rock.
+Jin,jin,K-pop,Seoul,South Korea,
+WizTheMc,wizthemc,Hip-hop,Los Angeles,United States,Secondary genre(s): Rap.
+Malcolm Todd,malcolm-todd,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Kenya Grace,kenya-grace,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Sam Smith,sam-smith,Pop,Sheffield,United Kingdom,Secondary genre(s): R&B.
+Wham!,wham,Pop,London,United Kingdom,Secondary genre(s): Dance-pop.
+Calvin Harris,calvin-harris,Electronic,Edinburgh,Scotland,Secondary genre(s): Dance.
+Quevedo,quevedo,Reggaeton,Havana,Cuba,Secondary genre(s): Latin urban.
+Coi Leray,coi-leray,Hip-hop,Newark,United States,Secondary genre(s): Rap.
+Frank Sinatra,frank-sinatra,Jazz,Hoboken,United States,Secondary genre(s): Pop.
+Temper City,temper-city,Pop,United States (regional,United States,Secondary genre(s): Indie.
+Mark Ambor,mark-ambor,Indie,United States (regional,United States,Secondary genre(s): Pop.
+V,v,K-pop,Daegu,South Korea,
+Steve Lacy,steve-lacy,Hip-hop,Houston,United States,Secondary genre(s): Rap.
+Ray Dalton,ray-dalton,Country,New York,United States,Secondary genre(s): Pop.
+Evanescence,evanescence,Alternative rock,Little Rock,United States,Secondary genre(s): Metal.
+Eagles,eagles,Rock,Los Angeles,United States,Secondary genre(s): Soft rock.
+Kelly Clarkson,kelly-clarkson,Pop,Burleson,United States,Secondary genre(s): Rock.
+Dean Martin,dean-martin,Pop,Santa Monica,United States,Secondary genre(s): Jazz.
+Twice,twice,K-pop,Seoul,South Korea,
+Cris Mj,cris-mj,Reggaeton,San Juan,Puerto Rico,Secondary genre(s): Latin urban.
+Empire of the Sun,empire-of-the-sun,Pop,Sydney,Australia,Secondary genre(s): Electronic.
+Brenda Lee,brenda-lee,Rock and Roll,Atoka,United States,Secondary genre(s): Pop.
+Andy Williams,andy-williams,Pop,Hawaii (Hilo),United States,Secondary genre(s): Jazz.
+Stella Lefty,stella-lefty,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Bobby Helms,bobby-helms,Country,Gladys,United States,Secondary genre(s): Rockabilly.
+The Chainsmokers,the-chainsmokers,Electronic,Long Island,United States,Secondary genre(s): Dance.
+Kapo,kapo,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Marshmello,marshmello,Electronic,Tampa,United States,Secondary genre(s): EDM.
+Ozuna,ozuna,Reggaeton,Bayamon,Puerto Rico,Secondary genre(s): Latin urban.
+Rumi & JINU: EJAE & Andrew Choi,rumi-and-jinu-ejae-and-andrew-choi,K-pop,Seoul,South Korea,Secondary genre(s): Pop.
+Tems,tems,Afrobeats,Lagos,Nigeria,
+Maluma,maluma,Reggaeton,Barranquilla,Colombia,Secondary genre(s): Latin urban.
+Frank Ocean,frank-ocean,R&B,Long Beach,United States,Secondary genre(s): Soul.
+Alleh & Yorghaki,alleh-and-yorghaki,Pop,Thessaloniki,Greece,Secondary genre(s): R&B.
+Bing Crosby,bing-crosby,Pop,Tacoma,United States,Secondary genre(s): Jazz.
+Luis R Conriquez x Neton Vega,luis-r-conriquez-x-neton-vega,Reggaeton,Bogota,Colombia,Secondary genre(s): Latin urban.
+Sexyy Red,sexyy-red,Hip-hop,Chicago,United States,Secondary genre(s): Rap.
+Don Omar,don-omar,Reggaeton,San Juan,Puerto Rico,Secondary genre(s): Latin urban.
+AC/DC,ac-dc,Hard rock,Sydney,Australia,Secondary genre(s): Rock.
+ROSALIA,rosalia,Flamenco-pop,Barcelona,Spain,Secondary genre(s): Latin.
+ZXKAI & slxughter,zxkai-and-slxughter,Hip-hop,New York,United States,Secondary genre(s): Trap.
+Inigo Quintero,inigo-quintero,Regional mexicano,Tijuana,Mexico,Secondary genre(s): Banda.
+Eslabon Armado,eslabon-armado,Corridos tumbados,Ciudad Victoria,Mexico,Secondary genre(s): Regional mexicano.
+Shawn Mendes,shawn-mendes,Pop,Guelph,Canada,Secondary genre(s): R&B.
+Lil Baby,lil-baby,Hip-hop,Atlanta,United States,Secondary genre(s): Trap.
+Pinkfong,pinkfong,Children's music,Seoul,South Korea,Secondary genre(s): K-pop.
+Bella Kay,bella-kay,Pop,United States (regional,United States,
+BABYMONSTER,babymonster,K-pop,Seoul,South Korea,
+Stray Kids,stray-kids,K-pop,Seoul,South Korea,
+Aleman X Neton Vega,aleman-x-neton-vega,Reggaeton,Bogota,Colombia,Secondary genre(s): Latin urban.
+*NSYNC,nsync,Pop,Hollywood,United States,Secondary genre(s): R&B.
+ADELA,adela,Pop,United States (regional,United States,
+CHRYSTAL,chrystal,Pop,United States (regional,United States,
+Michael Marcagi,michael-marcagi,Pop,United States (regional,United States,Secondary genre(s): R&B.
+"MOLIY, Silent Addy, Skillibeng & Shenseea",moliy-silent-addy-skillibeng-and-shenseea,Hip-hop,Ottawa,Canada,Secondary genre(s): Rap.
+yung kai,yung-kai,Hip-hop,United States (regional,United States,Secondary genre(s): Rap.
+ROSE,rose,K-pop,Seoul,South Korea,
+J-Hope,j-hope,K-pop,Daejeon,South Korea,Secondary genre(s): Hip-hop.
+Keane,keane,Indie rock,Leicester,United Kingdom,Secondary genre(s): Britpop.
+Toto,toto,Rock,Los Angeles,United States,Secondary genre(s): Pop-rock.
+Meghan Trainor,meghan-trainor,Pop,Salem,United States,Secondary genre(s): R&B.
+Coolio,coolio,Hip-hop,Long Beach,United States,Secondary genre(s): Rap.
+Kim Petras,kim-petras,Pop,Bremen,Germany,Secondary genre(s): Electronic.
+Jose Feliciano,jose-feliciano,Latin,San Juan,Puerto Rico,Secondary genre(s): Pop.
+Megan Thee Stallion,megan-thee-stallion,Hip-hop,Houston,United States,Secondary genre(s): Rap.
+Leon Thomas,leon-thomas,R&B,Baltimore,United States,Secondary genre(s): Pop.
+The Ronettes,the-ronettes,Rock and Roll,New York,United States,Secondary genre(s): Pop.
+Darlene Love,darlene-love,Rock and Roll,New York,United States,Secondary genre(s): Pop.
+LISA,lisa,K-pop,Bangkok,Thailand,
+GloRilla,glorilla,Hip-hop,Memphis,United States,Secondary genre(s): Rap.
+Prince,prince,Pop,Chgo,United States,"Secondary genre(s): R&B, Rock."
+Burl Ives,burl-ives,Country,Burlington,United States,Secondary genre(s): Pop.
+Rosa Linn,rosa-linn,Pop,Yerevan,Armenia,Secondary genre(s): Dance.
+Flo Milli,flo-milli,Hip-hop,Covington (Atlanta),United States,Secondary genre(s): Rap.
+CYRIL,cyril,Hip-hop,United States (regional,United States,Secondary genre(s): Rap.
+"Nat ""King"" Cole",nat-king-cole-quotes,Jazz,Montgomery,United States,Secondary genre(s): Pop.
+Toosii,toosii,Afrobeats,Lagos,Nigeria,
+Gene Autry,gene-autry,Country,Tulsa,United States,Secondary genre(s): Western.
+(G)I-DLE,g-i-dle,K-pop,Seoul,South Korea,
+ATLXS,atlxs,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Jordan Adetunji,jordan-adetunji,Pop,United States (regional,United States,Secondary genre(s): R&B.
+Burna Boy,burna-boy,Afrobeats,Benin City,Nigeria,
+Blessd,blessd,Afrobeats,Benin City,Nigeria,
+JISOO,jisoo,K-pop,Seoul,South Korea,
+Addison Rae,addison-rae,Pop,Syracuse,United States,Secondary genre(s): R&B.
+"JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",jeongyeon-jihyo-and-chaeyoung-of-twice,K-pop,Seoul,South Korea,
+Khalid,khalid,R&B,Tallahassee,United States,Secondary genre(s): Pop.
+El Bogueto x Yung Beef,el-bogueto-x-yung-beef,Regional mexicano,Ciudad Obregon,Mexico,Secondary genre(s): Corridos.
+Sam Fender,sam-fender,Rock,Newcastle upon Tyne,United Kingdom,Secondary genre(s): Pop.
+Jessie Murph,jessie-murph,Pop,New York,United States,Secondary genre(s): R&B.
+Wizkid,wizkid,Afrobeats,Lagos,Nigeria,
+King Gnu,king-gnu,J-rock,Nagoya,Japan,Secondary genre(s): Pop.
+Pitbull,pitbull,Reggaeton,Miami,United States,Secondary genre(s): Hip-hop.
+The Black Eyed Peas,the-black-eyed-peas,Hip-hop,Long Beach,United States,Secondary genre(s): Pop.
+Paul McCartney,paul-mccartney,Rock,Liverpool,United Kingdom,Secondary genre(s): Pop.
+070 Shake,070-shake,Electronic,Austin,United States,Secondary genre(s): Dance.
+Seventeen,seventeen,K-pop,Seoul,South Korea,
+Hanumankind X Kalmi,hanumankind-x-kalmi,Afrobeats,Lagos,Nigeria,
+Elvis Presley,elvis-presley,Rock and Roll,Tupelo,United States,Secondary genre(s): Pop.
+Kyla,kyla,Hip-hop,Atlanta,United States,Secondary genre(s): Rap.
+Sophie Ellis-Bextor,sophie-ellis-bextor,Pop,London,United Kingdom,Secondary genre(s): Electronic.
+Lil Durk,lil-durk,Hip-hop,Chicago,United States,Secondary genre(s): Rap.
+Yandel,yandel,Reggaeton,San Juan,Puerto Rico,Secondary genre(s): Latin urban.
+Chino Pacas,chino-pacas,Reggaeton,Ponce,Puerto Rico,Secondary genre(s): Latin urban.
+Peggy Gou,peggy-gou,Electronic,Seoul,South Korea,Secondary genre(s): House.
+Nat King Cole,nat-king-cole,Jazz,Montgomery,United States,Secondary genre(s): Pop.
+CORTIS,cortis,Pop,Los Angeles,United States,Secondary genre(s): R&B.
+Jackson 5,jackson-5,Pop,Gary,United States,Secondary genre(s): R&B.
+John & Yoko/The Plastic Ono Band With The Harlem Community Choir,john-and-yoko-the-plastic-ono-band-with-the-harlem-community-choir,Rock,Liverpool,United Kingdom,Secondary genre(s): Pop.
+Romeo Santos,romeo-santos,Bachata,Barahona,Dominican Republic,Secondary genre(s): Latin pop.
+"Jaxomy, Agatino Romero & Raffaella Carra",jaxomy-agatino-romero-and-raffaella-carra,Pop,Italy (regional,Italy,
+Madonna,madonna,Pop,Bay City,United States,Secondary genre(s): Dance-pop.
+Anitta,anitta,Samba-pop,Rio de Janeiro,Brazil,Secondary genre(s): Reggaeton.
+Grupo Firme,grupo-firme,Regional mexicano,Monterrey,Mexico,Secondary genre(s): Banda.
+Ado,ado,J-pop,Tokyo,Japan,Secondary genre(s): Anisong.
+Kane Brown,kane-brown,Country,Lithia (Tampa),United States,Secondary genre(s): Pop.
+Bryson Tiller,bryson-tiller,R&B,Springfield,United States,Secondary genre(s): Hip-hop.
+Dareyes de La Sierra,dareyes-de-la-sierra,Reggaeton,Colombia (regional,Colombia,Secondary genre(s): Latin urban.
+Lil Tecca,lil-tecca,Hip-hop,Newark,United States,Secondary genre(s): Rap.
+Chuck Berry,chuck-berry,Rock and Roll,St. Louis,United States,
+Esau Ortiz,esau-ortiz,Regional mexicano,Ciudad Obregon,Mexico,Secondary genre(s): Corridos.
+Jelly Roll,jelly-roll,Country,Monroe,United States,Secondary genre(s): Hip-hop.
+Troye Sivan,troye-sivan,Pop,Johannesburg,Australia,Secondary genre(s): R&B.
+Eartha Kitt,eartha-kitt,Jazz,New York,United States,Secondary genre(s): Pop.
+ROSALIA & Yahritza y Su Esencia,rosalia-and-yahritza-y-su-esencia,Flamenco-pop,Barcelona,Spain,Secondary genre(s): Latin.
+YG Marley,yg-marley,Reggae,Kingston,Jamaica,Secondary genre(s): Dancehall.
+Shakin' Stevens,shakin-stevens,Rock,Belfast,United Kingdom,Secondary genre(s): Pop.
+Band Aid,band-aid,Pop,Dublin,Ireland,Secondary genre(s): Rock.
+Disturbed,disturbed,Rock,Chicago,United States,Secondary genre(s): Metal.
+She & Him,she-and-him,Indie,Brooklyn (New York),United States,Secondary genre(s): Jazz.
+Nicky Youre & dazy,nicky-youre-and-dazy,Pop,New York,United States,Secondary genre(s): R&B.
+Sam Barber Featuring Avery Anna,sam-barber-featuring-avery-anna,Pop,Bath,United States,Secondary genre(s): R&B.
+Anuel AA,anuel-aa,Reggaeton,New York,Puerto Rico,Secondary genre(s): Latin urban.
+Sean Paul,sean-paul,Reggae,Kingston,Jamaica,Secondary genre(s): Dancehall.
+Tiesto,tiesto,Electronic,Amsterdam,Netherlands,Secondary genre(s): Dance.
+Jonas Brothers,jonas-brothers,Pop rock,Rockaway Park,United States,"American pop rock boy band formed 2005; MB city Wyckoff is early residence, family origin is Rockaway Park, Queens, NY"
+"DJ Japa NK, MC Jacare, MC Meno K, MC Ryan SP & DJ DAVI DOGDOG",dj-japa-nk-mc-jacare-mc-meno-k-mc-ryan-sp-and-dj-davi-dogdog,Funk (Brazilian funk),None,Brasil,Brazilian funk collaboration; primary artists MC Meno K and MC Jacaré (both Brazil); city not verified
+Faheem Abdullah,faheem-abdullah,Pop,Srinagar,India,"Singer from Srinagar, Jammu & Kashmir"
+CoComelon,cocomelon,Children's music,None,None,Children's educational YouTube channel; no MB entry; creator/producer not verified
+Trueno,trueno,Argentine urban (freestyle/trap),Buenos Aires,Argentina,Argentine freestyle/trap artist
+Sevdaliza,sevdaliza,Electronic,Amsterdam,Netherlands,"Dutch-Iranian singer/producer; born in Tehran, raised in Amsterdam"
+PARTYNEXTDOOR,partynextdoor,R&B,Mississauga,Canada,Canadian R&B singer (Kwesi Arthur)
+The Beach Boys,the-beach-boys,Rock / Harmony,Hawthorne,United States,"American rock band formed in Hawthorne, CA"
+Oliver Tree,oliver-tree,Alternative pop,Santa Cruz,United States,American singer-songwriter
+Loreen,loreen,Pop,Stockholm,Sweden,"Swedish singer (Loreen Sjöberg), Eurovision winner 2012 & 2023"
+Mrs. GREEN APPLE,mrs-green-apple,Rock (J-rock),None,Japan,Japanese rock band; formation city not verified (Niigata prefecture per public sources); MB candidate was mismatched
+One Direction,one-direction,Pop,London,United Kingdom,English-Irish boy band formed 2010 on The X Factor UK; London as formation hub
+The Outfield,the-outfield,Pop rock,Manchester,United Kingdom,British pop rock band formed in Manchester
+Muni Long,muni-long,R&B / soul,Vero Beach,United States,American R&B/soul singer
+Pentatonix,pentatonix,Pop a cappella,Arlington,United States,"American a cappella group formed in Arlington, TX"
+Mauvais djo,mauvais-djo,Electronic,None,None,Electronic artist; MB match insufficient; origin not verified
+Lizzy McAlpine,lizzy-mcalpine,Folk-pop,Philadelphia,United States,American singer-songwriter based in Philadelphia
+Jain,jain,Pop / Folk,Toulouse,France,French singer (Jain)
+Perry Como,perry-como,Pop,None,United States,"American pop singer and TV personality (1912-2001); born in Canonsburg, PA"
+Mac Miller,mac-miller,Rap,Pittsburgh,United States,"American rapper (Mac Miller, 1992-2017)"
+F3miii,f3miii,R&B,None,None,Electronic/R&B artist; MB 'Dublin' city tag unreliable; origin not verified
+J Abdiel X iZaak,j-abdiel-x-izaak,Reggaeton,None,Puerto Rico,"Puerto Rican collaboration (J Abdiel, iZaak); city not verified"
+Alyssa Grace,alyssa-grace,Pop / country,None,United States,American country-pop singer; MB match insufficient; city not verified
+Stromae,stromae,Pop / Funk,Brussels,Belgium,Belgian singer (Stromae / Paul Henri Tournay)
+Dolly Parton,dolly-parton,Country,Locust Ridge,United States,American country singer-songwriter
+Chris Rea,chris-rea,Rock / soul,Middlesbrough,United Kingdom,British singer-songwriter (1944-2018)
+Jay Rock,jay-rock,Rap,New York (Harlem),United States,"American rapper (Jay Rock), from Harlem, NY"
+Jennifer Lopez,jennifer-lopez,Pop / Latin,The Bronx,United States,American singer/actress
+Jay Wheeler,jay-wheeler,Reggaeton,Salinas,Puerto Rico,Puerto Rican reggaeton singer
+Kate Bush,kate-bush,Rock / art pop,Woking,United Kingdom,British singer-songwriter; MB 'Welling' is in Surrey
+Rvssian,rvssian,Reggaeton / Dancehall,Kingston,Jamaica,Jamaican reggaeton/dancehall producer (Tarik Johnston)
+ANOTR Featuring 54 Ultra,anotr-featuring-54-ultra,Phonk / Electronic,None,None,Collaboration; ANOTR and 54 Ultra origins not verified
+Pabllo Vittar,pabllo-vittar,Brazilian pop / drag,São Luís,Brazil,Brazilian singer (Pabllo Vittar)
+Central Cee,central-cee,Rap,London (Shepherd's Bush),United Kingdom,British rapper (Olamide Oyelaran)
+Ludacris,ludacris,Rap,Champaign,United States,American rapper and actor (Ludacris / Christopher Bridges)
+Cigarettes After Sex,cigarettes-after-sex,Dream pop,El Paso,United States,"American dream pop band from El Paso, TX"
+Richy Mitch And The Coal Miners,richy-mitch-and-the-coal-miners,Country,Colorado Springs,United States,American country duo
+Ellie Goulding,ellie-goulding,Pop,Hereford,United Kingdom,British singer (Ellie Goulding)
+A$AP Rocky,asap-rocky,Rap,New York (Harlem),United States,American rapper (A$AP Rocky / Rakim Mayers)
+Keyshia Cole,keyshia-cole,R&B,Oakland,United States,American R&B singer
+Oliver Anthony Music,oliver-anthony-music,Country,None,United States,American country singer-songwriter (Oliver Anthony); city not verified
+Blake Shelton,blake-shelton,Country,Ada,United States,American country singer (Blake Shelton)
+Vince Guaraldi Trio,vince-guaraldi-trio,Jazz / Bossa nova,None,United States,Jazz trio led by Vince Guaraldi (1928-1976); formed in LA
+ERNEST,ernest,Country,None,United States,Contemporary American country artist (Ernest)
+Ruth B,ruth-b,R&B / Pop,Edmonton,Canada,Canadian R&B singer (Ruth B)
+"Earth, Wind & Fire",earth-wind-and-fire,Funk / R&B / Soul,Chicago,United States,American funk band formed in Chicago
+Aitana,aitana,Pop,Sant Climent de Llobregat (Barcelona),Spain,Spanish pop singer (Aitana Ocaña)
+Rels B,rels-b,Reggaeton / Trap,Palma de Mallorca,Spain,Spanish rapper (Rels B)
+Menos E Mais & Simone Mendes,menos-e-mais-and-simone-mendes,Funk (Brazilian funk),Brasília,Brazil,Brazilian funk group Menos E Mais featuring Simone Mendes
+Omar Courtz & De La Rose,omar-courtz-and-de-la-rose,Reggaeton,None,Puerto Rico,"Puerto Rican collaboration (Omar Courtz, De La Rose); city not verified"
+Divya Kumar,divya-kumar,Bollywood,None,India,Bollywood playback singer
+Lizzo,lizzo,R&B / Pop,Detroit,United States,American rapper/singer (Lizzo / Melissa Viviane Jefferson)
+MXZI,mxzi,Phonk,None,None,Puerto Rican phonk artist; MB country tag GB is unreliable (likely label)
+Kodak Black,kodak-black,Rap,Pompano Beach,United States,American rapper (Kodak Black / Bill Kapler)
+Cartel de Santa Featuring La Kelly,cartel-de-santa-featuring-la-kelly,Regional (Mexican),Santa Catarina,Mexico,Mexican regional group from Santa Catarina (Sinaloa)
+Joji,joji,Hip hop / R&B,Osaka,United States,"Japanese-Australian artist (Joji / Geoff McCube) from Osaka, now based in LA"
+Ana Castela,ana-castela,Sertanejo,None,Brasil,Brazilian sertanejo singer (Ana Castela)
+Rod Wave,rod-wave,Rap,St. Petersburg,United States,American rapper (Rod Wave / Rodarius Green)
+Cardi B,cardi-b,Rap,New York (The Bronx),United States,American rapper (Cardi B / Belcalis Almanzar)
+EsDeeKid,esdeekid,Reggaeton,None,Puerto Rico,Puerto Rican reggaeton artist
+Robin Schulz,robin-schulz,Electronic / dance,Osnabrück,Germany,German DJ/producer
+Marilia Mendonca,marilia-mendonca,Sertanejo,None,Brazil,"Brazilian sertanejo singer (Marília Mendonça, 1995-2021)"
+Aqua,aqua,Euro dance,Copenhagen,Denmark,Danish eurodance group
+Grupo Marca Registrada,grupo-marca-registrada,Regional (Mexican),Culiacán,Mexico,"Mexican regional group from Culiacán, Sinaloa"
+Emilia,emilia,Pop,Stockholm,Sweden,Swedish singer (Emilia Rydberg)
+Summer Walker,summer-walker,R&B,Atlanta,United States,American R&B singer
+Benny Blanco,benny-blanco,Pop (production),Reston,United States,American producer (Benny Blanco / Benjamin Levin)
+The Pogues,the-pogues,Celtic punk / Folk,London,United Kingdom,British-Irish Celtic punk band formed in London 1982
+Cris Mj Featuring Standly,cris-mj-featuring-standly,Latin urban,La Serena,Chile,"Chilean collaboration (Cris MJ, Standly)"
+Big One,big-one,Reggaeton / Electronic,None,Argentina,Argentine producer (Daniel Ismael Real)
+TINI,tini,Pop,Buenos Aires,Argentina,Argentine singer (TINI / Martina Stoessel)
+Wyclef Jean,wyclef-jean,Hip hop / Reggae,Croix-des-Bouquets,Haiti,Haitian rapper/producer; US resident
+Twenty One Pilots,twenty-one-pilots,Alternative rock,Columbus,United States,"American alternative rock duo from Columbus, OH"
+Mitchell Ayres And His Orchestra,mitchell-ayres-and-his-orchestra,Swing / Jazz,None,United States,Swing band led by Mitchell Ayres (1920s-30s)
+Ava Max,ava-max,Pop,New Jersey,United States,American singer (Ava Max / Ava Metroplitis)
+Young Thug,young-thug,Rap,Atlanta,United States,American rapper (Young Thug / Jeffery Williams)
+JHAYCO,jhayco,Reggaeton,Las Piedras,Puerto Rico,"Puerto Rican reggaeton singer (Jhayco, formerly Jhay Cortez)"
+Daniel Caesar,daniel-caesar,R&B,Toronto,Canada,Canadian R&B singer
+Victor Valverde X JR Torres,victor-valverde-x-jr-torres,Regional (Mexican),None,Mexico,"Mexican regional artists (Víctor Valverde, JR Torres); city not verified"
+DJ Snake,dj-snake,Electronic,Paris,France,French EDM producer (DJ Snake / William Grigahcine)
+Eladio Carrion,eladio-carrion,Reggaeton,None,Puerto Rico,Puerto Rican reggaeton artist (Eladio Carrión)
+Lil Nas X,lil-nas-x,Rap,Atlanta,United States,American rapper (Lil Nas X / Monardo Zamora)
+Anne-Marie,anne-marie,Pop,Essex,United Kingdom,British pop singer (Anne-Marie McClymont)
+Oscar Ortiz X Edgardo Nunez,oscar-ortiz-x-edgardo-nunez,Regional (Mexican),None,Mexico,"Mexican regional collaboration (Óscar Ortiz, Edgardo Núñez)"
+Donny Hathaway,donny-hathaway,R&B / soul,Chicago,United States,American R&B/soul singer (1951-1979)
+Kaliii,kaliii,Rap,Atlanta,United States,American rapper (Kaliii / Calvin Freeman)
+Hearts2Hearts,hearts2hearts,K-pop,Seoul,South Korea,South Korean K-pop girl group
+Good Neighbours,good-neighbours,Dance pop,London,United Kingdom,2000s British dance-pop duo
+FloyyMenor,floyymenor,Chilean urban,None,Chile,Chilean urban singer (FloyyMenor)
+Halsey,halsey,Alt pop,New Jersey,United States,American singer (Halsey / Ashley Frangipane)
+Kygo,kygo,Electronic,Oslo,Norway,Norwegian DJ/producer (Kygo / Kyrre Gørvell-Dahll); MB 'Singapore' tag unreliable
+Jombriel & DFZM,jombriel-and-dfzm,Reggaeton,Esmeraldas,Ecuador,"Ecuadorian reggaeton collaboration (Jombriel, DFZM)"
+INTERWORLD,interworld,Electronic,None,None,MusicBrainz candidate country 'Russia' not verified
+Topic,topic,Electronic,Solingen,Germany,German DJ/producer (Tobias Topic)
+Jere Klein,jere-klein,Chilean urban,None,Chile,Chilean urban artist (Jere Klein)
+TOMORROW X TOGETHER,tomorrow-x-together,K-pop,Seoul,South Korea,South Korean K-pop boy group
+Britney Spears,britney-spears,Pop,None,United States,American pop singer (Britney Spears)
+Lil Wayne,lil-wayne,Rap,New Orleans,United States,American rapper (Lil Wayne / Dwayne Carter)
+G-Dragon,g-dragon,K-pop / Hip hop,Seoul,South Korea,South Korean rapper (G-Dragon / Kwon Ji-yong)
+Herencia de Grandes,herencia-de-grandes,Regional (Mexican),Culiacán,Mexico,Mexican regional group from Culiacán
+Jombriel X Ryan Castro X Jotta X Alex Krack,jombriel-x-ryan-castro-x-jotta-x-alex-krack,Reggaeton,None,None,"Multi-artist reggaeton collaboration (Jombriel - EC, Ryan Castro - PR, Jotta - PR, Alex Krack - MX); city not verified"
+ENHYPEN,enhypen,K-pop,Seoul,South Korea,South Korean K-pop boy group
+Bad Gyal,bad-gyal,Urban pop,Barcelona (Vilassar de Mar),Spain,Spanish singer (Bad Gyal)
+Dexter And The Moonrocks,dexter-and-the-moonrocks,Country rock,Abilene,United States,"American country-rock band from Abilene, TX"
+Ozzy Osbourne,ozzy-osbourne,Metal,Birmingham,United Kingdom,British heavy metal singer (Ozzy Osbourne)
+Kanye West,kanye-west,Rap,Atlanta,United States,American rapper (Ye / formerly Kanye West)
+Ashe,ashe,Alt pop,San Jose,United States,American singer (Ashe)
+French Montana,french-montana,Rap,New York,United States,American rapper of Moroccan origin (French Montana / Karim Kourouma)
+Stevie Wonder,stevie-wonder,R&B / soul,Saginaw,United States,American R&B/soul singer (Stevie Wonder)
+John Williams,john-williams,Score / Film,None,United States,American film composer (John Williams)
+Jay-Z,jay-z,Rap,New York (Brooklyn),United States,American rapper (Jay-Z / Shawn Carter)
+Tory Lanez,tory-lanez,R&B / Rap,Brampton,Canada,Canadian R&B/rap singer
+Rich The Kid,rich-the-kid,Rap,None,United States,American rapper (Rich The Kid)
+Bradley Cooper,bradley-cooper,Acting,Philadelphia,United States,American actor (featured in 'I'm Good (Blue)')
+P!nk Featuring Nate Ruess,p-nk-featuring-nate-ruess,Pop,Doylestown,United States,American pop singer (P!nk) featuring Nate Ruess
+Tatsuya Kitani,tatsuya-kitani,J-pop,None,Japan,Japanese artist (Kitani Tatsuya); city not verified
+J Balvin,j-balvin,Reggaeton,Medellín,Colombia,"Colombian reggaeton singer (J Balvin, 1977-2020)"
+Omar Courtz,omar-courtz,Reggaeton,None,Puerto Rico,Puerto Rican reggaeton producer (Omar Courtz / Joshua Omar Medina Cortes)
+Afrojack,afrojack,Electronic / EDM,None,Netherlands,Dutch DJ/producer (Afrojack / Nicholas van der Meulen); MB US country tag unreliable
+Ne-Yo,ne-yo,R&B,None,United States,American R&B singer (Ne-Yo / Shaffer Smith)
+PLAVE,plave,K-pop,Seoul,South Korea,South Korean K-pop virtual boy group
+Angela Aguilar,angela-aguilar,Regional (Mexican),None,Mexico,Mexican regional singer (Ángela Aguilar); MB 'Indonesian Artist' tag is wrong
+Lay Bankz,lay-bankz,R&B,Philadelphia,United States,American singer (Lay Bankz)
+Gwen Stefani,gwen-stefani,Pop,Fullerton,United States,American pop singer (Gwen Stefani)
+EsDeeKid & Rico Ace,esdeekid-and-rico-ace,Reggaeton,None,Puerto Rico,"Collaboration (EsDeeKid - PR, Rico Ace - Miami); city not verified"
+The Cranberries,the-cranberries,Rock,Limerick,Ireland,Irish rock band from Limerick
+Cris Mj & FloyyMenor,cris-mj-and-floyymenor,Chilean urban,La Serena,Chile,"Chilean collaboration (Cris MJ, FloyyMenor)"
+Justin Timberlake,justin-timberlake,Pop / R&B,None,United States,American pop/R&B singer (Justin Timberlake)
+BLOK3,blok3,Turkish electronic / Anatolian,Kocaeli,Turkey,Turkish electronic artist (BLOK3 / Hakan Aydın)
+LATIN MAFIA & Fred again..,latin-mafia-and-fred-again,Reggaeton / Electronic,None,Mexico,"Collaboration (LATIN MAFIA - MX, Fred again.. - GB); city not verified"
+NLE Choppa,nle-choppa,Rap,None,United States,American rapper (NLE Choppa)
+Ayra Starr,ayra-starr,Afropop,Lagos,Nigeria,Nigerian afropop singer (Ayra Starr)
+LISA Featuring Rosalia,lisa-featuring-rosalia,K-pop / Flamenco,None,Thailand,"Collaboration (LISA - BLACKPINK, TH; Rosalía - ES)"
+Rich Amiri,rich-amiri,Rap,None,United States,American rapper (Rich Amiri)
+Cynthia Erivo,cynthia-erivo,Acting / Singing,None,United Kingdom,British actress/singer (Cynthia Erivo)
+Gotye,gotye,Pop / Alt pop,Melbourne,Australia,Australian singer (Gotye / Wally De Brito)
+Paul Russell,paul-russell,Rap / Soul,None,United States,American rapper/singer (Paul Russell)
+HWASA,hwasa,K-pop / Dance,Seoul,South Korea,South Korean singer (HWASA of MAMAMOO)
+IU,iu,K-pop,Seoul,South Korea,South Korean singer (IU / Lee Ji-eun)
+Nicki Nicole,nicki-nicole,Argentine urban (freestyle),Rosario,Argentina,Argentine urban artist (Nicki Nicole)
+ALLDAY PROJECT,allday-project,K-pop,Seoul,South Korea,South Korean K-pop boy group
+Thurl Ravenscroft,thurl-ravenscroft,Jazz / Swing,None,United States,"American jazz singer (Thurl Ravenscroft, 1912-1985)"
+Official HIGE DANdism,official-hige-dandism,J-rock,None,Japan,Japanese rock band (Official HIGE DANdism); formation city not verified (Shimane per public sources)
+Maria Becerra,maria-becerra,Argentine urban (freestyle),Quilmes,Argentina,Argentine freestyle artist (María Becerra)
+Ye,ye,Rap,Atlanta,United States,American rapper (Ye / formerly Kanye West)
+Sleep Token,sleep-token,Metal / Alt metal,Atlanta,United States,American alt-metal band (Sleep Token)
+Ndotz,ndotz,Rap,None,United Kingdom,British rapper (Ndotz)
+Sefo & Demet Akalin,sefo-and-demet-akalin,Turkish pop / DJ,None,Turkey,"Collaboration (Sefo, Demet Akalın); city not verified"
+HAVEN. Featuring Kaitlin Aragon,haven-featuring-kaitlin-aragon,EDM / Dance,None,None,Collaboration; HAVEN. and Kaitlin Aragon origins not verified
+Superstar Pride,superstar-pride,Country,None,United States,American country artist (Superstar Pride); distinct from Charley Pride
+Juice WRLD,juice-wrld,Rap,Chicago,United States,"American rapper (Juice WRLD, 1998-2019)"
+Jack Black,jack-black,Acting / Comedy,Santa Monica,United States,American actor/comedian (Jack Black)
+Fat Papi,fat-papi,Reggaeton,None,None,Puerto Rican urban artist (Fat Papi); MB 'Fat Papi (2000s group)' is different entity
+Chezile,chezile,Lo-fi / Bedroom pop,Albuquerque,United States,American bedroom pop artist (Chezile)
+Nile Rodgers,nile-rodgers,Disco / Pop,New Jersey,United States,American musician/producer (Nile Rodgers)
+"ROSALIA, Bjork & Yves Tumor",rosalia-bjork-and-yves-tumor,Flamenco / Alt pop,None,Spain,"Collaboration (Rosalía - ES, Björk - IS, Yves Tumor - US); primary artist Rosalía"
+Easykid,easykid,Chilean urban,Antofagasta,Chile,Chilean urban singer (Easykid)
+Florence + The Machine,florence-the-machine,Rock,None,United Kingdom,British rock band (Florence + The Machine)
+Bruce Springsteen,bruce-springsteen,Rock,None,New Jersey,United States
+Hikaru Utada,hikaru-utada,J-pop,Osaka,Japan,Japanese singer (Utada Hikaru)
+Julion Alvarez,julion-alvarez,Regional (Mexican),Hidalgo,Mexico,Mexican regional singer (Julión Álvarez)
+Jason Aldean,jason-aldean,Country,None,New Jersey,United States
+P!nk,p-nk,Pop,Doylestown,United States,American pop singer (P!nk)
+Chris Stapleton,chris-stapleton,Country / soul,None,New Jersey,United States
+SUICIDAL-IDOL,suicidal-idol,Reggaeton,None,None,Reggaeton artist (SUICIDAL-IDOL); MB candidate 'Billy Idol' is different artist
+TLC,tlc,R&B,Atlanta,United States,American R&B girl group (TLC)
+Young Cister & Kreamly,young-cister-and-kreamly,Chilean urban,Santiago,Chile,"Chilean urban collaboration (Young Cister, Kreamly)"
+KATO Featuring Jon,kato-featuring-jon,Electronic / techno,Thisted,Denmark,Danish DJ (KATO) featuring Jon; MB city tag may be unreliable
+Quavo,quavo,Rap,Lawrenceville,United States,American rapper (Quavo)
+Imogen Heap,imogen-heap,Electronic / alt pop,None,United Kingdom,British singer (Imogen Heap)
+Milo j,milo-j,Argentine urban,Morón,Argentina,Argentine urban singer (Milo j); MB 'Milo J. Marami' is different person
+Lorde,lorde,Pop / Alt pop,Takapuna,New Zealand,New Zealand singer (Lorde)
+Koe Wetzel,koe-wetzel,Country,None,New Jersey,United States
+Alphaville,alphaville,Synth pop,Münster,Germany,German synth pop band (Alphaville)
+Taeyang,taeyang,K-pop,Seoul,South Korea,South Korean singer (Taeyang of BIGBANG)
+girl in red,girl-in-red,Indie pop,Oslo,Norway,Norwegian singer (girl in red / Mari Sole)
+Freshlyground,freshlyground,Alt rock,None,South Africa,South African alt rock band (Freshlyground)
+Yb Wasg'ood & Ariis,yb-wasg-ood-and-ariis,Electronic / Phonk,None,None,"Collaboration (Yb Wasg'ood, Ariis); origins not verified"
+Becky G,becky-g,Latin pop,Inglewood,United States,American singer of Mexican heritage (Becky G)
+Tove Lo,tove-lo,Pop,Stockholm,Sweden,Swedish pop singer (Tove Lo)
+Nakama & MC Staff,nakama-and-mc-staff,Rap,New York,United States,"New York hip hop collaboration (Nakama, MC Staff)"
+Black Sabbath,black-sabbath,Metal,Birmingham,United Kingdom,British heavy metal band
+Tainy,tainy,Reggaeton / Salsa producer,San Juan,Puerto Rico,Puerto Rican producer (Tainy / Marcos Efraín Masís)
+DJ Glenner & MC Tuto,dj-glenner-and-mc-tuto,Funk (Brazilian funk),None,Brasil,"Brazilian funk collaboration (DJ Glenner, MC Tuto)"
+Brandy,brandy,R&B,None,United States,American R&B singer (Brandy / Branda Norine Norwood)
+Monica,monica,R&B,Atlanta,United States,American R&B singer (Monica / Monica Arina Arnold)
+Dean Lewis,dean-lewis,Pop / singer-songwriter,Sydney,Australia,Australian singer-songwriter (Dean Lewis)
+KARINA,karina,Latin urban (cumbia),Buenos Aires,Argentina,Argentine cumbia artist (Karina)
+GELO,gelo,Rap,Pittsburg,United States,American rapper (GELO)
+Lithe,lithe,Alt pop / Indie,Melbourne,Australia,Australian singer (Lithe / Josiah Ramel)
+KISS OF LIFE,kiss-of-life,K-pop,Seoul,South Korea,South Korean K-pop girl group
+Fetty Wap,fetty-wap,Rap,None,New Jersey,United States
+Bellakath & Dani Flow,bellakath-and-dani-flow,Phonk / Regional,Mexico City,Mexico,"Mexican phonk collaboration (Bellakath / Katherinne Huerta, Dani Flow)"
+50 Cent,50-cent,Rap,New York,United States,American rapper (50 Cent / Curtis Jackson)
+Farruko,farruko,Reggaeton,Bayamón,Puerto Rico,Puerto Rican reggaeton singer (Farruko / Carlos Efrén Reyes Rosado)
+Labrinth,labrinth,Electronic / R&B,London,United Kingdom,British singer/producer (Labrinth / Taylor McFerrin)
+Xavi X Dareyes de La Sierra,xavi-x-dareyes-de-la-sierra,Regional (Mexican),None,Mexico,"Mexican regional collaboration (Xavi, Dareyes de La Sierra)"
+Laufey,laufey,Jazz pop,Reykjavík,Icelandic,Icelandic singer (Laufey)
+Yeat,yeat,Rap,Irvine,United States,American rapper (Yeat)
+BM,bm,Rap,None,Sofia,Bulgarian hip hop artist (BM / Martin Slavchev)
+The Chemical Brothers,the-chemical-brothers,electronic,Manchester,GB,British electronic music duo
+AKMU,akmu,K-pop,Uijeongbu,KR,South Korean musical duo (Aekyung & Suhyun)
+Leo Santana,leo-santana,sertanejo,Salvador,BR,Brazilian sertanejo singer
+Arijit Singh & Shilpa Rao,arijit-singh-and-shilpa-rao,Bollywood,Kolkata,IN,Duet: Bengali playback singer & Bollywood playback singer
+Avicii,avicii,electronic,Stockholm,SE,"Swedish DJ/producer (Tim Bergling), d. 2018"
+Mazzy Star,mazzy-star,alternative rock,Santa Monica,US,American alternative rock band
+RM,rm,K-pop,Seoul,KR,"South Korean rapper, BTS member"
+Zico,zico,K-pop,Seoul,KR,South Korean rapper/entrepreneur
+Jason Derulo,jason-derulo,pop,Miami,US,American singer/rapper
+Karan Aujla,karan-aujla,Punjabi pop,London,GB,Punjabi-Canadian singer
+Tones And I,tones-and-i,pop,Morphett Vale,AU,Australian singer (Danielle Rowe)
+BENNETT,bennett,pop,Los Angeles,US,American pop artist (real name undisclosed)
+NF,nf,hip hop,Tulsa,US,American rapper/songwriter (Nathan Feuerstein)
+Jamie Miller,jamie-miller,pop,Wales,GB,Welsh pop-soul singer/songwriter
+Darell,darell,reggaeton,Puerto Rico,PR,Puerto Rican urban artist
+Clave Especial & Edgardo Nunez,clave-especial-and-edgardo-nunez,regional mexicano,Salinas,US,Mexican regional band & Mexican singer
+Niall Horan,niall-horan,pop,Mullingar,IE,"Irish singer, former One Direction member"
+Mariah The Scientist,mariah-the-scientist,hip hop,Atlanta,US,American rapper/producer
+Ray Parker Jr.,ray-parker-jr,funk,Detroit,US,"American funk/soul musician, 'Ghostbusters'"
+Queen,queen,rock,London,GB,British rock band (Freddie Mercury era)
+Maroon 5,maroon-5,pop rock,Los Angeles,US,American pop rock band
+The Citizens of Halloween,the-citizens-of-halloween,rock,None,None,US rock band; MB match ambiguous
+Ryan Gosling,ryan-gosling,pop/indie,London,CA,Canadian actor/singer
+Agust D,agust-d,K-pop,Seoul,KR,BTS member (SUGA)
+Red Hot Chili Peppers,red-hot-chili-peppers,rock,Los Angeles,US,American rock band
+Bonnie Tyler,bonnie-tyler,rock,Newport,GB,Welsh singer/songwriter
+Chance the Rapper,chance-the-rapper,hip hop,Chicago,US,American rapper/songwriter/producer
+Bee Gees,bee-gees,disco,London,GB,British-Australian pop/disco group
+Skepta,skepta,grime,London,GB,British rapper
+Duki,duki,trap,Buenos Aires,AR,Argentine freestyle/rap artist
+Rockwell,rockwell,R&B,Detroit,US,"American R&B artist, 'Somebody''s Watching Me'"
+NMIXX,nmixx,K-pop,Seoul,KR,South Korean girl group
+Aerosmith,aerosmith,rock,Boston,US,American rock band
+Jasleen Royal & Arijit Singh,jasleen-royal-and-arijit-singh,Punjabi/Bollywood,Punjab,IN,Duet: Punjabi singer & Bollywood playback singer
+Zeynep Bastik,zeynep-bastik,pop,Istanbul,TR,Turkish pop singer
+GAYLE,gayle,country,Nashville,US,American country singer (Kathryn Lynn Gayle)
+Lee Young Ji Featuring D.O.,lee-young-ji-featuring-d-o,K-pop,Seoul,KR,Korean singer feat. EXO's D.O.
+BIBI,bibi,K-pop,Seoul,KR,South Korean rapper/singer (Kim Ji-yoon)
+Riley Green,riley-green,country,Jacksonville,US,American country singer
+"Bobby ""Boris"" Pickett And The Crypt-Kickers",bobby-boris-pickett-and-the-crypt-kickers,rock,Cleveland,US,"American rock artist, 'Monster Mash'"
+Jere Klein & Katteyes,jere-klein-and-katteyes,regional mexicano,None,MX,Mexican regional artists; MB matches weak
+Lenin Ramirez,lenin-ramirez,regional mexicano,Sinaloa,MX,Mexican singer
+pupsies,pupsies,phonk,None,US,US phonk artist; no MB entry found
+Andre Troutman,andre-troutman,gospel,None,US,American gospel artist; limited MB data
+GENER8ION & Yung Lean,gener8ion-and-yung-lean,hip hop/electronic,Stockholm,SE,US producer & Swedish rapper collab
+Daryl Hall John Oates,daryl-hall-john-oates,pop,Philadelphia,US,American pop duo (Hall & Oates)
+Leona Lewis,leona-lewis,pop,London,GB,British singer
+Bon Jovi,bon-jovi,rock,Sayreville,US,American rock band
+Offset,offset,hip hop,Atlanta,US,"American rapper, Migos member"
+Calle 24,calle-24,regional mexicano,Chihuahua,MX,Mexican banda/regional group
+ThxSoMch,thxsomch,hip hop,Toronto,CA,Canadian rapper/producer
+Andrew Gold,andrew-gold,pop,Burbank,US,"American singer/producer, d. 2017"
+Daesung,daesung,K-pop,Seoul,KR,"South Korean singer, Super Junior member"
+Kings of Leon,kings-of-leon,rock,Nashville,US,American rock band
+Fujii Kaze,fujii-kaze,J-pop,Tokyo,JP,Japanese singer/producer (Fujii Kaze)
+Chase Atlantic,chase-atlantic,R&B,Melbourne,AU,Australian R&B duo
+Robert Smith,robert-smith,rock,Blackpool,GB,"British musician, The Cure frontman"
+"Chris Grey, R3BEL & Kryd",chris-grey-r3bel-and-kryd,electronic,Copenhagen,DK,Collab: US/UK artists & Danish DJ Kryd
+The Beatles,the-beatles,rock,Liverpool,GB,"British rock band (Lennon, McCartney, Harrison, Starr)"
+Mora,mora,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton singer
+Miley,miley,country pop,Franklin,US,American singer (Miley Cyrus)
+"Pedro Sampaio, MC Meno K & Melody",pedro-sampaio-mc-meno-k-and-melody,funk carioca,São Paulo,BR,Brazilian funk/rap collab
+Chill77 & Unjaps,chill77-and-unjaps,electronic,None,None,Electronic music collab; limited MB data
+TWS: 24/7:WITH:US,tws-24-7-with-us,K-pop,Seoul,KR,Korean boy group TWS track
+HANA,hana,R&B,Atlanta,US,American singer (Hana Pestle)
+"Oruam, Ze Felipe & MC Tuto Featuring DJ LC da Roca, MC K9, MC Rodrigo do CN & mc pl alves",oruam-ze-felipe-and-mc-tuto-featuring-dj-lc-da-roca-mc-k9-mc-rodrigo-do-cn-and-mc-pl-alves,funk carioca,None,BR,Brazilian funk collab
+Metallica,metallica,metal,Los Angeles,US,American heavy metal band
+TakeOff,takeoff,hip hop,Atlanta,US,"American rapper, Migos member, d. 2022"
+James Arthur,james-arthur,pop,Middlesbrough,GB,"British singer, X Factor winner"
+Eurythmics,eurythmics,new wave,London,GB,British new wave duo (Annie Lennox & Dave Stewart)
+Julion Alvarez y Su Norteno Banda,julion-alvarez-y-su-norteno-banda,regional mexicano,Sinaloa,MX,Mexican banda artist & group
+ZAYN,zayn,pop,Bradford,GB,"British singer, former One Direction member"
+boa,boa,K-pop,Seoul,KR,South Korean singer/actress (Kwon Bo-a)
+Aditya Rikhari,aditya-rikhari,Bollywood,New Delhi,IN,Indian singer-songwriter
+Charlie Puth,charlie-puth,pop,Rumson,US,American singer/songwriter/producer
+MGK,mgk,rap rock,Houston,US,"American rapper (Colson Baker, fka Machine Gun Kelly)"
+Arijit Singh & Armaan Khan,arijit-singh-and-armaan-khan,Bollywood,Kolkata,IN,Duet: Bollywood playback singers
+James Hype,james-hype,electronic,London,GB,British DJ/producer
+Joost,joost,hip hop,Leeuwarden,NL,Dutch rapper (Joost Klein)
+Kaarija,kaarija,rock,Helsinki,FI,"Finnish artist (Aki Kalliolainen), Eurovision 2023"
+Leo Foguete,leo-foguete,funk carioca,None,BR,Brazilian funk artist
+Nayeon,nayeon,K-pop,Seoul,KR,"South Korean singer, TWICE member"
+Odetari,odetari,hip hop,Houston,US,American rapper
+4 Non Blondes,4-non-blondes,rock,San Francisco,US,American rock band
+Arashi,arashi,J-pop,Tokyo,JP,Japanese boy band (Johnny's)
+Alicia Keys,alicia-keys,R&B,New York,US,American singer/pianist
+The War And Treaty,the-war-and-treaty,soul,Baltimore,US,American soul/R&B duo
+Cup Of Joe,cup-of-joe,indie,Manila,PH,Filipino indie rock band
+Daddy Yankee,daddy-yankee,reggaeton,San Juan,PR,Puerto Rican reggaeton artist
+Usher,usher,R&B,Dallas,US,American R&B singer
+Baby Keem,baby-keem,hip hop,Carson,US,American rapper (Calvin Parker)
+Fourtwnty Featuring Charita Utami,fourtwnty-featuring-charita-utami,indie,Jakarta,ID,Indonesian indie band feat. singer
+"Juan Reza, Diva Aurel, Silet Open Up & Jacson Seran",juan-reza-diva-aurel-silet-open-up-and-jacson-seran,pop,Jakarta,ID,Indonesian pop artists collab
+Wiz Khalifa,wiz-khalifa,hip hop,Minot,US,American rapper
+King,king,electronic,None,None,Electronic/phonk artist; MB match false positive (Stephen King)
+Afusic,afusic,hip hop,Hyderabad,IN,Indian hip hop artist
+ATEEZ,ateez,K-pop,Seoul,KR,South Korean boy group
+imase,imase,J-pop,Gifu,JP,Japanese singer-songwriter
+Mahmood,mahmood,rap,Milan,IT,Italian rapper (Alessandro Mahmoud)
+Nelly Furtado,nelly-furtado,pop,Victoria,CA,Canadian pop singer
+Timbaland,timbaland,hip hop,Norfolk,US,American producer/rapper (Timothy Mosley)
+Bhupinder Babbal,bhupinder-babbal,Punjabi,None,IN,Punjabi artist; limited MB data
+NIKI,niki,pop,Jakarta,ID,Indonesian-American singer (Nicole Zefanya)
+Pooh Shiesty,pooh-shiesty,trap,Memphis,US,American rapper (Mario Mingo Jr.)
+Anderson .Paak,anderson-paak-2,hip hop,Oxnard,US,American rapper/producer
+Sean Kingston,sean-kingston,reggaeton,Miami,US,Jamaican-American rapper/singer
+Felipe & Rodrigo,felipe-and-rodrigo,sertanejo,None,BR,Brazilian sertanejo duo (MB matched wrong artist)
+Moneybagg Yo,moneybagg-yo,hip hop,Memphis,US,American rapper (Radric Davis)
+Tracy Chapman,tracy-chapman,folk,Cleveland,US,American singer-songwriter
+Oimara,oimara,electronic,Tegernsee,DE,German electronic artist (Benedikt Hafner)
+Brray,brray,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist
+Lyanno,lyanno,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist
+Big Sean,big-sean,hip hop,Detroit,US,American rapper (Sean Anderson)
+Connie Francis,connie-francis,pop,Newark,US,"American pop singer, d. 2025"
+Wizzard,wizzard,rock,Birmingham,GB,British rock group (Roy Wood)
+Lil Jon,lil-jon,hip hop,Atlanta,US,American producer/rapper
+Nemo,nemo,phonk,None,US,US phonk artist (distinct from French band Nemo)
+Kevin O Chris & DJ Nk Da Serra,kevin-o-chris-and-dj-nk-da-serra,funk carioca,None,BR,Brazilian funk collab
+Cazzu,cazzu,trap,Buenos Aires,AR,Argentine freestyle/rap artist
+KitschKrieg,kitschkrieg,electronic,Berlin,DE,German producer duo
+Tkandz,tkandz,phonk,None,None,Phonk artist; no MB entry found
+Bellakath,bellakath,electronic,Mexico,MX,Mexican DJ/producer (Katherinne Huerta)
+Foo Fighters,foo-fighters,rock,Seattle,US,American rock band (Dave Grohl)
+Justine Skye,justine-skye,pop,Brooklyn,US,American pop singer/actress
+Tyga,tyga,hip hop,Compton,US,American rapper (Michael Ray Williams Jr.)
+Roddy Ricch,roddy-ricch,hip hop,Compton,US,American rapper (Rodrick Wilson Jr.)
+Danny Ocean,danny-ocean,pop,Caracas,VE,Venezuelan singer/producer
+Lil Mabu,lil-mabu,trap,New York,US,American rapper
+Michelle Maciel x Eden Munoz,michelle-maciel-x-eden-munoz,regional mexicano,None,MX,Mexican regional artists collab
+Toby Keith,toby-keith,country,Clinton,US,"American country singer, d. 2024"
+Alessandra,alessandra,pop,Oslo,NO,Norwegian singer
+Joao Gustavo & Murilo & Grelo,joao-gustavo-and-murilo-and-grelo,sertanejo,None,BR,Brazilian sertanejo artists collab
+Oscar Maydon X Neton Vega,oscar-maydon-x-neton-vega,regional mexicano,Culiacan,MX,Mexican reggaeton & banda collab
+A Boogie wit da Hoodie,a-boogie-wit-da-hoodie,hip hop,The Bronx,US,American rapper (Alpheus Ricchie)
+Nav,nav,hip hop,Toronto,CA,Canadian rapper/producer
+Melanie Martinez,melanie-martinez,pop,Astoria,US,American pop singer/producer
+Mert Demir & Mabel Matiz,mert-demir-and-mabel-matiz,pop,Istanbul,TR,Turkish artists collab
+Bryant Myers,bryant-myers,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton/trap singer
+Don Miguelo,don-miguelo,reggaeton,Duarte,DO,Dominican reggaeton artist
+Olly,olly,pop,Witham,GB,British pop artist (Olly Murs or other)
+A2O LITE,a2o-lite,K-ballad,Seoul,KR,Korean ballad group (Ballad Project)
+DJ Luian,dj-luian,reggaeton,Puerto Rico,PR,Puerto Rican DJ/producer
+Mambo Kingz,mambo-kingz,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton producer duo
+Lazza,lazza,rap,Milan,IT,Italian rapper
+Tommy Cash,tommy-cash,country/phonk,Tallinn,EE,Estonian-American country/folk singer
+Isabel LaRosa,isabel-larosa,indie pop,Annapolis,US,American indie pop artist
+Quevedo & Mike Towers,quevedo-and-mike-towers,reggaeton,Puerto Rico,PR,Spanish singer & PR reggaeton artist collab
+Exo,exo,K-pop,Seoul,KR,South Korean/Chinese boy group (SM Entertainment)
+Pierce the Veil,pierce-the-veil,rock,San Diego,US,American rock band
+Hans Zimmer,hans-zimmer,soundtrack,Frankfurt,DE,German film score composer
+Trippie Redd,trippie-redd,hip hop,Canton,US,American rapper/Migos-adjacent
+"Beyonce, Tanner Adell, Brittney Spencer, Tiera Kennedy & Reyna Roberts",beyonce-tanner-adell-brittney-spencer-tiera-kennedy-and-reyna-roberts,country,Houston,US,Country collaboration (Beyonce feat. country artists)
+Faouzia,faouzia,pop,Casablanca,MA,Moroccan-Canadian singer
+Ryan Castro x Pe$o Pluma,ryan-castro-x-pe-o-pluma,regional mexicano,None,MX,Mexican regional artists collab
+Apache 207,apache-207,phonk,Ludwigshafen,DE,German phonk artist
+DaBaby,dababy,hip hop,Cleveland,US,American rapper (Jonathan Kirk)
+Tom MacDonald X Ben Shapiro,tom-macdonald-x-ben-shapiro,hip hop,Toronto,CA,Canadian rapper feat. commentator Ben Shapiro
+Jungle,jungle,soul/electronic,London,GB,British modern soul/electronic group
+Cher,cher,pop,El Centro,US,American pop/rock icon
+Tina Turner,tina-turner,rock,Nutbush,US,"American-German rock/soul singer, d. 2023"
+Slade,slade,rock,Wolverhampton,GB,British hard rock band
+J Hus,j-hus,drill,London,GB,British rapper/singer (Mamadou Jallow)
+Madison Beer,madison-beer,pop,Nassau County,US,American singer/actress
+Baby Rasta,baby-rasta,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Wilmer Alicea)
+Giveon,giveon,R&B,Long Beach,US,American R&B singer
+Mark Ronson,mark-ronson,pop/electronic,London,GB,British DJ/producer
+Omoinotake,omoinotake,J-rock,Matsue,JP,Japanese rock band (King Gnu side project)
+Chris Isaak,chris-isaak,rock,Stockton,US,American rock/pop singer
+Lauv,lauv,pop,San Francisco,US,American pop artist (Rufus Fredli)
+tuki.,tuki,J-pop,None,JP,Japanese singer
+Cody Johnson,cody-johnson,country,None,US,American country singer
+Seu Jorge,seu-jorge,MPB,Rio de Janeiro,BR,Brazilian MPB/funk singer
+"Varun Jain, Schin-Jigar, Shadab Faridi & Altamash Faridi",varun-jain-schin-jigar-shadab-faridi-and-altamash-faridi,Bollywood,Mumbai,IN,Indian playback singers collab
+Eric Church,eric-church,country,Granite Falls,US,American country singer
+Yan Block & Panda Black,yan-block-and-panda-black,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton producers
+Lauana Prado,lauana-prado,sertanejo,Goiania,BR,Brazilian sertanejo singer
+Kenny Rogers,kenny-rogers,country,Houston,US,"American country/pop singer, d. 2020"
+Beyonce & Rumi Carter,beyonce-and-rumi-carter,pop,Houston,US,Beyonce feat. her daughter Rumi Carter
+Michael Buble Featuring The Puppini Sisters,michael-buble-featuring-the-puppini-sisters,jazz,Burnaby,CA,Canadian jazz singer feat. British vocal group
+The Lumineers,the-lumineers,folk,Denver,US,American folk/indie band
+Whiskey Myers,whiskey-myers,southern rock,Palestine,US,American southern rock band
+Lost Frequencies,lost-frequencies,electronic,Brussels,BE,Belgian DJ/producer (DJ Stargate)
+JEON SOMI,jeon-somi,K-pop,Seoul,KR,Korean-Canadian singer
+UZI & Motive,uzi-and-motive,phonk,None,US,US phonk artists collab
+Kid Cudi,kid-cudi,hip hop,Cleveland,US,American rapper/producer (Scott Mescudi)
+Major Lazer,major-lazer,electronic,Los Angeles,US,"Electronic supergroup (Diplo, Ape, Skip)"
+Wisin & Yandel + ROSALIA,wisin-and-yandel-rosalia,reggaeton,Puerto Rico,PR,PR reggaeton duo feat. Spanish artist
+Xavi X Tony Aguirre,xavi-x-tony-aguirre,regional mexicano,Tijuana,MX,Mexican regional artists collab
+Jaden Smith,jaden-smith,hip hop,Los Angeles,US,American rapper/actor
+Jhene Aiko,jhene-aiko,R&B,Los Angeles,US,American R&B singer
+KSI,ksi,hip hop,Watford,GB,British YouTuber/rapper (Olajide Olatunji)
+Sinead O'Connor,sinead-o-connor,rock,Dublin,IE,"Irish singer-songwriter, d. 2023"
+Little Simz,little-simz,hip hop,Manchester,GB,British rapper/singer
+Bob Sinclar,bob-sinclar,house,Paris,FR,French DJ/producer (Benoît Wautelet)
+"Hanumankind, Jasmine Sandlas, Sudhir Yaduvanshi, Shashwat Sachdev, Muhammad Sadiq & Ranjit Kaur",hanumankind-jasmine-sandlas-sudhir-yaduvanshi-shashwat-sachdev-muhammad-sadiq-and-ranjit-kaur,Bollywood,Mumbai,IN,Indian playback/Bollywood artists collab
+Lainey Wilson,lainey-wilson,country,Baskin,US,American country singer
+ABBA,abba,pop,Stockholm,SE,"Swedish pop group (Agnet, Bjorn, Benny, Anni-Frid)"
+DJ Khaled,dj-khaled,hip hop,Miami,US,American DJ/producer/rapper
+Kanii,kanii,K-pop,Seoul,KR,South Korean rapper (Hybe artist)
+Camila Cabello,camila-cabello,pop,Cuban-American,US,American singer (Cuban-born)
+George Ezra,george-ezra,folk pop,Bristol,GB,British singer-songwriter
+Megan Moroney,megan-moroney,country,Savannah,US,American country singer-songwriter
+Emir Can Igrek,emir-can-igrek,pop,Izmir,TR,Turkish pop singer
+Poizi,poizi,pop,Istanbul,TR,Turkish pop artist (Baris Anac)
+Crowded House,crowded-house,rock,Auckland,NZ,New Zealand/Australian rock group
+G-Eazy,g-eazy,hip hop,Oakland,US,American rapper (Mandisa Brown)
+Lynyrd Skynyrd,lynyrd-skynyrd,rock,Jacksonville,US,American southern rock band
+Abor & Tynna,abor-and-tynna,electronic,Vienna,AT,Austrian electronic duo
+"Bhavi, Seven Kayne, Milo j, Tiago PZK, KHEA & Neo Pistea",bhavi-seven-kayne-milo-j-tiago-pzk-khea-and-neo-pistea,trap,Buenos Aires,AR,Argentine freestyle/trap artists collab
+Marco Mengoni,marco-mengoni,pop,Ronciglione,IT,Italian pop singer
+Trans-Siberian Orchestra,trans-siberian-orchestra,symphonic rock,Buffalo,US,"American symphonic rock project (Chris Farley, Paul O'Neill)"
+Gesaffelstein,gesaffelstein,electronic,Paris,FR,French electronic artist (Pierre-Alexandre Busson)
+HARDY,hardy,country,Nashville,US,American country singer (Jayson Deere)
+NCT 127,nct-127,K-pop,Seoul,KR,South Korean boy group (SM Entertainment)
+Celine Dion,celine-dion,pop,Charlemagne,CA,Canadian-French pop singer
+John Legend,john-legend,R&B,Springfield,US,American R&B/soul singer/pianist
+Geolier,geolier,trap,Naples,IT,Italian rapper (Gennaro Capuano)
+"Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury & Armaan Khan",shashwat-sachdev-shahzad-ali-subhadeep-das-chowdhury-and-armaan-khan,Bollywood,Mumbai,IN,Indian playback singers collab
+Willie Jones,willie-jones,country,Shreveport,US,American country singer
+Dwele,dwele,soul,Detroit,US,American neo-soul artist
+"DG E Batidao Stronda, J.Eskine, MC Davi & MC G15",dg-e-batidao-stronda-j-eskine-mc-davi-and-mc-g15,funk carioca,None,BR,Brazilian funk collab
+Aina The End,aina-the-end,J-rock,Osaka,JP,Japanese vocalist (Aina Ateendi)
+Maggie Rogers,maggie-rogers,indie pop,Easton,US,American singer-songwriter
+Manu Bahtidao & Simone Mendes,manu-bahtidao-and-simone-mendes,funk/MPB,None,BR,Brazilian funk & MPB artists collab
+Santigold,santigold,alt hip hop,Philadelphia,US,American alt hip hop artist
+ScHoolboy Q,schoolboy-q,hip hop,Los Angeles,US,American rapper (Steven Burgess)
+James Blake,james-blake,electronic,London,GB,English singer/producer
+Dara,dara,pop,Varna,BG,Bulgarian singer (Darina Yotova)
+Christian Nodal,christian-nodal,regional mexicano,Sonora,MX,Mexican singer
+Kylie Minogue,kylie-minogue,pop,Melbourne,AU,Australian pop singer
+Annalisa,annalisa,pop,Savona,IT,Italian singer-songwriter (Annalisa Scarrone)
+Bhad Bhabie,bhad-bhabie,hip hop,Boynton Beach,US,American rapper (Rhian Graham)
+Brent Faiyaz,brent-faiyaz,R&B,Columbia,US,American R&B singer/producer
+sakanaction,sakanaction,J-rock,Sapporo,JP,Japanese rock band
+Mr.Rain,mr-rain,phonk,Italy,IT,Italian phonk artist (Mattia Balardi)
+Rick Ross,rick-ross,hip hop,Miami,US,American rapper (William Roberts)
+New West,new-west,indie,Toronto,CA,Canadian indie band
+Justice,justice,electro house,Paris,FR,French electro house duo
+NCT DREAM,nct-dream,K-pop,Seoul,KR,South Korean boy group (SM Entertainment)
+"Sayfalse, Yb Wasg'Ood & Ariis",sayfalse-yb-wasg-ood-and-ariis,phonk,None,US,US phonk artists collab
+Snow Man,snow-man,J-pop,Tokyo,JP,Japanese boy group (STARTO/Johnny's)
+Pusha T,pusha-t,hip hop,The Bronx,US,"American rapper (Terrace Thornton), Clipse member"
+blink-182,blink-182,pop punk,Poway,US,American pop punk band
+Shania Twain,shania-twain,country,Windsor,CA,Canadian country/pop singer
+Ye Featuring Nine Vicious,ye-featuring-nine-vicious,hip hop,Oklahoma City,US,Kanye West feat. Nine Vicious
+Ella Fitzgerald,ella-fitzgerald,jazz,Newport News,US,"American jazz legend, d. 1997"
+Ye & CeeLo Green,ye-and-ceelo-green,soul/hip hop,Atlanta,US,Kanye West & CeeLo Green collab
+The Clash,the-clash,punk,London,GB,British punk rock band
+Brenno & Matheus & DJ Ari SL,brenno-and-matheus-and-dj-ari-sl,sertanejo,None,BR,Brazilian sertanejo collab
+Falling in Reverse,falling-in-reverse,metal,Las Vegas,US,American metal/rock band
+Laura Pausini,laura-pausini,pop,Faenza,IT,Italian pop singer
+Angelina Mango,angelina-mango,pop,Maratea,IT,Italian singer
+Kordhell,kordhell,phonk,Stockholm,SE,Swedish phonk producer (Mikael Kenney)
+Fall Out Boy,fall-out-boy,pop punk,Chicago,US,American pop punk/rock band
+Arijit Singh,arijit-singh,Bollywood,Kolkata,IN,Indian playback singer
+Dogu Swag & Semicenk,dogu-swag-and-semicenk,rap,Istanbul,TR,Turkish rap artists collab
+Tim McGraw,tim-mcgraw,country,Delhi,US,American country singer/actor
+Carla Morrison,carla-morrison,pop,Mexico,MX,Mexican singer
+Man With a Mission,man-with-a-mission,J-rock,Tokyo,JP,Japanese rock band
+milet,milet,J-pop,Tokyo,JP,Japanese singer-songwriter
+3 Doors Down,3-doors-down,alternative rock,Escatawpa,US,American rock band
+Jimmy Buffett,jimmy-buffett,tropical,Pascagoula,US,"American tropical/singer, d. 2023"
+Yo Yo Honey Singh,yo-yo-honey-singh,hip hop,Delhi,IN,Indian rapper (Honey Singh)
+Chief Keef,chief-keef,drill,Chicago,US,American rapper (Larry Jackson)
+Hayley Williams,hayley-williams,pop punk,Meridian,US,"American singer, Paramore frontwoman"
+BAS,bas,electronic,None,None,Electronic artist; MB match false positive (Bach)
+Ludmilla,ludmilla,funk carioca,Rio de Janeiro,BR,Brazilian singer/actress
+Ze Felipe,ze-felipe,sertanejo,Goiania,BR,Brazilian sertanejo singer
+Mustard,mustard,hip hop,Los Angeles,US,American hip hop producer (Dijon Jackson)
+Lil Yachty,lil-yachty,hip hop,Mableton,US,American rapper/singer (Yaachii Dwee)
+"DJ GBR, MC IG, MC Ryan SP, MC PH, MC Davi, MC Luki, MC Don Juan, MC Kadu, Traplaudo, MC GP & MC GH Do7",dj-gbr-mc-ig-mc-ryan-sp-mc-ph-mc-davi-mc-luki-mc-don-juan-mc-kadu-traplaudo-mc-gp-and-mc-gh-do7,funk carioca,None,BR,Brazilian funk group collab
+I.O.I.,i-o-i,K-pop,Seoul,KR,South Korean girl group (produce 101)
+Udo Lindenberg,udo-lindenberg,rock,Gronau,DE,"German rock singer, d. 2025"
+Clipse,clipse,hip hop,Virginia Beach,US,American hip hop duo (Pusha T & No Malice)
+Conan Gray,conan-gray,indie pop,Lemon Grove,US,American singer-songwriter
+Kid Rock,kid-rock,rock,Romeo,US,American rock/rap/country artist
+Ya Ice Dilan X Rey Tony X Helabusador,ya-ice-dilan-x-rey-tony-x-helabusador,regional mexicano,None,MX,Mexican regional artists collab
+manifest,manifest,metal,Trondheim,NO,Norwegian metal band
+Treyce,treyce,funk carioca,None,BR,Brazilian singer; limited MB data
+Dido,dido,pop,London,GB,English singer-songwriter
+KAJ,kaj,pop,Vaasa,FI,Finnish comedy/pop group
+De la Ghetto,de-la-ghetto,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist
+Westside Gunn,westside-gunn,hip hop,Buffalo,US,"American rapper, M.O.B. member"
+Bigbang,bigbang,K-pop,Seoul,KR,South Korean boy band (YG Entertainment)
+AP Dhillon,ap-dhillon,Punjabi pop,London,GB,Punjabi-Canadian singer/producer
+Yame,yame,electronic,None,None,Electronic DJ/production duo; limited MB data
+Skrillex,skrillex,electro house,Los Angeles,US,American DJ/producer (Sonny John Moore)
+Suga,suga,K-pop,Seoul,KR,BTS member (Min Yoon-gi)
+Dave Chappelle,dave-chappelle,comedy/hip hop,Washington,US,American comedian/rapper
+Nikbinler,nikbinler,rock,Istanbul,TR,Turkish rock band
+Vitinho Imperador,vitinho-imperador,funk carioca,None,BR,Brazilian funk artist; limited MB data
+Kesha,kesha,pop,Los Angeles,US,American pop artist (Kesha Sebert)
+Madhubanti Bagchi & Jasmine Sandlas,madhubanti-bagchi-and-jasmine-sandlas,Bollywood,Kolkata,IN,Indian playback singers collab
+Tyler Childers,tyler-childers,country/folk,Lawrence County,US,American country/alt artist
+Young Miko,young-miko,reggaeton,Añasco,PR,Puerto Rican reggaeton artist (Mike Moreno)
+timelesz,timelesz,J-pop,Tokyo,JP,Japanese boy group (fka Sexy Zone)
+Mae Stephens,mae-stephens,pop,Shrewsbury,GB,British pop singer/actress
+Skylar Grey,skylar-grey,rock,Mazomanie,US,American rock vocalist (Holly Brook)
+Yung Baby Tate,yung-baby-tate,hip hop,Decatur,US,American rapper (Brianna Akins)
+Kadu Martins,kadu-martins,samba,None,BR,Brazilian samba artist; limited MB data
+Bill Withers,bill-withers,soul,Slater-Brownfield,US,"American soul/R&B artist, d. 2018"
+Daya,daya,pop,Calgary,CA,Canadian singer
+Jasmine Sandlas & Satinder Sartaaj,jasmine-sandlas-and-satinder-sartaaj,Bollywood,Mumbai,IN,Indian playback singers collab
+t.A.T.u.,t-a-t-u,pop punk,Moscow,RU,Russian pop/rock duo
+Mo,mo,R&B,Los Angeles,US,American R&B artist (distinct from MØ)
+El Alfa,el-alfa,reggaeton,Santo Domingo,DO,Dominican merengue/reggaeton artist (Alcides Pérez)
+Pharrell Williams,pharrell-williams,hip hop/POP,Vienna,US,American singer/producer
+Dem Jointz,dem-jointz,trap,Atlanta,US,American trap artist (Bryson Pirell)
+Baby Lasagna,baby-lasagna,electronic,None,US,US DJ/producer
+Boney M,boney-m-2,disco,Cologne,DE,"German disco group (Liz Mitchell, etc.)"
+John Denver,john-denver,country/folk,Roswell,US,"American country/folk singer, d. 1997"
+Lauryn Hill,lauryn-hill,hip hop/R&B,Newark,US,"American singer (Fugees member, 'The Miseducation')"
+Bon Iver,bon-iver,indie folk,Eau Claire,US,American indie folk artist (Justin Vernon)
+Gaeko,gaeko,rap,Seoul,KR,South Korean rapper (Kwon Gae-young)
+Gustavo Mioto,gustavo-mioto,sertanejo,Londrina,BR,Brazilian sertanejo singer
+Robyn,robyn,pop,Stockholm,SE,Swedish pop artist (Robyn Joy Kling)
+Slimane,slimane,pop,Paris,FR,French singer (Slimane Azem)
+Tom Grennan,tom-grennan,indie pop,Birmingham,GB,British singer-songwriter
+Ati242 & BLOK3,ati242-and-blok3,trap/UK rap,London,GB,UK artists collab
+Nickelback,nickelback,rock,Hanna,CA,Canadian rock band (Chad Kroeger)
+Reynmen,reynmen,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Javier Reyes)
+Brandi Carlile,brandi-carlile,folk,Lancaster,US,American folk/country singer (Brandi Carlile)
+Bob Marley & The Wailers,bob-marley-and-the-wailers,reggae,Kingston,JM,Jamaican reggae artist (Bob Marley & The Wailers)
+Flipperachi,flipperachi,regional mexicano,Mexico,MX,Mexican regional/phonk artist
+Luck Ra X KHEA,luck-ra-x-khea,trap,Buenos Aires,AR,Argentine freestyle/trap artists collab
+wifiskeleton & i wanna be a jack-o-lantern,wifiskeleton-and-i-wanna-be-a-jack-o-lantern,phonk,None,US,US phonk artists collab
+Sebastian Yatra,sebastian-yatra,pop,Medellín,CO,Colombian singer
+Omar Courtz & Nengo Flow,omar-courtz-and-nengo-flow,regional mexicano,Mexico,MX,Mexican regional artists collab
+FloyyMenor & Lewis Somes,floyymenor-and-lewis-somes,regional mexicano,Culiacan,MX,Mexican reggaeton artists collab
+KiiiKiii,kiiikiii,K-pop,Seoul,KR,South Korean girl group (WAKEONE)
+Harshavardhan Rameshwar,harshavardhan-rameshwar,Tollywood,Hyderabad,IN,Indian Telugu playback singer
+Walk the Moon,walk-the-moon,indie rock,Columbus,US,American indie rock band
+PJ,pj,hip hop,New York,US,American rapper (P.J. Maitus)
+Grelo,grelo,sertanejo,São Paulo,BR,Brazilian sertanejo singer
+Idina Menzel,idina-menzel,musical,Newton,US,"American singer/actress (Wicked, IDA)"
+JIN & WENDY,jin-and-wendy,K-pop,Seoul,KR,BTS JIN & Red Velvet WENDY collab
+Sanju Rathod,sanju-rathod,Tollywood,Mumbai,IN,Indian playback singer
+"Silva MC, DJ F7, JC no Beat & MC Meno Dani",silva-mc-dj-f7-jc-no-beat-and-mc-meno-dani,funk carioca,None,BR,Brazilian funk collab
+Number_i,number-i,J-rock,Tokyo,JP,Japanese rock band (B'z-related)
+Bryan Adams,bryan-adams,rock,Vancouver,CA,Canadian rock/pop singer
+Los Dos de Tamaulipas,los-dos-de-tamaulipas,regional mexicano,Tamaulipas,MX,Mexican banda duo
+"Sayfalse, Cape & JXNDRO",sayfalse-cape-and-jxndro,phonk,None,US,US phonk artists collab
+The White Stripes,the-white-stripes,rock,Detroit,US,American rock duo (Jack & Meg White)
+Fedez,fedez,rap,Barcelona,ES,Spanish rapper/producer (Federico Jusset)
+ECLIPSE,eclipse,K-pop,Seoul,KR,Korean boy group (fka N.Flying)
+Heather Carmillia Joseph,heather-carmillia-joseph,indie,None,US,American indie artist; limited MB data
+Diplo,diplo,electronic,Wilmington,US,"American DJ/producer (Thomas Wesley Pentz), Major Lazer"
+Parangole & Leo Santana,parangole-and-leo-santana,sertanejo/funk,Salvador,BR,Brazilian artists collab
+Diana Ross,diana-ross,soul,Chicago,US,"American soul/pop legend, d. 2025"
+Lunay,lunay,reggaeton,San Juan,PR,Puerto Rican reggaeton artist (Luis Fernández)
+Melanie Thornton,melanie-thornton,soul,Los Angeles,US,American singer (The Black Eyed Peas former member)
+Sixpence None the Richer,sixpence-none-the-richer,folk rock,Dallas,US,American folk rock band (Kate Cradduck)
+Lomiiel,lomiiel,funk carioca,None,BR,Brazilian funk artist; limited MB data
+Corey Taylor,corey-taylor,metal,Columbus,US,"American vocalist (Slipknot, Stone Sour)"
+Serj Tankian,serj-tankian,metal,Glendale,US,American vocalist (System of a Down)
+Amy Winehouse,amy-winehouse,soul,Camden,GB,"English singer-songwriter, d. 2011"
+Luisa Sonza,luisa-sonza,pop,Belo Horizonte,BR,Brazilian pop singer
+Paris Paloma,paris-paloma,indie pop,Los Angeles,US,American indie pop artist
+Quevedo & Saiko,quevedo-and-saiko,reggaeton,Puerto Rico,PR,Spanish singer & PR reggaeton artist collab
+Ari Lennox,ari-lennox,R&B,Los Angeles,US,American R&B artist (Ariella Lennox)
+Gucci Mane,gucci-mane,hip hop,College Park,US,American rapper (Radric Davis)
+Young Dro,young-dro,hip hop,Atlanta,US,American rapper (Christopher Dorsey)
+Judy Garland,judy-garland,pop,Grand Rapids,US,"American actress/singer, d. 1969"
+"Nilo, MC Paiva, DJ Di Marques & Kyo",nilo-mc-paiva-dj-di-marques-and-kyo,funk carioca,None,BR,Brazilian funk collab
+LISA of BLACKPINK,lisa-of-blackpink,K-pop,Bangkok,TH,Thai-South Korean singer (BLACKPINK member)
+JJ,jj,pop,None,None,Pop artist; MB match ambiguous
+Luciano & RAF Camora,luciano-and-raf-camora,trap,Buenos Aires,AR,Argentine freestyle/rap artists collab
+Sheck Wes,sheck-wes,drill,The Bronx,US,American rapper (Keith Newsome Jr.)
+Dedubluman & Aleyna Tilki,dedubluman-and-aleyna-tilki,pop,Istanbul,TR,Turkish pop artists collab
+Halodayi X Azer Bulbul,halodayi-x-azer-bulbul,pop,Izmir,TR,Turkish pop artists collab
+Maneskin,maneskin,rock,Rome,IT,Italian rock band
+Prospa & Cloonee Featuring Sybil,prospa-and-cloonee-featuring-sybil,phonk,None,US,US phonk artists collab
+Victor Mendivil,victor-mendivil,regional mexicano,Mexico,MX,Mexican regional artist
+Justin Quiles,justin-quiles,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Justin Santiago)
+Arijit Singh & Sachin-Jigar,arijit-singh-and-sachin-jigar,Bollywood,Kolkata,IN,Duet: Bollywood playback singers
+LONOWN & riserayss,lonown-and-riserayss,phonk,None,US,US phonk artists collab
+PLAVE Featuring SOLE,plave-featuring-sole,K-pop,Seoul,KR,Korean boy group feat. SOLE
+Regulo Molina X Oscar Maydon X Neton Vega,regulo-molina-x-oscar-maydon-x-neton-vega,regional mexicano,Sinaloa,MX,Mexican regional artists collab
+Lil B,lil-b,hip hop,Oakland,US,American rapper (Lavante Tyler)
+John Mayer,john-mayer,pop rock,Rochester,US,American singer-songwriter/guitarist
+MERO,mero,phonk,None,US,US phonk artist; limited MB data
+Spitz,spitz,indie,Tokyo,JP,Japanese rock/indie band
+Arca,arca,electronic,Barcelona,ES,Venezuelan electronic artist (Alejandra Ghersi)
+Bill Pinkney,bill-pinkney,soul,None,US,American soul singer; MB data limited
+Clyde McPhatter,clyde-mcphatter,R&B,Durham,US,"American R&B singer (The Drifters), d. 1972"
+Jubin Nautiyal,jubin-nautiyal,Bollywood,Haridwar,IN,Indian playback singer
+"K/DA: Mimi Webb, Sophie Powers, MIYEON & SOYEON",k-da-mimi-webb-sophie-powers-miyeon-and-soyeon,K-pop/electronic,Seoul,KR,K/DA virtual group collab feat. (G)I-DLE & Red Velvet
+Kenia Os,kenia-os,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Kenia Osorio)
+"ROSALIA, Estrella Morente & Silvia Perez Cruz",rosalia-estrella-morente-and-silvia-perez-cruz,flamenco/pop,Zaragoza,ES,Spanish pop artist & flamenco singers collab
+Sekai No Owari,sekai-no-owari,J-pop,Tokyo,JP,Japanese pop/rock group (World's End)
+Popcaan,popcaan,dancehall,London,GB,Jamaican-English dancehall artist (Popcaan)
+Depeche Mode,depeche-mode,synthpop,Basildon,GB,British synthpop/electronic band
+Maanu X Annural Khalid,maanu-x-annural-khalid,phonk,None,IN,Indian phonk artists collab
+Rels B & Lia Kali,rels-b-and-lia-kali,pop,Valencia,ES,Spanish pop/rap artists collab
+Wet,wet,phonk,None,US,US phonk artist; MB match false positive (band Wet)
+Sofia Carson,sofia-carson,pop,San Diego,US,American pop singer/actress
+Calum Scott,calum-scott,pop,Hampstead,GB,British singer (X Factor runner-up)
+Woodkid,woodkid,electronic,Paris,FR,French artist (Yann Insala)
+Brad Paisley,brad-paisley,country,Berryville,US,American country singer
+Charlie Wilson,charlie-wilson,soul,Tuscaloosa,US,American soul/R&B artist (d. 2015)
+MC Caverinha E KayBlack,mc-caverinha-e-kayblack,funk carioca,None,BR,Brazilian funk artists collab
+MC MENOR HR E MC Menor SG & DJ ESCOBAR,mc-menor-hr-e-mc-menor-sg-and-dj-escobar,funk carioca,None,BR,Brazilian funk collab
+Sam Ryder,sam-ryder,pop,Bromley,GB,British singer (Eurovision 2022)
+Vishal Mishra,vishal-mishra,Hindustani,Delhi,IN,Indian singer-songwriter
+ZEROBASEONE,zerobaseone,K-pop,Seoul,KR,South Korean boy group (WAKEONE)
+Surf Curse,surf-curse,phonk,None,US,US phonk artist; limited MB data
+Beach House,beach-house,dream pop,State College,US,American dream pop duo
+Crush,crush,K-pop,Seoul,KR,South Korean singer/producer (Kwon Jin-ah)
+Edward Maya,edward-maya,electronic,Bucharest,RO,Romanian DJ/producer (Edward Mureșan)
+Mac DeMarco,mac-demarco,indie,Toronto,CA,Canadian indie pop/rock artist
+Macklemore,macklemore,hip hop,Seattle,US,American rapper (Macklemore & Ryan Lewis)
+Hwang Young Woong,hwang-young-woong,K-pop,Seoul,KR,South Korean singer (Hwang Young-woong)
+Imael Angel,imael-angel,regional mexicano,Culiacan,MX,Mexican reggaeton artist (Ismal Ángel)
+Yung Miami,yung-miami,hip hop,Miami,US,American rapper (Katherine Aris)
+Kelsea Ballerini,kelsea-ballerini,country,Longview,US,American country singer
+Greeicy,greeicy,regional mexicano,Culiacan,MX,Mexican singer (Greeicy Andrade)
+BOYNEXTDOOR,boynextdoor,K-pop,Seoul,KR,South Korean boy group (KO Entertainment)
+Ofenbach Featuring Norma Jean Martine,ofenbach-featuring-norma-jean-martine,electronic,Stuttgart,DE,German DJ/producer feat. French singer
+Foster the People,foster-the-people,indie pop,Los Angeles,US,American indie pop band (Markus Dravs)
+Gustavo Moura & Rafael,gustavo-moura-and-rafael,sertanejo,Belo Horizonte,BR,Brazilian sertanejo duo
+Jessie Reyez,jessie-reyez,R&B,Manchester,GB,British-Puerto Rican R&B artist
+Koffee,koffee,pop,Kingston,JM,Jamaican singer (Amari Blackwood)
+Cagla X Dogu Swag,cagla-x-dogu-swag,rap,Istanbul,TR,Turkish rap artists collab
+Omar Camacho x Victor Mendivil x Angel Almaguer x $HUPE,omar-camacho-x-victor-mendivil-x-angel-almaguer-x-hupe,regional mexicano,Mexico,MX,Mexican regional artists collab
+"Oscar Maydon, Gabito Ballesteros & Chino Pacas",oscar-maydon-gabito-ballesteros-and-chino-pacas,regional mexicano,Culiacan,MX,Mexican regional artists collab
+Paloma Faith,paloma-faith,pop,London,GB,English pop soul singer
+Whitney Houston,whitney-houston,R&B,Newark,US,"American R&B/pop legend, d. 2012"
+Rylo Rodriguez,rylo-rodriguez,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Yeriel Rodriguez)
+Gazo,gazo,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Gabriel Antonio García)
+Belinda,belinda,pop,Mexico,MX,Mexican singer/actress (Belinda Escobar)
+Eddy Lover,eddy-lover,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (Eddy Lover)
+Grupo Menos E Mais & Nattan,grupo-menos-e-mais-and-nattan,funk carioca,Rio de Janeiro,BR,Brazilian funk collab
+Simone Mendes,simone-mendes,pop,Rio de Janeiro,BR,Brazilian pop singer
+BEAM,beam,phonk,None,US,US phonk artist; limited MB data
+Diddy,diddy,hip hop,Newark,US,American rapper/producer (Sean Combs)
+Giorgia,giorgia,pop,Salerno,IT,Italian pop singer (Giorgiana Fiori)
+JIHYO,jihyo,K-pop,Seoul,KR,Korean singer (Red Velvet member)
+Dalex,dalex,rap,Paris,FR,French rapper (Daley)
+Dimelo Flow,dimelo-flow,regional mexicano,Culiacan,MX,Mexican reggaeton artist
+Sech,sech,reggaeton,Puerto Rico,PR,Puerto Rican reggaeton artist (José Antonio Seda)
+Beach Weather,beach-weather,phonk,None,US,US phonk artist; limited MB data
+Parampara Tandon,parampara-tandon,Bollywood,Delhi,IN,Indian playback singer
+Childish Gambino,childish-gambino,hip hop,College Park,US,American artist (Donald Glover)
+C. Tangana,c-tangana,UK rap,London,GB,British rapper/singer (George Cash)
+Giorgio Moroder,giorgio-moroder,disco/electronic,Zagreb,IT,"Italian DJ/producer, d. 2025"
+Beyonce Featuring Jay Z,beyonce-featuring-jay-z,R&B/pop,Houston,US,American R&B/pop singer feat. rapper Jay Z
+MC Livinho & DJ Matt D,mc-livinho-and-dj-matt-d,funk carioca,None,BR,Brazilian funk collab
+Remy Boyz,remy-boyz,regional mexicano,Mexico,MX,Mexican regional/phonk group
+Brandon Lake,brandon-lake,gospel/Christian rock,Fort Worth,US,American Christian rock/gospel artist
+Norm Ender,norm-ender,regional mexicano,Mexico,MX,Mexican regional artist (Norman Ender)
+Omar Camacho x Victor Mendivil,omar-camacho-x-victor-mendivil,regional mexicano,Mexico,MX,Mexican regional artists collab
+Plain White T's,plain-white-t-s,pop punk,Wheaton,US,American pop punk band
+Dynamicduo & Lee Young Ji,dynamicduo-and-lee-young-ji,K-pop,Seoul,KR,Korean hip hop duo feat. Lee Young Ji
