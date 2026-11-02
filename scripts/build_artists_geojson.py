@@ -55,7 +55,7 @@ QUERY_OVERRIDES = {
 }
 
 CITY_COUNTRY_OVERRIDES = {
-    "Bogota": "Colombia", "Delhi": "India", "Johannesburg": "South Africa",
+    "Bogota": "Colombia", "Johannesburg": "South Africa",
     "Los Angeles": "United States", "New Delhi": "India", "New York": "United States",
     "Osaka": "Japan", "Zagreb": "Croatia",
 }
@@ -182,6 +182,8 @@ def main() -> int:
         source_city = chart["home_city"].split(",", 1)[0] if chart else row["home_city"]
         city = normalized_city(source_city, country)
         country = CITY_COUNTRY_OVERRIDES.get(city, country)
+        if city == "Delhi" and country == "United States":
+            city = "Delhi, Louisiana"
         hometown = hometown_label(city, country)
         grouped[hometown].append(artist_record(row, chart, rank))
 

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "metadata": {
     "artistCount": 952,
-    "hometownCount": 369,
+    "hometownCount": 370,
     "duplicateArtistsRemoved": [
       "Nat King Cole"
     ],
@@ -1698,11 +1698,29 @@
       },
       "properties": {
         "hometown": "Delhi, India",
-        "countries": "India, United States",
-        "artistCount": 4,
-        "topRank": 757,
-        "artists": "[{\"rank\":757,\"name\":\"Tim McGraw\",\"slug\":\"tim-mcgraw\",\"genre\":\"country\",\"country\":\"United States\",\"notes\":\"American country singer/actor\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null},{\"rank\":763,\"name\":\"Yo Yo Honey Singh\",\"slug\":\"yo-yo-honey-singh\",\"genre\":\"hip hop\",\"country\":\"India\",\"notes\":\"Indian rapper (Honey Singh)\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null},{\"rank\":904,\"name\":\"Vishal Mishra\",\"slug\":\"vishal-mishra\",\"genre\":\"Hindustani\",\"country\":\"India\",\"notes\":\"Indian singer-songwriter\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null},{\"rank\":942,\"name\":\"Parampara Tandon\",\"slug\":\"parampara-tandon\",\"genre\":\"Bollywood\",\"country\":\"India\",\"notes\":\"Indian playback singer\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null}]",
+        "countries": "India",
+        "artistCount": 3,
+        "topRank": 763,
+        "artists": "[{\"rank\":763,\"name\":\"Yo Yo Honey Singh\",\"slug\":\"yo-yo-honey-singh\",\"genre\":\"hip hop\",\"country\":\"India\",\"notes\":\"Indian rapper (Honey Singh)\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null},{\"rank\":904,\"name\":\"Vishal Mishra\",\"slug\":\"vishal-mishra\",\"genre\":\"Hindustani\",\"country\":\"India\",\"notes\":\"Indian singer-songwriter\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null},{\"rank\":942,\"name\":\"Parampara Tandon\",\"slug\":\"parampara-tandon\",\"genre\":\"Bollywood\",\"country\":\"India\",\"notes\":\"Indian playback singer\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null}]",
         "geocodeLabel": "Delhi, India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4931736,
+          32.4576421
+        ]
+      },
+      "properties": {
+        "hometown": "Delhi, Louisiana, United States",
+        "countries": "United States",
+        "artistCount": 1,
+        "topRank": 757,
+        "artists": "[{\"rank\":757,\"name\":\"Tim McGraw\",\"slug\":\"tim-mcgraw\",\"genre\":\"country\",\"country\":\"United States\",\"notes\":\"American country singer/actor\",\"weeksCharted\":null,\"chartedSongs\":null,\"peakPosition\":null}]",
+        "geocodeLabel": "Delhi, Richland Parish, Louisiana, United States"
       }
     },
     {
